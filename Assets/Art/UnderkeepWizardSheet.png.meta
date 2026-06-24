@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: d072f32a3c68a0f4a96e77bf1357fa1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6296645517483647605
+    second: UnderkeepWizardSheet_0
+  - first:
+      213: 122917539297540666
+    second: UnderkeepWizardSheet_1
+  - first:
+      213: -2414676300546484825
+    second: UnderkeepWizardSheet_2
+  - first:
+      213: 9036272322802637411
+    second: UnderkeepWizardSheet_3
+  - first:
+      213: 755557345402472593
+    second: UnderkeepWizardSheet_4
+  - first:
+      213: -8733964557829692920
+    second: UnderkeepWizardSheet_5
+  - first:
+      213: 6426654447108671057
+    second: UnderkeepWizardSheet_6
+  - first:
+      213: -6151510808736858889
+    second: UnderkeepWizardSheet_7
+  - first:
+      213: 8698648219391308838
+    second: UnderkeepWizardSheet_8
+  - first:
+      213: 3540598053583148974
+    second: UnderkeepWizardSheet_9
+  - first:
+      213: 3964375355977532433
+    second: UnderkeepWizardSheet_10
+  - first:
+      213: -6650934017405505737
+    second: UnderkeepWizardSheet_11
+  - first:
+      213: 5558089126534533015
+    second: UnderkeepWizardSheet_12
+  - first:
+      213: 8908506261626141827
+    second: UnderkeepWizardSheet_13
+  - first:
+      213: -517170569708521052
+    second: UnderkeepWizardSheet_14
+  - first:
+      213: -6209885353287899351
+    second: UnderkeepWizardSheet_15
+  - first:
+      213: 3899020713855761992
+    second: UnderkeepWizardSheet_16
+  - first:
+      213: 2257725148432631225
+    second: UnderkeepWizardSheet_17
+  - first:
+      213: -5170845608645286252
+    second: UnderkeepWizardSheet_18
+  - first:
+      213: 1025961870434336872
+    second: UnderkeepWizardSheet_19
+  - first:
+      213: 6462477922759072394
+    second: UnderkeepWizardSheet_20
+  - first:
+      213: 1814701749149129312
+    second: UnderkeepWizardSheet_21
+  - first:
+      213: 1315852542258543528
+    second: UnderkeepWizardSheet_22
+  - first:
+      213: -8565000628922424654
+    second: UnderkeepWizardSheet_23
+  - first:
+      213: 7653204464782606471
+    second: UnderkeepWizardSheet_24
+  - first:
+      213: 7670835720904245750
+    second: UnderkeepWizardSheet_25
+  - first:
+      213: -5486548113134829318
+    second: UnderkeepWizardSheet_26
+  - first:
+      213: -4338768722607570375
+    second: UnderkeepWizardSheet_27
+  - first:
+      213: -8054544074648202407
+    second: UnderkeepWizardSheet_28
+  - first:
+      213: 2093501145747003627
+    second: UnderkeepWizardSheet_29
+  - first:
+      213: -4219888316449406463
+    second: UnderkeepWizardSheet_30
+  - first:
+      213: -6360396411643347332
+    second: UnderkeepWizardSheet_31
+  - first:
+      213: 2975692904313534947
+    second: UnderkeepWizardSheet_32
+  - first:
+      213: -309410652219802224
+    second: UnderkeepWizardSheet_33
+  - first:
+      213: 4169049625260950858
+    second: UnderkeepWizardSheet_34
+  - first:
+      213: -2660410414148147073
+    second: UnderkeepWizardSheet_35
+  - first:
+      213: -1591250867805905456
+    second: UnderkeepWizardSheet_36
+  - first:
+      213: 7405096880389767123
+    second: UnderkeepWizardSheet_37
+  - first:
+      213: -8245494613734697127
+    second: UnderkeepWizardSheet_38
+  - first:
+      213: 7598426617063194570
+    second: UnderkeepWizardSheet_39
+  - first:
+      213: 8300543755405934674
+    second: UnderkeepWizardSheet_40
+  - first:
+      213: -8418779908210193447
+    second: UnderkeepWizardSheet_41
+  - first:
+      213: 8611983078822669414
+    second: UnderkeepWizardSheet_42
+  - first:
+      213: 7018355237322698253
+    second: UnderkeepWizardSheet_43
+  - first:
+      213: -7492448394969287802
+    second: UnderkeepWizardSheet_44
+  - first:
+      213: 4903187539404334701
+    second: UnderkeepWizardSheet_45
+  - first:
+      213: -5051314284101599036
+    second: UnderkeepWizardSheet_46
+  - first:
+      213: 4185191077640152055
+    second: UnderkeepWizardSheet_47
+  - first:
+      213: -5900371942219755222
+    second: UnderkeepWizardSheet_48
+  - first:
+      213: 7830664874886470483
+    second: UnderkeepWizardSheet_49
+  - first:
+      213: -7524178451689191
+    second: UnderkeepWizardSheet_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dd4dd4342dd98a0800000000000000
+      internalID: -6296645517483647605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3abe7ac9d0b4b100800000000000000
+      internalID: 122917539297540666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55f5ab2b85d7ed0800000000000000
+      internalID: -2414676300546484825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a58562dc9476d70800000000000000
+      internalID: 9036272322802637411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c62c07674c7a00800000000000000
+      internalID: 755557345402472593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802a5b95289bac680800000000000000
+      internalID: -8733964557829692920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c8167b20103950800000000000000
+      internalID: 6426654447108671057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7345f28171aaa0800000000000000
+      internalID: -6151510808736858889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62437e6d77ec7b870800000000000000
+      internalID: 8698648219391308838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7534cbb2bb22130800000000000000
+      internalID: 3540598053583148974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1148a51d16a440730800000000000000
+      internalID: 3964375355977532433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fabf3dfb223b3a0800000000000000
+      internalID: -6650934017405505737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4d01dc9c422d40800000000000000
+      internalID: 5558089126534533015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb193ee3f51ab70800000000000000
+      internalID: 8908506261626141827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bc306b14a2d8f0800000000000000
+      internalID: -517170569708521052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927af5d2c2e02d9a0800000000000000
+      internalID: -6209885353287899351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e334d6eaa1c1630800000000000000
+      internalID: 3899020713855761992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50bc08f0d055f10800000000000000
+      internalID: 2257725148432631225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4962f44b0577d38b0800000000000000
+      internalID: -5170845608645286252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8608558a2e2fc3e00800000000000000
+      internalID: 1025961870434336872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8adbda5e655fa950800000000000000
+      internalID: 6462477922759072394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a505b40ad1f2910800000000000000
+      internalID: 1814701749149129312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7d1e5ae8d24210800000000000000
+      internalID: 1315852542258543528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2e41cae41032980800000000000000
+      internalID: -8565000628922424654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800dcc89e4a53a60800000000000000
+      internalID: 7653204464782606471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f100e24278447a60800000000000000
+      internalID: 7670835720904245750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af042816f8ddbd3b0800000000000000
+      internalID: -5486548113134829318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328666a5d899c3c0800000000000000
+      internalID: -4338768722607570375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 126
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ddd2c6d2883090800000000000000
+      internalID: -8054544074648202407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 126
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89f11433c9d0d10800000000000000
+      internalID: 2093501145747003627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10246322fe1ff65c0800000000000000
+      internalID: -4219888316449406463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e345599255bb7a0800000000000000
+      internalID: -6360396411643347332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9324a3ee8cb4920800000000000000
+      internalID: 2975692904313534947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d77b0b6a0c4bbf0800000000000000
+      internalID: -309410652219802224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 97
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4587acab807bd930800000000000000
+      internalID: 4169049625260950858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7823f3e2d2541bd0800000000000000
+      internalID: -2660410414148147073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd95eb34cdbae9e0800000000000000
+      internalID: -1591250867805905456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 94
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3cfaf06034c660800000000000000
+      internalID: 7405096880389767123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 93
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95752f6d55e129d80800000000000000
+      internalID: -8245494613734697127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 94
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfbce100c8037960800000000000000
+      internalID: 7598426617063194570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 95
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ce8f3194713370800000000000000
+      internalID: 8300543755405934674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8fe0374c7a2b80800000000000000
+      internalID: -8418779908210193447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c66e06bf8e38770800000000000000
+      internalID: 8611983078822669414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2f1c47e4366160800000000000000
+      internalID: 7018355237322698253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f8e7a1e9750890800000000000000
+      internalID: -7492448394969287802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662151c61f9b0440800000000000000
+      internalID: 4903187539404334701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0844feb6026e9b0800000000000000
+      internalID: -5051314284101599036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f320eb6c19c41a30800000000000000
+      internalID: 4185191077640152055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a215f45eafaad1ea0800000000000000
+      internalID: -5900371942219755222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9cbe073c1cac60800000000000000
+      internalID: 7830664874886470483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardSheet_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9111920bcc445eff0800000000000000
+      internalID: -7524178451689191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eb965af0a6ee9804e829bb8c24546c1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepWizardSheet_0: -6296645517483647605
+      UnderkeepWizardSheet_1: 122917539297540666
+      UnderkeepWizardSheet_10: 3964375355977532433
+      UnderkeepWizardSheet_11: -6650934017405505737
+      UnderkeepWizardSheet_12: 5558089126534533015
+      UnderkeepWizardSheet_13: 8908506261626141827
+      UnderkeepWizardSheet_14: -517170569708521052
+      UnderkeepWizardSheet_15: -6209885353287899351
+      UnderkeepWizardSheet_16: 3899020713855761992
+      UnderkeepWizardSheet_17: 2257725148432631225
+      UnderkeepWizardSheet_18: -5170845608645286252
+      UnderkeepWizardSheet_19: 1025961870434336872
+      UnderkeepWizardSheet_2: -2414676300546484825
+      UnderkeepWizardSheet_20: 6462477922759072394
+      UnderkeepWizardSheet_21: 1814701749149129312
+      UnderkeepWizardSheet_22: 1315852542258543528
+      UnderkeepWizardSheet_23: -8565000628922424654
+      UnderkeepWizardSheet_24: 7653204464782606471
+      UnderkeepWizardSheet_25: 7670835720904245750
+      UnderkeepWizardSheet_26: -5486548113134829318
+      UnderkeepWizardSheet_27: -4338768722607570375
+      UnderkeepWizardSheet_28: -8054544074648202407
+      UnderkeepWizardSheet_29: 2093501145747003627
+      UnderkeepWizardSheet_3: 9036272322802637411
+      UnderkeepWizardSheet_30: -4219888316449406463
+      UnderkeepWizardSheet_31: -6360396411643347332
+      UnderkeepWizardSheet_32: 2975692904313534947
+      UnderkeepWizardSheet_33: -309410652219802224
+      UnderkeepWizardSheet_34: 4169049625260950858
+      UnderkeepWizardSheet_35: -2660410414148147073
+      UnderkeepWizardSheet_36: -1591250867805905456
+      UnderkeepWizardSheet_37: 7405096880389767123
+      UnderkeepWizardSheet_38: -8245494613734697127
+      UnderkeepWizardSheet_39: 7598426617063194570
+      UnderkeepWizardSheet_4: 755557345402472593
+      UnderkeepWizardSheet_40: 8300543755405934674
+      UnderkeepWizardSheet_41: -8418779908210193447
+      UnderkeepWizardSheet_42: 8611983078822669414
+      UnderkeepWizardSheet_43: 7018355237322698253
+      UnderkeepWizardSheet_44: -7492448394969287802
+      UnderkeepWizardSheet_45: 4903187539404334701
+      UnderkeepWizardSheet_46: -5051314284101599036
+      UnderkeepWizardSheet_47: 4185191077640152055
+      UnderkeepWizardSheet_48: -5900371942219755222
+      UnderkeepWizardSheet_49: 7830664874886470483
+      UnderkeepWizardSheet_5: -8733964557829692920
+      UnderkeepWizardSheet_50: -7524178451689191
+      UnderkeepWizardSheet_6: 6426654447108671057
+      UnderkeepWizardSheet_7: -6151510808736858889
+      UnderkeepWizardSheet_8: 8698648219391308838
+      UnderkeepWizardSheet_9: 3540598053583148974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 7841156eb0d4d7b418f5423d8c1c5aca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3761658887625648864
+    second: UnderkeepSlimeBoss-sheet_0
+  - first:
+      213: 209683686202348419
+    second: UnderkeepSlimeBoss-sheet_1
+  - first:
+      213: 2852109634872290207
+    second: UnderkeepSlimeBoss-sheet_2
+  - first:
+      213: -458995561024822194
+    second: UnderkeepSlimeBoss-sheet_3
+  - first:
+      213: 3860267724816235103
+    second: UnderkeepSlimeBoss-sheet_4
+  - first:
+      213: 9018908429559811118
+    second: UnderkeepSlimeBoss-sheet_5
+  - first:
+      213: -6078930979539093344
+    second: UnderkeepSlimeBoss-sheet_6
+  - first:
+      213: 3385633152981217501
+    second: UnderkeepSlimeBoss-sheet_7
+  - first:
+      213: -8076070820370682931
+    second: UnderkeepSlimeBoss-sheet_8
+  - first:
+      213: -2244708890932282699
+    second: UnderkeepSlimeBoss-sheet_9
+  - first:
+      213: -4846494913679139278
+    second: UnderkeepSlimeBoss-sheet_10
+  - first:
+      213: -3301570766015192109
+    second: UnderkeepSlimeBoss-sheet_11
+  - first:
+      213: -6806486693959106017
+    second: UnderkeepSlimeBoss-sheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 197
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d1ecfb27ebcbc0800000000000000
+      internalID: -3761658887625648864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383194f9332f8e200800000000000000
+      internalID: 209683686202348419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 198
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b280f0a9ab49720800000000000000
+      internalID: 2852109634872290207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4462a718f151a9f0800000000000000
+      internalID: -458995561024822194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ab39b0b0d629530800000000000000
+      internalID: 3860267724816235103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c40b5be69992d70800000000000000
+      internalID: 9018908429559811118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 134
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8747e4b7c43aba0800000000000000
+      internalID: -6078930979539093344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 134
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03b3f2a6f2cfe20800000000000000
+      internalID: 3385633152981217501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb68e2b0680cef80800000000000000
+      internalID: -8076070820370682931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf1db182139d0e0800000000000000
+      internalID: -2244708890932282699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 70
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eda68cd8acdbcb0800000000000000
+      internalID: -4846494913679139278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a9da71e67e22d0800000000000000
+      internalID: -3301570766015192109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSlimeBoss-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1205260a608a81a0800000000000000
+      internalID: -6806486693959106017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepSlimeBoss-sheet_0: -3761658887625648864
+      UnderkeepSlimeBoss-sheet_1: 209683686202348419
+      UnderkeepSlimeBoss-sheet_10: -4846494913679139278
+      UnderkeepSlimeBoss-sheet_11: -3301570766015192109
+      UnderkeepSlimeBoss-sheet_12: -6806486693959106017
+      UnderkeepSlimeBoss-sheet_2: 2852109634872290207
+      UnderkeepSlimeBoss-sheet_3: -458995561024822194
+      UnderkeepSlimeBoss-sheet_4: 3860267724816235103
+      UnderkeepSlimeBoss-sheet_5: 9018908429559811118
+      UnderkeepSlimeBoss-sheet_6: -6078930979539093344
+      UnderkeepSlimeBoss-sheet_7: 3385633152981217501
+      UnderkeepSlimeBoss-sheet_8: -8076070820370682931
+      UnderkeepSlimeBoss-sheet_9: -2244708890932282699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

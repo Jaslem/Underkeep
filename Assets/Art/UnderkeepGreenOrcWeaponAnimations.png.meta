@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: 9eefe5d24b497f24aa11a87f2f269521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2363342441952851996
+    second: UnderkeepGreenOrcWeaponAnimations_0
+  - first:
+      213: 5550284793803281242
+    second: UnderkeepGreenOrcWeaponAnimations_1
+  - first:
+      213: -2223243579226841665
+    second: UnderkeepGreenOrcWeaponAnimations_2
+  - first:
+      213: -1918110902794944985
+    second: UnderkeepGreenOrcWeaponAnimations_3
+  - first:
+      213: 1136001244596897072
+    second: UnderkeepGreenOrcWeaponAnimations_4
+  - first:
+      213: 8554164434772352606
+    second: UnderkeepGreenOrcWeaponAnimations_5
+  - first:
+      213: -969975786141921705
+    second: UnderkeepGreenOrcWeaponAnimations_6
+  - first:
+      213: 3120924175433367005
+    second: UnderkeepGreenOrcWeaponAnimations_7
+  - first:
+      213: 6964454200313730834
+    second: UnderkeepGreenOrcWeaponAnimations_8
+  - first:
+      213: 1718953260267820182
+    second: UnderkeepGreenOrcWeaponAnimations_9
+  - first:
+      213: -6378380490161104510
+    second: UnderkeepGreenOrcWeaponAnimations_10
+  - first:
+      213: -24664546106744690
+    second: UnderkeepGreenOrcWeaponAnimations_11
+  - first:
+      213: 8385007340382459490
+    second: UnderkeepGreenOrcWeaponAnimations_12
+  - first:
+      213: -542894019613319861
+    second: UnderkeepGreenOrcWeaponAnimations_13
+  - first:
+      213: -3106703120403258599
+    second: UnderkeepGreenOrcWeaponAnimations_14
+  - first:
+      213: -2773476402371943738
+    second: UnderkeepGreenOrcWeaponAnimations_15
+  - first:
+      213: 1184680251156088669
+    second: UnderkeepGreenOrcWeaponAnimations_16
+  - first:
+      213: 3977586338952352620
+    second: UnderkeepGreenOrcWeaponAnimations_17
+  - first:
+      213: -7619344649248584028
+    second: UnderkeepGreenOrcWeaponAnimations_18
+  - first:
+      213: -2415709975369679975
+    second: UnderkeepGreenOrcWeaponAnimations_19
+  - first:
+      213: 6643163887729951918
+    second: UnderkeepGreenOrcWeaponAnimations_20
+  - first:
+      213: 6774870838181444461
+    second: UnderkeepGreenOrcWeaponAnimations_21
+  - first:
+      213: -8060642740418511055
+    second: UnderkeepGreenOrcWeaponAnimations_22
+  - first:
+      213: 4218677621865147954
+    second: UnderkeepGreenOrcWeaponAnimations_23
+  - first:
+      213: 6186113565843801052
+    second: UnderkeepGreenOrcWeaponAnimations_24
+  - first:
+      213: -7609031402156480632
+    second: UnderkeepGreenOrcWeaponAnimations_25
+  - first:
+      213: 3664587994875139520
+    second: UnderkeepGreenOrcWeaponAnimations_26
+  - first:
+      213: 8100515098302116327
+    second: UnderkeepGreenOrcWeaponAnimations_27
+  - first:
+      213: -7686588560113223356
+    second: UnderkeepGreenOrcWeaponAnimations_28
+  - first:
+      213: 8463543214642119209
+    second: UnderkeepGreenOrcWeaponAnimations_29
+  - first:
+      213: -1931902168430217368
+    second: UnderkeepGreenOrcWeaponAnimations_30
+  - first:
+      213: 4807877085186105569
+    second: UnderkeepGreenOrcWeaponAnimations_31
+  - first:
+      213: 4391657232683704506
+    second: UnderkeepGreenOrcWeaponAnimations_32
+  - first:
+      213: -3240213859032918270
+    second: UnderkeepGreenOrcWeaponAnimations_33
+  - first:
+      213: -2888351862540535504
+    second: UnderkeepGreenOrcWeaponAnimations_34
+  - first:
+      213: 6859426798423256404
+    second: UnderkeepGreenOrcWeaponAnimations_35
+  - first:
+      213: 2042833528935397362
+    second: UnderkeepGreenOrcWeaponAnimations_36
+  - first:
+      213: 626171997383243798
+    second: UnderkeepGreenOrcWeaponAnimations_37
+  - first:
+      213: -2373366054264379301
+    second: UnderkeepGreenOrcWeaponAnimations_38
+  - first:
+      213: 7682134829876081358
+    second: UnderkeepGreenOrcWeaponAnimations_39
+  - first:
+      213: 1632954818741553881
+    second: UnderkeepGreenOrcWeaponAnimations_40
+  - first:
+      213: 2347591682568429441
+    second: UnderkeepGreenOrcWeaponAnimations_41
+  - first:
+      213: -2934653362749379162
+    second: UnderkeepGreenOrcWeaponAnimations_42
+  - first:
+      213: 5377973469355814726
+    second: UnderkeepGreenOrcWeaponAnimations_43
+  - first:
+      213: 7510505010540598641
+    second: UnderkeepGreenOrcWeaponAnimations_44
+  - first:
+      213: -5444150622870156816
+    second: UnderkeepGreenOrcWeaponAnimations_45
+  - first:
+      213: 7486805897112772340
+    second: UnderkeepGreenOrcWeaponAnimations_46
+  - first:
+      213: -1797143456184258832
+    second: UnderkeepGreenOrcWeaponAnimations_47
+  - first:
+      213: 8723567834767861281
+    second: UnderkeepGreenOrcWeaponAnimations_48
+  - first:
+      213: -3375162069101863055
+    second: UnderkeepGreenOrcWeaponAnimations_49
+  - first:
+      213: 426199075364340860
+    second: UnderkeepGreenOrcWeaponAnimations_50
+  - first:
+      213: -5694518960730073254
+    second: UnderkeepGreenOrcWeaponAnimations_51
+  - first:
+      213: 1152771040486114615
+    second: UnderkeepGreenOrcWeaponAnimations_52
+  - first:
+      213: -1752470728710333520
+    second: UnderkeepGreenOrcWeaponAnimations_53
+  - first:
+      213: -3934079455811561159
+    second: UnderkeepGreenOrcWeaponAnimations_54
+  - first:
+      213: -7005894867767275586
+    second: UnderkeepGreenOrcWeaponAnimations_55
+  - first:
+      213: -6529361335910439843
+    second: UnderkeepGreenOrcWeaponAnimations_56
+  - first:
+      213: -5643689496020169236
+    second: UnderkeepGreenOrcWeaponAnimations_57
+  - first:
+      213: -6600818948947356485
+    second: UnderkeepGreenOrcWeaponAnimations_58
+  - first:
+      213: -3384107608421976243
+    second: UnderkeepGreenOrcWeaponAnimations_59
+  - first:
+      213: -2103880160217169528
+    second: UnderkeepGreenOrcWeaponAnimations_60
+  - first:
+      213: -1831958928062275369
+    second: UnderkeepGreenOrcWeaponAnimations_61
+  - first:
+      213: -4504562058066065469
+    second: UnderkeepGreenOrcWeaponAnimations_62
+  - first:
+      213: 4313456266000566847
+    second: UnderkeepGreenOrcWeaponAnimations_63
+  - first:
+      213: 8871666653402386408
+    second: UnderkeepGreenOrcWeaponAnimations_64
+  - first:
+      213: 5915097810546205218
+    second: UnderkeepGreenOrcWeaponAnimations_65
+  - first:
+      213: 4736750773737479257
+    second: UnderkeepGreenOrcWeaponAnimations_66
+  - first:
+      213: 7818478739547121763
+    second: UnderkeepGreenOrcWeaponAnimations_67
+  - first:
+      213: 3755443603050694662
+    second: UnderkeepGreenOrcWeaponAnimations_68
+  - first:
+      213: -7403709915434289743
+    second: UnderkeepGreenOrcWeaponAnimations_69
+  - first:
+      213: 273232502305701374
+    second: UnderkeepGreenOrcWeaponAnimations_70
+  - first:
+      213: -6817946663856062155
+    second: UnderkeepGreenOrcWeaponAnimations_71
+  - first:
+      213: -6812835018674334005
+    second: UnderkeepGreenOrcWeaponAnimations_72
+  - first:
+      213: 5331709864623782087
+    second: UnderkeepGreenOrcWeaponAnimations_73
+  - first:
+      213: 7659371777344431599
+    second: UnderkeepGreenOrcWeaponAnimations_74
+  - first:
+      213: -7530907917859455652
+    second: UnderkeepGreenOrcWeaponAnimations_75
+  - first:
+      213: 8427948242666752599
+    second: UnderkeepGreenOrcWeaponAnimations_76
+  - first:
+      213: -6871048477330386940
+    second: UnderkeepGreenOrcWeaponAnimations_77
+  - first:
+      213: 8261141440914535890
+    second: UnderkeepGreenOrcWeaponAnimations_78
+  - first:
+      213: 6645811829753844744
+    second: UnderkeepGreenOrcWeaponAnimations_79
+  - first:
+      213: 6985652611518452569
+    second: UnderkeepGreenOrcWeaponAnimations_80
+  - first:
+      213: -4707184744555508990
+    second: UnderkeepGreenOrcWeaponAnimations_81
+  - first:
+      213: -8403832285570135984
+    second: UnderkeepGreenOrcWeaponAnimations_82
+  - first:
+      213: -1877469204406074557
+    second: UnderkeepGreenOrcWeaponAnimations_83
+  - first:
+      213: 634042741906951510
+    second: UnderkeepGreenOrcWeaponAnimations_84
+  - first:
+      213: -1086131097561260887
+    second: UnderkeepGreenOrcWeaponAnimations_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7cbc01298b33fd0800000000000000
+      internalID: -2363342441952851996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5395e00d92960d40800000000000000
+      internalID: 5550284793803281242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd14037eb37521e0800000000000000
+      internalID: -2223243579226841665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7a17eb408165e0800000000000000
+      internalID: -1918110902794944985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358998fc13e3cf00800000000000000
+      internalID: 1136001244596897072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed2e44b3f76b670800000000000000
+      internalID: 8554164434772352606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec7426924f982f0800000000000000
+      internalID: -969975786141921705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd72af8000cf4b20800000000000000
+      internalID: 3120924175433367005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175d282236b6a060800000000000000
+      internalID: 6964454200313730834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69453cff1e2fad710800000000000000
+      internalID: 1718953260267820182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895aa10db07b77a0800000000000000
+      internalID: -6378380490161104510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e2cad9bf58aff0800000000000000
+      internalID: -24664546106744690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661a8a10c78d5470800000000000000
+      internalID: 8385007340382459490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d934af3c04778f0800000000000000
+      internalID: -542894019613319861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91324c5d8f5c2e4d0800000000000000
+      internalID: -3106703120403258599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c221b318e1a289d0800000000000000
+      internalID: -2773476402371943738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5744966964d07010800000000000000
+      internalID: 1184680251156088669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6393bc73b9333730800000000000000
+      internalID: 3977586338952352620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec3481966a24690800000000000000
+      internalID: -7619344649248584028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf8bd839ca97ed0800000000000000
+      internalID: -2415709975369679975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c8d0eb52413c50800000000000000
+      internalID: 6643163887729951918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b35fce12d250e50800000000000000
+      internalID: 6774870838181444461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 559
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887abad014a476690800000000000000
+      internalID: -7609031402156480632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c591b29d5b3bd230800000000000000
+      internalID: 3664587994875139520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e17cf3409fca6070800000000000000
+      internalID: 8100515098302116327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449bedb0e60c35590800000000000000
+      internalID: -7686588560113223356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92249e146bb847570800000000000000
+      internalID: 8463543214642119209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867f8e5a6318035e0800000000000000
+      internalID: -1931902168430217368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0224a5cb209b240800000000000000
+      internalID: 4807877085186105569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab023613cfc42fc30800000000000000
+      internalID: 4391657232683704506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079b00a9a27803d0800000000000000
+      internalID: -3240213859032918270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039feeeb8438ae7d0800000000000000
+      internalID: -2888351862540535504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d20d29454913f50800000000000000
+      internalID: 6859426798423256404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b37b654a995c10800000000000000
+      internalID: 2042833528935397362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61833503d1c90b800800000000000000
+      internalID: 626171997383243798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e995f52c101fd0800000000000000
+      internalID: -2373366054264379301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27b631dec6c9a60800000000000000
+      internalID: 7682134829876081358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4a5181cb69a610800000000000000
+      internalID: 1632954818741553881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f172d7232549020800000000000000
+      internalID: 2347591682568429441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adea66a0540647d0800000000000000
+      internalID: -2934653362749379162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fad6c606662aa40800000000000000
+      internalID: 5377973469355814726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755015c38caa3860800000000000000
+      internalID: 7510505010540598641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94a145add7274b0800000000000000
+      internalID: -5444150622870156816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed4bfeb4a76e760800000000000000
+      internalID: 7486805897112772340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ac5de9b6501970800000000000000
+      internalID: 8723567834767861281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f9fc30bf30921d0800000000000000
+      internalID: -3375162069101863055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7401ba0dc92ae500800000000000000
+      internalID: 426199075364340860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5715f21d2109f0b0800000000000000
+      internalID: -5694518960730073254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb53ff3829fda7e0800000000000000
+      internalID: -1752470728710333520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfcff09cbf06ce90800000000000000
+      internalID: -7005894867767275586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4d1f0e469da1b0800000000000000
+      internalID: -5643689496020169236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45359732e2564a0800000000000000
+      internalID: -6600818948947356485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47bf465f0c3901d0800000000000000
+      internalID: -3384107608421976243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02eb1af039396e0800000000000000
+      internalID: -1831958928062275369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8529ce997cdb30800000000000000
+      internalID: 4313456266000566847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4ab131dd7e1b70800000000000000
+      internalID: 8871666653402386408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222c418e16a61250800000000000000
+      internalID: 5915097810546205218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cdd2a7bb15cb140800000000000000
+      internalID: 4736750773737479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36866a25df0d08c60800000000000000
+      internalID: 7818478739547121763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57086fe0db04990800000000000000
+      internalID: -7403709915434289743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb5016387bac300800000000000000
+      internalID: 273232502305701374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531cc4bd1a9c161a0800000000000000
+      internalID: -6817946663856062155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6139e75a2f371a0800000000000000
+      internalID: -6812835018674334005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 151
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe56447ec0e8b4a60800000000000000
+      internalID: 7659371777344431599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 151
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a8785064616f470800000000000000
+      internalID: 8427948242666752599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d538f00f5875a270800000000000000
+      internalID: 8261141440914535890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804119ce5aaaa3c50800000000000000
+      internalID: 6645811829753844744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95356d1e90602f060800000000000000
+      internalID: 6985652611518452569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 102
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05802aacf079f5b80800000000000000
+      internalID: -8403832285570135984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGreenOrcWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d47c3b3829cc800800000000000000
+      internalID: 634042741906951510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6abfffcbe4e9ab4184ac802d98dc570
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepGreenOrcWeaponAnimations_0: -2363342441952851996
+      UnderkeepGreenOrcWeaponAnimations_1: 5550284793803281242
+      UnderkeepGreenOrcWeaponAnimations_10: -6378380490161104510
+      UnderkeepGreenOrcWeaponAnimations_11: -24664546106744690
+      UnderkeepGreenOrcWeaponAnimations_12: 8385007340382459490
+      UnderkeepGreenOrcWeaponAnimations_13: -542894019613319861
+      UnderkeepGreenOrcWeaponAnimations_14: -3106703120403258599
+      UnderkeepGreenOrcWeaponAnimations_15: -2773476402371943738
+      UnderkeepGreenOrcWeaponAnimations_16: 1184680251156088669
+      UnderkeepGreenOrcWeaponAnimations_17: 3977586338952352620
+      UnderkeepGreenOrcWeaponAnimations_18: -7619344649248584028
+      UnderkeepGreenOrcWeaponAnimations_19: -2415709975369679975
+      UnderkeepGreenOrcWeaponAnimations_2: -2223243579226841665
+      UnderkeepGreenOrcWeaponAnimations_20: 6643163887729951918
+      UnderkeepGreenOrcWeaponAnimations_21: 6774870838181444461
+      UnderkeepGreenOrcWeaponAnimations_22: -8060642740418511055
+      UnderkeepGreenOrcWeaponAnimations_23: 4218677621865147954
+      UnderkeepGreenOrcWeaponAnimations_24: 6186113565843801052
+      UnderkeepGreenOrcWeaponAnimations_25: -7609031402156480632
+      UnderkeepGreenOrcWeaponAnimations_26: 3664587994875139520
+      UnderkeepGreenOrcWeaponAnimations_27: 8100515098302116327
+      UnderkeepGreenOrcWeaponAnimations_28: -7686588560113223356
+      UnderkeepGreenOrcWeaponAnimations_29: 8463543214642119209
+      UnderkeepGreenOrcWeaponAnimations_3: -1918110902794944985
+      UnderkeepGreenOrcWeaponAnimations_30: -1931902168430217368
+      UnderkeepGreenOrcWeaponAnimations_31: 4807877085186105569
+      UnderkeepGreenOrcWeaponAnimations_32: 4391657232683704506
+      UnderkeepGreenOrcWeaponAnimations_33: -3240213859032918270
+      UnderkeepGreenOrcWeaponAnimations_34: -2888351862540535504
+      UnderkeepGreenOrcWeaponAnimations_35: 6859426798423256404
+      UnderkeepGreenOrcWeaponAnimations_36: 2042833528935397362
+      UnderkeepGreenOrcWeaponAnimations_37: 626171997383243798
+      UnderkeepGreenOrcWeaponAnimations_38: -2373366054264379301
+      UnderkeepGreenOrcWeaponAnimations_39: 7682134829876081358
+      UnderkeepGreenOrcWeaponAnimations_4: 1136001244596897072
+      UnderkeepGreenOrcWeaponAnimations_40: 1632954818741553881
+      UnderkeepGreenOrcWeaponAnimations_41: 2347591682568429441
+      UnderkeepGreenOrcWeaponAnimations_42: -2934653362749379162
+      UnderkeepGreenOrcWeaponAnimations_43: 5377973469355814726
+      UnderkeepGreenOrcWeaponAnimations_44: 7510505010540598641
+      UnderkeepGreenOrcWeaponAnimations_45: -5444150622870156816
+      UnderkeepGreenOrcWeaponAnimations_46: 7486805897112772340
+      UnderkeepGreenOrcWeaponAnimations_47: -1797143456184258832
+      UnderkeepGreenOrcWeaponAnimations_48: 8723567834767861281
+      UnderkeepGreenOrcWeaponAnimations_49: -3375162069101863055
+      UnderkeepGreenOrcWeaponAnimations_5: 8554164434772352606
+      UnderkeepGreenOrcWeaponAnimations_50: 426199075364340860
+      UnderkeepGreenOrcWeaponAnimations_51: -5694518960730073254
+      UnderkeepGreenOrcWeaponAnimations_52: 1152771040486114615
+      UnderkeepGreenOrcWeaponAnimations_53: -1752470728710333520
+      UnderkeepGreenOrcWeaponAnimations_54: -3934079455811561159
+      UnderkeepGreenOrcWeaponAnimations_55: -7005894867767275586
+      UnderkeepGreenOrcWeaponAnimations_56: -6529361335910439843
+      UnderkeepGreenOrcWeaponAnimations_57: -5643689496020169236
+      UnderkeepGreenOrcWeaponAnimations_58: -6600818948947356485
+      UnderkeepGreenOrcWeaponAnimations_59: -3384107608421976243
+      UnderkeepGreenOrcWeaponAnimations_6: -969975786141921705
+      UnderkeepGreenOrcWeaponAnimations_60: -2103880160217169528
+      UnderkeepGreenOrcWeaponAnimations_61: -1831958928062275369
+      UnderkeepGreenOrcWeaponAnimations_62: -4504562058066065469
+      UnderkeepGreenOrcWeaponAnimations_63: 4313456266000566847
+      UnderkeepGreenOrcWeaponAnimations_64: 8871666653402386408
+      UnderkeepGreenOrcWeaponAnimations_65: 5915097810546205218
+      UnderkeepGreenOrcWeaponAnimations_66: 4736750773737479257
+      UnderkeepGreenOrcWeaponAnimations_67: 7818478739547121763
+      UnderkeepGreenOrcWeaponAnimations_68: 3755443603050694662
+      UnderkeepGreenOrcWeaponAnimations_69: -7403709915434289743
+      UnderkeepGreenOrcWeaponAnimations_7: 3120924175433367005
+      UnderkeepGreenOrcWeaponAnimations_70: 273232502305701374
+      UnderkeepGreenOrcWeaponAnimations_71: -6817946663856062155
+      UnderkeepGreenOrcWeaponAnimations_72: -6812835018674334005
+      UnderkeepGreenOrcWeaponAnimations_73: 5331709864623782087
+      UnderkeepGreenOrcWeaponAnimations_74: 7659371777344431599
+      UnderkeepGreenOrcWeaponAnimations_75: -7530907917859455652
+      UnderkeepGreenOrcWeaponAnimations_76: 8427948242666752599
+      UnderkeepGreenOrcWeaponAnimations_77: -6871048477330386940
+      UnderkeepGreenOrcWeaponAnimations_78: 8261141440914535890
+      UnderkeepGreenOrcWeaponAnimations_79: 6645811829753844744
+      UnderkeepGreenOrcWeaponAnimations_8: 6964454200313730834
+      UnderkeepGreenOrcWeaponAnimations_80: 6985652611518452569
+      UnderkeepGreenOrcWeaponAnimations_81: -4707184744555508990
+      UnderkeepGreenOrcWeaponAnimations_82: -8403832285570135984
+      UnderkeepGreenOrcWeaponAnimations_83: -1877469204406074557
+      UnderkeepGreenOrcWeaponAnimations_84: 634042741906951510
+      UnderkeepGreenOrcWeaponAnimations_85: -1086131097561260887
+      UnderkeepGreenOrcWeaponAnimations_9: 1718953260267820182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

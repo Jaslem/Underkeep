@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: de54a3a3647a37648ace5b95faf357e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 568834915090429740
+    second: UnderkeepRogueWeaponAnimations_0
+  - first:
+      213: 3797730909090707835
+    second: UnderkeepRogueWeaponAnimations_1
+  - first:
+      213: 1277949073700370776
+    second: UnderkeepRogueWeaponAnimations_2
+  - first:
+      213: 1336030834496666257
+    second: UnderkeepRogueWeaponAnimations_3
+  - first:
+      213: -3734229901078144118
+    second: UnderkeepRogueWeaponAnimations_4
+  - first:
+      213: 3598782401288574623
+    second: UnderkeepRogueWeaponAnimations_5
+  - first:
+      213: -2018525541107578277
+    second: UnderkeepRogueWeaponAnimations_6
+  - first:
+      213: 5509280955597026824
+    second: UnderkeepRogueWeaponAnimations_7
+  - first:
+      213: 4661716424047165128
+    second: UnderkeepRogueWeaponAnimations_8
+  - first:
+      213: -2496293537680311926
+    second: UnderkeepRogueWeaponAnimations_9
+  - first:
+      213: 7191833926215669356
+    second: UnderkeepRogueWeaponAnimations_10
+  - first:
+      213: -8552914275361638994
+    second: UnderkeepRogueWeaponAnimations_11
+  - first:
+      213: 6956055206617106557
+    second: UnderkeepRogueWeaponAnimations_12
+  - first:
+      213: -9094865367300549180
+    second: UnderkeepRogueWeaponAnimations_13
+  - first:
+      213: -1955551894772000137
+    second: UnderkeepRogueWeaponAnimations_14
+  - first:
+      213: 8500361412088600512
+    second: UnderkeepRogueWeaponAnimations_15
+  - first:
+      213: 224863353629257686
+    second: UnderkeepRogueWeaponAnimations_16
+  - first:
+      213: -6336536817582032533
+    second: UnderkeepRogueWeaponAnimations_17
+  - first:
+      213: -444826355276960866
+    second: UnderkeepRogueWeaponAnimations_18
+  - first:
+      213: 4256262412443508275
+    second: UnderkeepRogueWeaponAnimations_19
+  - first:
+      213: -6364974860478707184
+    second: UnderkeepRogueWeaponAnimations_20
+  - first:
+      213: -2503202144393887051
+    second: UnderkeepRogueWeaponAnimations_21
+  - first:
+      213: 7196367311074499759
+    second: UnderkeepRogueWeaponAnimations_22
+  - first:
+      213: -1442983459059678647
+    second: UnderkeepRogueWeaponAnimations_23
+  - first:
+      213: 2954341309488212772
+    second: UnderkeepRogueWeaponAnimations_24
+  - first:
+      213: 6436212414051268384
+    second: UnderkeepRogueWeaponAnimations_25
+  - first:
+      213: 4410983007839464049
+    second: UnderkeepRogueWeaponAnimations_26
+  - first:
+      213: -7806093412683669692
+    second: UnderkeepRogueWeaponAnimations_27
+  - first:
+      213: -5753972619461922894
+    second: UnderkeepRogueWeaponAnimations_28
+  - first:
+      213: -3309016602609335761
+    second: UnderkeepRogueWeaponAnimations_29
+  - first:
+      213: 7035373334875844842
+    second: UnderkeepRogueWeaponAnimations_30
+  - first:
+      213: 2668468712737884742
+    second: UnderkeepRogueWeaponAnimations_31
+  - first:
+      213: 6553078303490493803
+    second: UnderkeepRogueWeaponAnimations_32
+  - first:
+      213: 725270110279203885
+    second: UnderkeepRogueWeaponAnimations_33
+  - first:
+      213: -1773206919251523556
+    second: UnderkeepRogueWeaponAnimations_34
+  - first:
+      213: -266272790004144069
+    second: UnderkeepRogueWeaponAnimations_35
+  - first:
+      213: 9156537478048442104
+    second: UnderkeepRogueWeaponAnimations_36
+  - first:
+      213: -6868708478507626254
+    second: UnderkeepRogueWeaponAnimations_37
+  - first:
+      213: -2225284858198482517
+    second: UnderkeepRogueWeaponAnimations_38
+  - first:
+      213: -9164670607270753907
+    second: UnderkeepRogueWeaponAnimations_39
+  - first:
+      213: 8735478191562661084
+    second: UnderkeepRogueWeaponAnimations_40
+  - first:
+      213: -3407398843672260304
+    second: UnderkeepRogueWeaponAnimations_41
+  - first:
+      213: 2439850826342729450
+    second: UnderkeepRogueWeaponAnimations_42
+  - first:
+      213: -979177897059744955
+    second: UnderkeepRogueWeaponAnimations_43
+  - first:
+      213: -1758023650493477917
+    second: UnderkeepRogueWeaponAnimations_44
+  - first:
+      213: 4479033959681309420
+    second: UnderkeepRogueWeaponAnimations_45
+  - first:
+      213: -5364685133958999897
+    second: UnderkeepRogueWeaponAnimations_46
+  - first:
+      213: -2597577518490181806
+    second: UnderkeepRogueWeaponAnimations_47
+  - first:
+      213: 817143203486886538
+    second: UnderkeepRogueWeaponAnimations_48
+  - first:
+      213: 7212408513934693984
+    second: UnderkeepRogueWeaponAnimations_49
+  - first:
+      213: 7763642306913809334
+    second: UnderkeepRogueWeaponAnimations_50
+  - first:
+      213: 6687467451465881920
+    second: UnderkeepRogueWeaponAnimations_51
+  - first:
+      213: -6435305973466788473
+    second: UnderkeepRogueWeaponAnimations_52
+  - first:
+      213: 782702076310988625
+    second: UnderkeepRogueWeaponAnimations_53
+  - first:
+      213: -5560113499410695488
+    second: UnderkeepRogueWeaponAnimations_54
+  - first:
+      213: -3308386534438610525
+    second: UnderkeepRogueWeaponAnimations_55
+  - first:
+      213: -8838003355834418629
+    second: UnderkeepRogueWeaponAnimations_56
+  - first:
+      213: 2173907314198137763
+    second: UnderkeepRogueWeaponAnimations_57
+  - first:
+      213: 1543550162203093886
+    second: UnderkeepRogueWeaponAnimations_58
+  - first:
+      213: 7722032115626483270
+    second: UnderkeepRogueWeaponAnimations_59
+  - first:
+      213: -3101935363190535408
+    second: UnderkeepRogueWeaponAnimations_60
+  - first:
+      213: -3148714754906789616
+    second: UnderkeepRogueWeaponAnimations_61
+  - first:
+      213: 1882091128726321552
+    second: UnderkeepRogueWeaponAnimations_62
+  - first:
+      213: -8432144473102033461
+    second: UnderkeepRogueWeaponAnimations_63
+  - first:
+      213: 6719327163169541477
+    second: UnderkeepRogueWeaponAnimations_64
+  - first:
+      213: 7170089313552125723
+    second: UnderkeepRogueWeaponAnimations_65
+  - first:
+      213: -6373191883677555167
+    second: UnderkeepRogueWeaponAnimations_66
+  - first:
+      213: 5693729896370827531
+    second: UnderkeepRogueWeaponAnimations_67
+  - first:
+      213: 2183165198577154901
+    second: UnderkeepRogueWeaponAnimations_68
+  - first:
+      213: 4665757442525315439
+    second: UnderkeepRogueWeaponAnimations_69
+  - first:
+      213: -587956784055010227
+    second: UnderkeepRogueWeaponAnimations_70
+  - first:
+      213: -8728534591560222932
+    second: UnderkeepRogueWeaponAnimations_71
+  - first:
+      213: 1006182080497629981
+    second: UnderkeepRogueWeaponAnimations_72
+  - first:
+      213: -646594761116130571
+    second: UnderkeepRogueWeaponAnimations_73
+  - first:
+      213: 2279469434795852386
+    second: UnderkeepRogueWeaponAnimations_74
+  - first:
+      213: 665922566609840442
+    second: UnderkeepRogueWeaponAnimations_75
+  - first:
+      213: -2811272474965031628
+    second: UnderkeepRogueWeaponAnimations_76
+  - first:
+      213: -2807318283423002212
+    second: UnderkeepRogueWeaponAnimations_77
+  - first:
+      213: -3531520415560822157
+    second: UnderkeepRogueWeaponAnimations_78
+  - first:
+      213: 5069724042661037340
+    second: UnderkeepRogueWeaponAnimations_79
+  - first:
+      213: 8833320679613658640
+    second: UnderkeepRogueWeaponAnimations_80
+  - first:
+      213: -624927297863113251
+    second: UnderkeepRogueWeaponAnimations_81
+  - first:
+      213: -7281204092336173233
+    second: UnderkeepRogueWeaponAnimations_82
+  - first:
+      213: 1670250770779495315
+    second: UnderkeepRogueWeaponAnimations_83
+  - first:
+      213: -527681913445710776
+    second: UnderkeepRogueWeaponAnimations_84
+  - first:
+      213: -1227171406802032356
+    second: UnderkeepRogueWeaponAnimations_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27fdc96758e4e700800000000000000
+      internalID: 568834915090429740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b797fdcf32044b430800000000000000
+      internalID: 3797730909090707835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85933f269ef2cb110800000000000000
+      internalID: 1277949073700370776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a742327f88a8210800000000000000
+      internalID: 1336030834496666257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b589490b95d2cc0800000000000000
+      internalID: -3734229901078144118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969bbcd68171f130800000000000000
+      internalID: 3598782401288574623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aca3807b1ccf3e0800000000000000
+      internalID: -2018525541107578277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8067f26f6d5e47c40800000000000000
+      internalID: 5509280955597026824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce7fea836eb1b040800000000000000
+      internalID: 4661716424047165128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89367fd0426b5dd0800000000000000
+      internalID: -2496293537680311926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6610b71ad68ec360800000000000000
+      internalID: 7191833926215669356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b3b628c1fd4980800000000000000
+      internalID: -8552914275361638994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784b6c0b5fd88060800000000000000
+      internalID: 6956055206617106557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c55c06922c88c180800000000000000
+      internalID: -9094865367300549180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ad544a9eb7cd4e0800000000000000
+      internalID: -1955551894772000137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79afddaa957f570800000000000000
+      internalID: 8500361412088600512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df231c5700ee1300800000000000000
+      internalID: 224863353629257686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b6d936591018a0800000000000000
+      internalID: -6336536817582032533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2cf269c8a3d9f0800000000000000
+      internalID: -444826355276960866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eda8c0d18411b30800000000000000
+      internalID: 4256262412443508275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a00e466111ba7a0800000000000000
+      internalID: -6364974860478707184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2086689e6d24dd0800000000000000
+      internalID: -2503202144393887051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 559
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273c7e0715025950800000000000000
+      internalID: 6436212414051268384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2e8cdca5f63d30800000000000000
+      internalID: 4410983007839464049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f197d466f2ba390800000000000000
+      internalID: -7806093412683669692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe5a17368c520b0800000000000000
+      internalID: -5753972619461922894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22c99d8ee20412d0800000000000000
+      internalID: -3309016602609335761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0b787e5caa2a160800000000000000
+      internalID: 7035373334875844842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a4cf4f72e480520800000000000000
+      internalID: 2668468712737884742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dced05ff531fa50800000000000000
+      internalID: 6553078303490493803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7669925da01a00800000000000000
+      internalID: 725270110279203885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c188fb8a3bd4467e0800000000000000
+      internalID: -1773206919251523556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38637aee420e4cf0800000000000000
+      internalID: -266272790004144069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e0a7a25e821f70800000000000000
+      internalID: 9156537478048442104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d6d0e7027da0a0800000000000000
+      internalID: -6868708478507626254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1260726333e11e0800000000000000
+      internalID: -2225284858198482517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c922a3ac80d080800000000000000
+      internalID: -9164670607270753907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc9347f127aa3970800000000000000
+      internalID: 8735478191562661084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03196da0ecc76b0d0800000000000000
+      internalID: -3407398843672260304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae60a1156671cd120800000000000000
+      internalID: 2439850826342729450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54307d9f3e24962f0800000000000000
+      internalID: -979177897059744955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc995edce3a97e0800000000000000
+      internalID: -1758023650493477917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea37b7c7a9b82e30800000000000000
+      internalID: 4479033959681309420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01e824b4fcc85b0800000000000000
+      internalID: -5364685133958999897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae5760a63175b00800000000000000
+      internalID: 817143203486886538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669418945f971460800000000000000
+      internalID: 7212408513934693984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3baca6b8ffdbb60800000000000000
+      internalID: 7763642306913809334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495c932738aecc50800000000000000
+      internalID: 6687467451465881920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572a773467bcda00800000000000000
+      internalID: 782702076310988625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d91bb9ff3612d0800000000000000
+      internalID: -3308386534438610525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab47653f254b2e10800000000000000
+      internalID: 2173907314198137763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bac17c1bacb6510800000000000000
+      internalID: 1543550162203093886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e131ccb4b2a2b60800000000000000
+      internalID: 7722032115626483270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019efbeec948d44d0800000000000000
+      internalID: -3148714754906789616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcddaf1f6410bfa80800000000000000
+      internalID: -8432144473102033461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d8a525478df3d50800000000000000
+      internalID: 6719327163169541477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f491eed36418360800000000000000
+      internalID: 7170089313552125723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1262ff79fbfdd87a0800000000000000
+      internalID: -6373191883677555167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0174309c21340f40800000000000000
+      internalID: 5693729896370827531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614bd97ca910c040800000000000000
+      internalID: 4665757442525315439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cbe178b6827d7f0800000000000000
+      internalID: -587956784055010227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f754e8040ed680800000000000000
+      internalID: -8728534591560222932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbc6f654da6fd00800000000000000
+      internalID: 1006182080497629981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620e51bf5d42af10800000000000000
+      internalID: 2279469434795852386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43540ea249a5cf8d0800000000000000
+      internalID: -2811272474965031628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372157194e48dfec0800000000000000
+      internalID: -3531520415560822157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15811008274b5640800000000000000
+      internalID: 5069724042661037340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fb7f6b52469a70800000000000000
+      internalID: 8833320679613658640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8e2b9477f3fa90800000000000000
+      internalID: -7281204092336173233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448ba2781c4da8f0800000000000000
+      internalID: -527681913445710776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1ce9c5fe93378b44bf4cb131029758a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepRogueWeaponAnimations_0: 568834915090429740
+      UnderkeepRogueWeaponAnimations_1: 3797730909090707835
+      UnderkeepRogueWeaponAnimations_10: 7191833926215669356
+      UnderkeepRogueWeaponAnimations_11: -8552914275361638994
+      UnderkeepRogueWeaponAnimations_12: 6956055206617106557
+      UnderkeepRogueWeaponAnimations_13: -9094865367300549180
+      UnderkeepRogueWeaponAnimations_14: -1955551894772000137
+      UnderkeepRogueWeaponAnimations_15: 8500361412088600512
+      UnderkeepRogueWeaponAnimations_16: 224863353629257686
+      UnderkeepRogueWeaponAnimations_17: -6336536817582032533
+      UnderkeepRogueWeaponAnimations_18: -444826355276960866
+      UnderkeepRogueWeaponAnimations_19: 4256262412443508275
+      UnderkeepRogueWeaponAnimations_2: 1277949073700370776
+      UnderkeepRogueWeaponAnimations_20: -6364974860478707184
+      UnderkeepRogueWeaponAnimations_21: -2503202144393887051
+      UnderkeepRogueWeaponAnimations_22: 7196367311074499759
+      UnderkeepRogueWeaponAnimations_23: -1442983459059678647
+      UnderkeepRogueWeaponAnimations_24: 2954341309488212772
+      UnderkeepRogueWeaponAnimations_25: 6436212414051268384
+      UnderkeepRogueWeaponAnimations_26: 4410983007839464049
+      UnderkeepRogueWeaponAnimations_27: -7806093412683669692
+      UnderkeepRogueWeaponAnimations_28: -5753972619461922894
+      UnderkeepRogueWeaponAnimations_29: -3309016602609335761
+      UnderkeepRogueWeaponAnimations_3: 1336030834496666257
+      UnderkeepRogueWeaponAnimations_30: 7035373334875844842
+      UnderkeepRogueWeaponAnimations_31: 2668468712737884742
+      UnderkeepRogueWeaponAnimations_32: 6553078303490493803
+      UnderkeepRogueWeaponAnimations_33: 725270110279203885
+      UnderkeepRogueWeaponAnimations_34: -1773206919251523556
+      UnderkeepRogueWeaponAnimations_35: -266272790004144069
+      UnderkeepRogueWeaponAnimations_36: 9156537478048442104
+      UnderkeepRogueWeaponAnimations_37: -6868708478507626254
+      UnderkeepRogueWeaponAnimations_38: -2225284858198482517
+      UnderkeepRogueWeaponAnimations_39: -9164670607270753907
+      UnderkeepRogueWeaponAnimations_4: -3734229901078144118
+      UnderkeepRogueWeaponAnimations_40: 8735478191562661084
+      UnderkeepRogueWeaponAnimations_41: -3407398843672260304
+      UnderkeepRogueWeaponAnimations_42: 2439850826342729450
+      UnderkeepRogueWeaponAnimations_43: -979177897059744955
+      UnderkeepRogueWeaponAnimations_44: -1758023650493477917
+      UnderkeepRogueWeaponAnimations_45: 4479033959681309420
+      UnderkeepRogueWeaponAnimations_46: -5364685133958999897
+      UnderkeepRogueWeaponAnimations_47: -2597577518490181806
+      UnderkeepRogueWeaponAnimations_48: 817143203486886538
+      UnderkeepRogueWeaponAnimations_49: 7212408513934693984
+      UnderkeepRogueWeaponAnimations_5: 3598782401288574623
+      UnderkeepRogueWeaponAnimations_50: 7763642306913809334
+      UnderkeepRogueWeaponAnimations_51: 6687467451465881920
+      UnderkeepRogueWeaponAnimations_52: -6435305973466788473
+      UnderkeepRogueWeaponAnimations_53: 782702076310988625
+      UnderkeepRogueWeaponAnimations_54: -5560113499410695488
+      UnderkeepRogueWeaponAnimations_55: -3308386534438610525
+      UnderkeepRogueWeaponAnimations_56: -8838003355834418629
+      UnderkeepRogueWeaponAnimations_57: 2173907314198137763
+      UnderkeepRogueWeaponAnimations_58: 1543550162203093886
+      UnderkeepRogueWeaponAnimations_59: 7722032115626483270
+      UnderkeepRogueWeaponAnimations_6: -2018525541107578277
+      UnderkeepRogueWeaponAnimations_60: -3101935363190535408
+      UnderkeepRogueWeaponAnimations_61: -3148714754906789616
+      UnderkeepRogueWeaponAnimations_62: 1882091128726321552
+      UnderkeepRogueWeaponAnimations_63: -8432144473102033461
+      UnderkeepRogueWeaponAnimations_64: 6719327163169541477
+      UnderkeepRogueWeaponAnimations_65: 7170089313552125723
+      UnderkeepRogueWeaponAnimations_66: -6373191883677555167
+      UnderkeepRogueWeaponAnimations_67: 5693729896370827531
+      UnderkeepRogueWeaponAnimations_68: 2183165198577154901
+      UnderkeepRogueWeaponAnimations_69: 4665757442525315439
+      UnderkeepRogueWeaponAnimations_7: 5509280955597026824
+      UnderkeepRogueWeaponAnimations_70: -587956784055010227
+      UnderkeepRogueWeaponAnimations_71: -8728534591560222932
+      UnderkeepRogueWeaponAnimations_72: 1006182080497629981
+      UnderkeepRogueWeaponAnimations_73: -646594761116130571
+      UnderkeepRogueWeaponAnimations_74: 2279469434795852386
+      UnderkeepRogueWeaponAnimations_75: 665922566609840442
+      UnderkeepRogueWeaponAnimations_76: -2811272474965031628
+      UnderkeepRogueWeaponAnimations_77: -2807318283423002212
+      UnderkeepRogueWeaponAnimations_78: -3531520415560822157
+      UnderkeepRogueWeaponAnimations_79: 5069724042661037340
+      UnderkeepRogueWeaponAnimations_8: 4661716424047165128
+      UnderkeepRogueWeaponAnimations_80: 8833320679613658640
+      UnderkeepRogueWeaponAnimations_81: -624927297863113251
+      UnderkeepRogueWeaponAnimations_82: -7281204092336173233
+      UnderkeepRogueWeaponAnimations_83: 1670250770779495315
+      UnderkeepRogueWeaponAnimations_84: -527681913445710776
+      UnderkeepRogueWeaponAnimations_85: -1227171406802032356
+      UnderkeepRogueWeaponAnimations_9: -2496293537680311926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

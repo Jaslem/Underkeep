@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Stick
+  weaponType: 0
+  weaponSprite: {fileID: -885076224580258662, guid: 895f71db2604f8c4ca4fb7d724f006fd, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: 765b941961c397144b82fbaa04e13b51, type: 2}
+    holdingSprite: {fileID: -4563280272294551886, guid: f5af9ae7a0caf48479a5e19bde02de2f, type: 3}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: 1fd2f875d0f6a1f4da07753b010fcadd, type: 2}
+    holdingSprite: {fileID: 2146209451352231118, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: bcd73dafddaf8dd41a86a980c9eed78b, type: 2}
+    holdingSprite: {fileID: -2225284858198482517, guid: de54a3a3647a37648ace5b95faf357e5, type: 3}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: 7763425387b62b34ea6b2aadaea2a69d, type: 2}
+    holdingSprite: {fileID: 618631713412049039, guid: 5e65ac74a4018e84088f44b14a34926e, type: 3}
+  enemyAttackClip: {fileID: 0}
+  enemyHoldingSprite: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 0}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

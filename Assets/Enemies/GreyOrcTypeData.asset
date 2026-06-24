@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1f9ec70ed07d743b39a0a4c2079f94, type: 3}
+  m_Name: GreyOrcTypeData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyTypeData
+  enemyTypeName: Grey Orc
+  weaponAnimations:
+  - weapon: {fileID: 11400000, guid: 659ce19d850c4ed44903927033507964, type: 2}
+    attackClip: {fileID: 7400000, guid: 811ffe530fd5be647b5be24d63f1e467, type: 2}
+    holdingSprite: {fileID: -5006175169408068945, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 3f8ceb3809fbf994c99a1ec993a3227d, type: 2}
+    attackClip: {fileID: 7400000, guid: fa7c6149154e10343958eb8aefade1fe, type: 2}
+    holdingSprite: {fileID: -4194738026033203874, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 345cf8014e48e2b40915c6b7e714925c, type: 2}
+    attackClip: {fileID: 7400000, guid: b83a717ea5a853449a13832086f24254, type: 2}
+    holdingSprite: {fileID: -2428540608735375204, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 6bd5c8d95f532bb4589177fc1235786f, type: 2}
+    attackClip: {fileID: 7400000, guid: ecdae41acc56b954fb49cde207d64d4b, type: 2}
+    holdingSprite: {fileID: 414426146564949812, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 2571466cd3058514e98e07c62899754d, type: 2}
+    attackClip: {fileID: 7400000, guid: 82eee3354a6c60549b8699c36baf8cdd, type: 2}
+    holdingSprite: {fileID: -4620840486089160125, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 6fd22374dfe56ad44933b673b9123950, type: 2}
+    attackClip: {fileID: 7400000, guid: 29562fb0325d8f847b2459a53d15723d, type: 2}
+    holdingSprite: {fileID: -9172028061082097547, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: c9267d1b0097f7c45b4c813a71ece65f, type: 2}
+    attackClip: {fileID: 7400000, guid: e1a31ffbd431ec444a1379d149957470, type: 2}
+    holdingSprite: {fileID: 3813815137826169369, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: f8f9a429f95168f409dd2820ddd3faa7, type: 2}
+    attackClip: {fileID: 7400000, guid: 39a3fb9107ac1204baa6b37dd0533a92, type: 2}
+    holdingSprite: {fileID: 7571998063345973474, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 528a59f1591930a4ba0f164c9434d580, type: 2}
+    attackClip: {fileID: 7400000, guid: 71a5eb86b35ff2047a4f6fea35c786b2, type: 2}
+    holdingSprite: {fileID: 4577257344429951152, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: f7a5f813ba685f14b9a26de49f3003f9, type: 2}
+    attackClip: {fileID: 7400000, guid: dc28a4f4057732548bd05371e4c733ca, type: 2}
+    holdingSprite: {fileID: 2050482350280451328, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 8c218876de634a741ada7bb608872f2c, type: 2}
+    attackClip: {fileID: 7400000, guid: a2e791daef5760f46b10e49479cc2602, type: 2}
+    holdingSprite: {fileID: 1246027317560976423, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}
+  - weapon: {fileID: 11400000, guid: 237859eb964cd4143a74c120a8e82b2a, type: 2}
+    attackClip: {fileID: 7400000, guid: 249686d973cf9f74db1879a6e8f81091, type: 2}
+    holdingSprite: {fileID: 8858964265952946266, guid: 758cf48ee00a4ea4292ec9121a7bfd3a, type: 3}

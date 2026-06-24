@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1f9ec70ed07d743b39a0a4c2079f94, type: 3}
+  m_Name: GoblinTypeData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyTypeData
+  enemyTypeName: Goblin
+  weaponAnimations:
+  - weapon: {fileID: 11400000, guid: 5051d6dba2be3e8438ee8d5052702f56, type: 2}
+    attackClip: {fileID: 7400000, guid: 431e901157b3e4743849d70c35702208, type: 2}
+    holdingSprite: {fileID: 956011303974906535, guid: 86a0c87b5c67c344ba7fd5ad4678220f, type: 3}
+  - weapon: {fileID: 11400000, guid: d81c8b6f2dfdee647898c7060fdecaa1, type: 2}
+    attackClip: {fileID: 7400000, guid: 352586378489d674387536f4f16594d4, type: 2}
+    holdingSprite: {fileID: -5781053080742632422, guid: 86a0c87b5c67c344ba7fd5ad4678220f, type: 3}
+  - weapon: {fileID: 11400000, guid: 8c9d21063bf9e1d4a89a74dd6b30aef1, type: 2}
+    attackClip: {fileID: 7400000, guid: aa450e1efb95c1a46802ce5945b0b5dc, type: 2}
+    holdingSprite: {fileID: 2551080886640570622, guid: 86a0c87b5c67c344ba7fd5ad4678220f, type: 3}
+  - weapon: {fileID: 11400000, guid: f8f9a429f95168f409dd2820ddd3faa7, type: 2}
+    attackClip: {fileID: 7400000, guid: 45ec05900e7957c40bcd97cb063a1c79, type: 2}
+    holdingSprite: {fileID: -4504770777730575789, guid: 86a0c87b5c67c344ba7fd5ad4678220f, type: 3}

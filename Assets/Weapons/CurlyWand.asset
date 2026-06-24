@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: CurlyWand
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Curly Wand
+  weaponType: 1
+  weaponSprite: {fileID: -6544633126995090125, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: 2b2ce776fe93f9e4082672e6b3144427, type: 2}
+    holdingSprite: {fileID: 2453207648461503435, guid: f5af9ae7a0caf48479a5e19bde02de2f, type: 3}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: b7f5d41640eb5404f8633c2505fee58b, type: 2}
+    holdingSprite: {fileID: 6627292836599326383, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: 83e26df0dae05354e8258f3fbb4f3389, type: 2}
+    holdingSprite: {fileID: 6956055206617106557, guid: de54a3a3647a37648ace5b95faf357e5, type: 3}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: cd42a1b74f9f62a43a6ae30ae481d511, type: 2}
+    holdingSprite: {fileID: 2670984901333673596, guid: 5e65ac74a4018e84088f44b14a34926e, type: 3}
+  enemyAttackClip: {fileID: 0}
+  enemyHoldingSprite: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 2335604909471345555, guid: 9021bcd6730fb35408b1ab06b71f70a1, type: 3}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

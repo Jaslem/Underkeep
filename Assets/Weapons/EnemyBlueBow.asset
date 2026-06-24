@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: EnemyBlueBow
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Dark Bow
+  weaponType: 1
+  weaponSprite: {fileID: 2458487267653110950, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: 2c0b0477775a656418e61644363a8415, type: 2}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: dbd43f0c845c3194a861930b2d5ef927, type: 2}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: 22f146f898011cd4db87a20e5f602504, type: 2}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: 7ad8be13c87c3f74eaa34da850fad9b0, type: 2}
+  enemyAttackClip: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 2335604909471345555, guid: 631656967fa1c3a4883211ebca580253, type: 3}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

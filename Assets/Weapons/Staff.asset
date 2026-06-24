@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Staff
+  weaponType: 0
+  weaponSprite: {fileID: -3025328752952932797, guid: 895f71db2604f8c4ca4fb7d724f006fd, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: b19b8d731a816c3408d91b146d1d0370, type: 2}
+    holdingSprite: {fileID: 3053785818413264652, guid: f5af9ae7a0caf48479a5e19bde02de2f, type: 3}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: 7be585ecc01d41e4b871d2afc3aa0f8f, type: 2}
+    holdingSprite: {fileID: 2093428659609813413, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: ccda79be54a28fa40bd8dd20446aa08f, type: 2}
+    holdingSprite: {fileID: -5753972619461922894, guid: de54a3a3647a37648ace5b95faf357e5, type: 3}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: 71c526fa374d70d429bd0328957c6dbc, type: 2}
+    holdingSprite: {fileID: 7369253915299628198, guid: 5e65ac74a4018e84088f44b14a34926e, type: 3}
+  enemyAttackClip: {fileID: 0}
+  enemyHoldingSprite: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 0}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

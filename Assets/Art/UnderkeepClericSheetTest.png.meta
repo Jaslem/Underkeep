@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 895f71db2604f8c4ca4fb7d724f006fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2365224106836765542
+    second: UnderkeepClericSheetTest_0
+  - first:
+      213: 5040711114088306570
+    second: UnderkeepClericSheetTest_1
+  - first:
+      213: -3515659740384782175
+    second: UnderkeepClericSheetTest_2
+  - first:
+      213: 9203106162232723553
+    second: UnderkeepClericSheetTest_3
+  - first:
+      213: -4049729646181581233
+    second: UnderkeepClericSheetTest_4
+  - first:
+      213: 681540908982834334
+    second: UnderkeepClericSheetTest_5
+  - first:
+      213: 8353018455871552256
+    second: UnderkeepClericSheetTest_6
+  - first:
+      213: -1205450430618024903
+    second: UnderkeepClericSheetTest_7
+  - first:
+      213: -126112719236643412
+    second: UnderkeepClericSheetTest_8
+  - first:
+      213: -7095617456020122115
+    second: UnderkeepClericSheetTest_9
+  - first:
+      213: -7299191009114882685
+    second: UnderkeepClericSheetTest_10
+  - first:
+      213: -6025585929646671734
+    second: UnderkeepClericSheetTest_11
+  - first:
+      213: 1602843385224739120
+    second: UnderkeepClericSheetTest_12
+  - first:
+      213: 1029053462357215267
+    second: UnderkeepClericSheetTest_13
+  - first:
+      213: 4320525879363096703
+    second: UnderkeepClericSheetTest_14
+  - first:
+      213: -6830030684201008905
+    second: UnderkeepClericSheetTest_15
+  - first:
+      213: -3325641074024553855
+    second: UnderkeepClericSheetTest_16
+  - first:
+      213: 2658567143359399239
+    second: UnderkeepClericSheetTest_17
+  - first:
+      213: -2161443549679757358
+    second: UnderkeepClericSheetTest_18
+  - first:
+      213: -8369820308967150180
+    second: UnderkeepClericSheetTest_19
+  - first:
+      213: -901535195099445587
+    second: UnderkeepClericSheetTest_20
+  - first:
+      213: 5343776786853117469
+    second: UnderkeepClericSheetTest_21
+  - first:
+      213: 827538004684123313
+    second: UnderkeepClericSheetTest_22
+  - first:
+      213: 3982920060009833744
+    second: UnderkeepClericSheetTest_23
+  - first:
+      213: -1652686755413773943
+    second: UnderkeepClericSheetTest_24
+  - first:
+      213: 6414871311419165519
+    second: UnderkeepClericSheetTest_25
+  - first:
+      213: 670714686143851364
+    second: UnderkeepClericSheetTest_26
+  - first:
+      213: -4503980954751721517
+    second: UnderkeepClericSheetTest_27
+  - first:
+      213: 5244363625530703411
+    second: UnderkeepClericSheetTest_28
+  - first:
+      213: -4841512349206805385
+    second: UnderkeepClericSheetTest_29
+  - first:
+      213: 1290034879560513555
+    second: UnderkeepClericSheetTest_30
+  - first:
+      213: 4779666828103886192
+    second: UnderkeepClericSheetTest_31
+  - first:
+      213: 732170919444375388
+    second: UnderkeepClericSheetTest_32
+  - first:
+      213: 5877735761887106253
+    second: UnderkeepClericSheetTest_33
+  - first:
+      213: 3726658489141490717
+    second: UnderkeepClericSheetTest_34
+  - first:
+      213: 6553621423504060977
+    second: UnderkeepClericSheetTest_35
+  - first:
+      213: -670676231890307358
+    second: UnderkeepClericSheetTest_36
+  - first:
+      213: 6120795676224207685
+    second: UnderkeepClericSheetTest_37
+  - first:
+      213: 15153604762692127
+    second: UnderkeepClericSheetTest_38
+  - first:
+      213: 2278845174410541442
+    second: UnderkeepClericSheetTest_39
+  - first:
+      213: -5267798303179149880
+    second: UnderkeepClericSheetTest_40
+  - first:
+      213: 4059260762411596781
+    second: UnderkeepClericSheetTest_41
+  - first:
+      213: -6142617854443777939
+    second: UnderkeepClericSheetTest_42
+  - first:
+      213: 3646467334426045234
+    second: UnderkeepClericSheetTest_43
+  - first:
+      213: -8913441563963427536
+    second: UnderkeepClericSheetTest_44
+  - first:
+      213: -2957774479560625923
+    second: UnderkeepClericSheetTest_45
+  - first:
+      213: 5117243205833638404
+    second: UnderkeepClericSheetTest_46
+  - first:
+      213: -4088946908127730125
+    second: UnderkeepClericSheetTest_47
+  - first:
+      213: -3522930330905763116
+    second: UnderkeepClericSheetTest_48
+  - first:
+      213: 223409434278584262
+    second: UnderkeepClericSheetTest_49
+  - first:
+      213: -8304965893568620099
+    second: UnderkeepClericSheetTest_50
+  - first:
+      213: -885076224580258662
+    second: UnderkeepClericSheetTest_51
+  - first:
+      213: 8158778544406540494
+    second: UnderkeepClericSheetTest_52
+  - first:
+      213: -4210767961738614604
+    second: UnderkeepClericSheetTest_53
+  - first:
+      213: 4598731079012759996
+    second: UnderkeepClericSheetTest_54
+  - first:
+      213: -1746678243151938615
+    second: UnderkeepClericSheetTest_55
+  - first:
+      213: -8782615007295691203
+    second: UnderkeepClericSheetTest_56
+  - first:
+      213: 6321050433304951788
+    second: UnderkeepClericSheetTest_57
+  - first:
+      213: 8023331133041737988
+    second: UnderkeepClericSheetTest_58
+  - first:
+      213: -3025328752952932797
+    second: UnderkeepClericSheetTest_59
+  - first:
+      213: 9189895086381330260
+    second: UnderkeepClericSheetTest_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClericIdleRight1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94ddc1d4390d2fd0800000000000000
+      internalID: -2365224106836765542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkRight1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d89a2d0434f540800000000000000
+      internalID: 5040711114088306570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkRight2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a81937c71ed53fc0800000000000000
+      internalID: -3515659740384782175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkRight3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168071e5b4008bf70800000000000000
+      internalID: 9203106162232723553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkRight4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e7afad7587cc7c0800000000000000
+      internalID: -4049729646181581233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkRight5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9491d388d1557900800000000000000
+      internalID: 681540908982834334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleRight2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b71888702ebe370800000000000000
+      internalID: 8353018455871552256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleRight3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934cba85831654fe0800000000000000
+      internalID: -1205450430618024903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleDown1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5cd386625ff3ef0800000000000000
+      internalID: -126112719236643412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkDown1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df51cd7948d478d90800000000000000
+      internalID: -7095617456020122115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkDown2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7bf1337014ba90800000000000000
+      internalID: -7299191009114882685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkDown3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8871db9581d06ca0800000000000000
+      internalID: -6025585929646671734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkDown4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b7ee01917e3610800000000000000
+      internalID: 1602843385224739120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkDown5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32800befbaee74e00800000000000000
+      internalID: 1029053462357215267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleDown2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70d15a656795fb30800000000000000
+      internalID: 4320525879363096703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleDown3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04e2f974bd631a0800000000000000
+      internalID: -6830030684201008905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleUp1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182615c2013f8d1d0800000000000000
+      internalID: -3325641074024553855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkUp1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745467f2bb025e420800000000000000
+      internalID: 2658567143359399239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkUp2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7574b1b820102e0800000000000000
+      internalID: -2161443549679757358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkUp3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9da92236cc68db80800000000000000
+      internalID: -8369820308967150180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkUp4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c59f348a1d73f0800000000000000
+      internalID: -901535195099445587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericWalkUp5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ebb53dca8e82a40800000000000000
+      internalID: 5343776786853117469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleUp2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc25574e610c7b00800000000000000
+      internalID: 827538004684123313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericIdleUp3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015e9a131bc264730800000000000000
+      internalID: 3982920060009833744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b19af62a7019e0800000000000000
+      internalID: -1652686755413773943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcbf46873360950800000000000000
+      internalID: 6414871311419165519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bed35147bde4900800000000000000
+      internalID: 670714686143851364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df16ec4f25ae71c0800000000000000
+      internalID: -4503980954751721517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ebcbc7ee8b7c840800000000000000
+      internalID: 5244363625530703411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7748cd97b2e7fccb0800000000000000
+      internalID: -4841512349206805385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 127
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318711853ef17e110800000000000000
+      internalID: 1290034879560513555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollDown8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a9d908a9c45240800000000000000
+      internalID: 4779666828103886192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576a507291392a00800000000000000
+      internalID: 732170919444375388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc414eaa889e19150800000000000000
+      internalID: 5877735761887106253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 101
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14f874b620c7b330800000000000000
+      internalID: 3726658489141490717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132795c46f323fa50800000000000000
+      internalID: 6553621423504060977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 95
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e671ee358741b6f0800000000000000
+      internalID: -670676231890307358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 95
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3718fc3f61f450800000000000000
+      internalID: 6120795676224207685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a62fc8f16d53000800000000000000
+      internalID: 15153604762692127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollUp8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897adebc9510af10800000000000000
+      internalID: 2278845174410541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cde99e6a5505e6b0800000000000000
+      internalID: -5267798303179149880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb79321824655830800000000000000
+      internalID: 4059260762411596781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6018ea3b9901caa0800000000000000
+      internalID: -6142617854443777939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba78988bada9230800000000000000
+      internalID: 3646467334426045234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f1cd7f181d4480800000000000000
+      internalID: -8913441563963427536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b21428cfd3f6d0800000000000000
+      internalID: -2957774479560625923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402cef85599140740800000000000000
+      internalID: 5117243205833638404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClericRollRight8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366d9383742147c0800000000000000
+      internalID: -4088946908127730125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicBow
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a9e187890c1fc0800000000000000
+      internalID: -3522930330905763116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mace
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf55a162b5b91300800000000000000
+      internalID: 223409434278584262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99b1a7585debc80800000000000000
+      internalID: -8304965893568620099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stick
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94ffb2fcd397b3f0800000000000000
+      internalID: -885076224580258662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rapier
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec03e6cebddc93170800000000000000
+      internalID: 8158778544406540494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b869f039d85095c0800000000000000
+      internalID: -4210767961738614604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicBowDrawn
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ba1e1d89f1df30800000000000000
+      internalID: 4598731079012759996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicArrow
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7604646d82c7e0800000000000000
+      internalID: -1746678243151938615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halberd
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362023ee22ed1680800000000000000
+      internalID: -8782615007295691203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb7874f0e1e8b750800000000000000
+      internalID: 6321050433304951788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4010944f729985f60800000000000000
+      internalID: 8023331133041737988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staff
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346077f278fd306d0800000000000000
+      internalID: -3025328752952932797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fedd214e0198f70800000000000000
+      internalID: 9189895086381330260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 569777951aabf6e469e07ce85d00c0fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Axe: -8304965893568620099
+      BasicArrow: -1746678243151938615
+      BasicBow: -3522930330905763116
+      BasicBowDrawn: 4598731079012759996
+      ClericIdleDown1: -126112719236643412
+      ClericIdleDown2: 4320525879363096703
+      ClericIdleDown3: -6830030684201008905
+      ClericIdleRight1: -2365224106836765542
+      ClericIdleRight2: 8353018455871552256
+      ClericIdleRight3: -1205450430618024903
+      ClericIdleUp1: -3325641074024553855
+      ClericIdleUp2: 827538004684123313
+      ClericIdleUp3: 3982920060009833744
+      ClericRollDown1: -1652686755413773943
+      ClericRollDown2: 6414871311419165519
+      ClericRollDown3: 670714686143851364
+      ClericRollDown4: -4503980954751721517
+      ClericRollDown5: 5244363625530703411
+      ClericRollDown6: -4841512349206805385
+      ClericRollDown7: 1290034879560513555
+      ClericRollDown8: 4779666828103886192
+      ClericRollRight1: -5267798303179149880
+      ClericRollRight2: 4059260762411596781
+      ClericRollRight3: -6142617854443777939
+      ClericRollRight4: 3646467334426045234
+      ClericRollRight5: -8913441563963427536
+      ClericRollRight6: -2957774479560625923
+      ClericRollRight7: 5117243205833638404
+      ClericRollRight8: -4088946908127730125
+      ClericRollUp1: 732170919444375388
+      ClericRollUp2: 5877735761887106253
+      ClericRollUp3: 3726658489141490717
+      ClericRollUp4: 6553621423504060977
+      ClericRollUp5: -670676231890307358
+      ClericRollUp6: 6120795676224207685
+      ClericRollUp7: 15153604762692127
+      ClericRollUp8: 2278845174410541442
+      ClericWalkDown1: -7095617456020122115
+      ClericWalkDown2: -7299191009114882685
+      ClericWalkDown3: -6025585929646671734
+      ClericWalkDown4: 1602843385224739120
+      ClericWalkDown5: 1029053462357215267
+      ClericWalkRight1: 5040711114088306570
+      ClericWalkRight2: -3515659740384782175
+      ClericWalkRight3: 9203106162232723553
+      ClericWalkRight4: -4049729646181581233
+      ClericWalkRight5: 681540908982834334
+      ClericWalkUp1: 2658567143359399239
+      ClericWalkUp2: -2161443549679757358
+      ClericWalkUp3: -8369820308967150180
+      ClericWalkUp4: -901535195099445587
+      ClericWalkUp5: 5343776786853117469
+      Dagger: -4210767961738614604
+      Halberd: -8782615007295691203
+      Katana: 6321050433304951788
+      Mace: 223409434278584262
+      Rapier: 8158778544406540494
+      Spear: 8023331133041737988
+      Staff: -3025328752952932797
+      Stick: -885076224580258662
+      Sword: 9189895086381330260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

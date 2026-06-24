@@ -1,0 +1,2222 @@
+fileFormatVersion: 2
+guid: 4545b5a705976124cb0d4ccb0bb4f3b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9099327709347726410
+    second: UnderkeepClericWeaponAnimations_0
+  - first:
+      213: -4787367416001202403
+    second: UnderkeepClericWeaponAnimations_1
+  - first:
+      213: 8403519633775364470
+    second: UnderkeepClericWeaponAnimations_2
+  - first:
+      213: -1955920907708812740
+    second: UnderkeepClericWeaponAnimations_3
+  - first:
+      213: 2458487267653110950
+    second: UnderkeepClericWeaponAnimations_4
+  - first:
+      213: -8355098191993263999
+    second: UnderkeepClericWeaponAnimations_5
+  - first:
+      213: 1821774413053527983
+    second: UnderkeepClericWeaponAnimations_6
+  - first:
+      213: 1027599886535599414
+    second: UnderkeepClericWeaponAnimations_7
+  - first:
+      213: 1129219737571792192
+    second: UnderkeepClericWeaponAnimations_8
+  - first:
+      213: 5638915331293966364
+    second: UnderkeepClericWeaponAnimations_9
+  - first:
+      213: 1697898263074479455
+    second: UnderkeepClericWeaponAnimations_10
+  - first:
+      213: 2606489449392208103
+    second: UnderkeepClericWeaponAnimations_11
+  - first:
+      213: -3961725963294382866
+    second: UnderkeepClericWeaponAnimations_12
+  - first:
+      213: 2823736374843899153
+    second: UnderkeepClericWeaponAnimations_13
+  - first:
+      213: 3444598301935003512
+    second: UnderkeepClericWeaponAnimations_14
+  - first:
+      213: 5229933784269762673
+    second: UnderkeepClericWeaponAnimations_15
+  - first:
+      213: -6544633126995090125
+    second: UnderkeepClericWeaponAnimations_16
+  - first:
+      213: 6627292836599326383
+    second: UnderkeepClericWeaponAnimations_17
+  - first:
+      213: 8785923725777099635
+    second: UnderkeepClericWeaponAnimations_18
+  - first:
+      213: -2739806912193034230
+    second: UnderkeepClericWeaponAnimations_19
+  - first:
+      213: 2824238209768419260
+    second: UnderkeepClericWeaponAnimations_20
+  - first:
+      213: -7813096513465630066
+    second: UnderkeepClericWeaponAnimations_21
+  - first:
+      213: -1332731291912958086
+    second: UnderkeepClericWeaponAnimations_22
+  - first:
+      213: -6552653503564064241
+    second: UnderkeepClericWeaponAnimations_23
+  - first:
+      213: 2038657554751308512
+    second: UnderkeepClericWeaponAnimations_24
+  - first:
+      213: 6091345358033349760
+    second: UnderkeepClericWeaponAnimations_25
+  - first:
+      213: 2330527904019391293
+    second: UnderkeepClericWeaponAnimations_26
+  - first:
+      213: -8057680140091269143
+    second: UnderkeepClericWeaponAnimations_27
+  - first:
+      213: 3741216479111132666
+    second: UnderkeepClericWeaponAnimations_28
+  - first:
+      213: 9052468432502081483
+    second: UnderkeepClericWeaponAnimations_29
+  - first:
+      213: -6061692163258417849
+    second: UnderkeepClericWeaponAnimations_30
+  - first:
+      213: 8049697771452406992
+    second: UnderkeepClericWeaponAnimations_31
+  - first:
+      213: -7581907640569267345
+    second: UnderkeepClericWeaponAnimations_32
+  - first:
+      213: 8402619304661129392
+    second: UnderkeepClericWeaponAnimations_33
+  - first:
+      213: -6829265927389724177
+    second: UnderkeepClericWeaponAnimations_34
+  - first:
+      213: -2529180118808113163
+    second: UnderkeepClericWeaponAnimations_35
+  - first:
+      213: 2093428659609813413
+    second: UnderkeepClericWeaponAnimations_36
+  - first:
+      213: -7368171171337081620
+    second: UnderkeepClericWeaponAnimations_37
+  - first:
+      213: 1233853597604973354
+    second: UnderkeepClericWeaponAnimations_38
+  - first:
+      213: 1907972270063433874
+    second: UnderkeepClericWeaponAnimations_39
+  - first:
+      213: -2668668369396563150
+    second: UnderkeepClericWeaponAnimations_40
+  - first:
+      213: 527744385831822915
+    second: UnderkeepClericWeaponAnimations_41
+  - first:
+      213: -1128419582283428776
+    second: UnderkeepClericWeaponAnimations_42
+  - first:
+      213: 6451974324453137252
+    second: UnderkeepClericWeaponAnimations_43
+  - first:
+      213: 5567977589644642730
+    second: UnderkeepClericWeaponAnimations_44
+  - first:
+      213: 4751574517782446511
+    second: UnderkeepClericWeaponAnimations_45
+  - first:
+      213: 2146209451352231118
+    second: UnderkeepClericWeaponAnimations_46
+  - first:
+      213: 7234598268409352494
+    second: UnderkeepClericWeaponAnimations_47
+  - first:
+      213: -4629589542651726891
+    second: UnderkeepClericWeaponAnimations_48
+  - first:
+      213: -2549177461862786273
+    second: UnderkeepClericWeaponAnimations_49
+  - first:
+      213: -2719958382329780815
+    second: UnderkeepClericWeaponAnimations_50
+  - first:
+      213: -4132632896975106971
+    second: UnderkeepClericWeaponAnimations_51
+  - first:
+      213: -876378742945349415
+    second: UnderkeepClericWeaponAnimations_52
+  - first:
+      213: 7773450265060872517
+    second: UnderkeepClericWeaponAnimations_53
+  - first:
+      213: 3054168618136344120
+    second: UnderkeepClericWeaponAnimations_54
+  - first:
+      213: 4369203676850686502
+    second: UnderkeepClericWeaponAnimations_55
+  - first:
+      213: -2354582202739963254
+    second: UnderkeepClericWeaponAnimations_56
+  - first:
+      213: 5707489549874378756
+    second: UnderkeepClericWeaponAnimations_57
+  - first:
+      213: 4834355619734266900
+    second: UnderkeepClericWeaponAnimations_58
+  - first:
+      213: -5450938563646824838
+    second: UnderkeepClericWeaponAnimations_59
+  - first:
+      213: -5438499690913113540
+    second: UnderkeepClericWeaponAnimations_60
+  - first:
+      213: 2568005393578388380
+    second: UnderkeepClericWeaponAnimations_61
+  - first:
+      213: -5439620844089546334
+    second: UnderkeepClericWeaponAnimations_62
+  - first:
+      213: 4110296318962857561
+    second: UnderkeepClericWeaponAnimations_63
+  - first:
+      213: -494222617924397567
+    second: UnderkeepClericWeaponAnimations_64
+  - first:
+      213: 1459314129940657872
+    second: UnderkeepClericWeaponAnimations_65
+  - first:
+      213: 5691962829889084178
+    second: UnderkeepClericWeaponAnimations_66
+  - first:
+      213: 9072274510194566850
+    second: UnderkeepClericWeaponAnimations_67
+  - first:
+      213: -8272596928595140090
+    second: UnderkeepClericWeaponAnimations_68
+  - first:
+      213: -1813377547186573485
+    second: UnderkeepClericWeaponAnimations_69
+  - first:
+      213: -3360347561025417644
+    second: UnderkeepClericWeaponAnimations_70
+  - first:
+      213: 3221985635458468306
+    second: UnderkeepClericWeaponAnimations_71
+  - first:
+      213: 2973379012603459400
+    second: UnderkeepClericWeaponAnimations_72
+  - first:
+      213: -2984431158771994773
+    second: UnderkeepClericWeaponAnimations_73
+  - first:
+      213: -8464907682384546592
+    second: UnderkeepClericWeaponAnimations_74
+  - first:
+      213: -4457970425632362544
+    second: UnderkeepClericWeaponAnimations_75
+  - first:
+      213: 4068182628241332579
+    second: UnderkeepClericWeaponAnimations_76
+  - first:
+      213: -2878011261003883660
+    second: UnderkeepClericWeaponAnimations_77
+  - first:
+      213: -2344460172029215689
+    second: UnderkeepClericWeaponAnimations_78
+  - first:
+      213: -6252107805041245456
+    second: UnderkeepClericWeaponAnimations_79
+  - first:
+      213: -4522736478955186813
+    second: UnderkeepClericWeaponAnimations_80
+  - first:
+      213: 3359034654176861142
+    second: UnderkeepClericWeaponAnimations_81
+  - first:
+      213: 8749030992507623718
+    second: UnderkeepClericWeaponAnimations_82
+  - first:
+      213: 1021931261466863231
+    second: UnderkeepClericWeaponAnimations_83
+  - first:
+      213: -6521461504276342188
+    second: UnderkeepClericWeaponAnimations_84
+  - first:
+      213: -2321185069660724205
+    second: UnderkeepClericWeaponAnimations_85
+  - first:
+      213: -1266160725381931691
+    second: UnderkeepClericWeaponAnimations_86
+  - first:
+      213: 6354488226825384766
+    second: UnderkeepClericWeaponAnimations_87
+  - first:
+      213: -8106868873898081609
+    second: UnderkeepClericWeaponAnimations_88
+  - first:
+      213: -3651133139700749388
+    second: UnderkeepClericWeaponAnimations_89
+  - first:
+      213: -1663898651686936069
+    second: UnderkeepClericWeaponAnimations_90
+  - first:
+      213: 5086281484211378240
+    second: UnderkeepClericWeaponAnimations_91
+  - first:
+      213: -1797523620621943198
+    second: UnderkeepClericWeaponAnimations_92
+  - first:
+      213: -3030064018643991455
+    second: UnderkeepClericWeaponAnimations_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444a82675e474e70800000000000000
+      internalID: 9099327709347726410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f7ff13badf8db0800000000000000
+      internalID: -4787367416001202403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679833a459c4f9470800000000000000
+      internalID: 8403519633775364470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b14f1c4c2bd4e0800000000000000
+      internalID: -1955920907708812740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc841f42d4e1220800000000000000
+      internalID: 2458487267653110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188abba267abc0c80800000000000000
+      internalID: -8355098191993263999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa783fe2d2e384910800000000000000
+      internalID: 1821774413053527983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635af2007a4c24e00800000000000000
+      internalID: 1027599886535599414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04593535e5bcbaf00800000000000000
+      internalID: 1129219737571792192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f7481e93714e40800000000000000
+      internalID: 5638915331293966364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9e437975209710800000000000000
+      internalID: 1697898263074479455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e873dd285c1c2420800000000000000
+      internalID: 2606489449392208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4656cf93f1509c0800000000000000
+      internalID: -3961725963294382866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d7be9a54def2720800000000000000
+      internalID: 2823736374843899153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877efb4c7ebadcf20800000000000000
+      internalID: 3444598301935003512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b6324115749840800000000000000
+      internalID: 5229933784269762673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 639
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335243098dacc25a0800000000000000
+      internalID: -6544633126995090125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa66ef3d8bfd8fb50800000000000000
+      internalID: 6627292836599326383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bde9a241fdde970800000000000000
+      internalID: 8785923725777099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08039521204af9d0800000000000000
+      internalID: -2739806912193034230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe45630b5b13720800000000000000
+      internalID: 2824238209768419260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c907dd1e429390800000000000000
+      internalID: -7813096513465630066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 607
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0b7c73ff218de0800000000000000
+      internalID: -1332731291912958086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a58df1b5c4015a0800000000000000
+      internalID: -6552653503564064241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e24e99ae34ca4c10800000000000000
+      internalID: 2038657554751308512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6dcd645ec88450800000000000000
+      internalID: 6091345358033349760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d332632f7c2b75020800000000000000
+      internalID: 2330527904019391293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 607
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd320aa9e5d2090800000000000000
+      internalID: -8057680140091269143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5b141e0987be330800000000000000
+      internalID: 3741216479111132666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc749bbc314d0ad70800000000000000
+      internalID: 9052468432502081483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 559
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89a251db91c9470800000000000000
+      internalID: 8402619304661129392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c14172d29931a0800000000000000
+      internalID: -6829265927389724177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4675051c86ecd0800000000000000
+      internalID: -2529180118808113163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14aa2464a5d0d10800000000000000
+      internalID: 2093428659609813413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceced20ab5ffeb990800000000000000
+      internalID: -7368171171337081620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b051e4f478f1110800000000000000
+      internalID: 1233853597604973354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2983d66bbaa7a7a10800000000000000
+      internalID: 1907972270063433874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2330ccad14cf6fad0800000000000000
+      internalID: -2668668369396563150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34666b909bce25700800000000000000
+      internalID: 527744385831822915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cc6685e5c0750f0800000000000000
+      internalID: -1128419582283428776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b58fcc6740a8950800000000000000
+      internalID: 6451974324453137252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ca1c0e1e654d40800000000000000
+      internalID: 5567977589644642730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1883859dbf0f140800000000000000
+      internalID: 4751574517782446511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8f69ff1ed8cd10800000000000000
+      internalID: 2146209451352231118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2112396bc4766460800000000000000
+      internalID: 7234598268409352494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3716ee6d460cfb0800000000000000
+      internalID: -4629589542651726891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b9c34ca908f9cd0800000000000000
+      internalID: -2549177461862786273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b523612344c04ad0800000000000000
+      internalID: -2719958382329780815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c84bc9640f5a6c0800000000000000
+      internalID: -4132632896975106971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d00a023d2a76d3f0800000000000000
+      internalID: -876378742945349415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419e10a4d7d0eb60800000000000000
+      internalID: 7773450265060872517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83699203d26926a20800000000000000
+      internalID: 3054168618136344120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a4a3336f7d25fd0800000000000000
+      internalID: -2354582202739963254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408348b8183153f40800000000000000
+      internalID: 5707489549874378756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ac2892d4171340800000000000000
+      internalID: 4834355619734266900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5a55b1406a54b0800000000000000
+      internalID: -5450938563646824838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be681bc4363a320800000000000000
+      internalID: 2568005393578388380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956706d89b4ba0930800000000000000
+      internalID: 4110296318962857561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d632da2876804410800000000000000
+      internalID: 1459314129940657872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1446590aedfe40800000000000000
+      internalID: 5691962829889084178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66afc999137ed70800000000000000
+      internalID: 9072274510194566850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f66408ab695d6e0800000000000000
+      internalID: -1813377547186573485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c9e85ddac6bc20800000000000000
+      internalID: 3221985635458468306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b4d45570934920800000000000000
+      internalID: 2973379012603459400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa9cc5cab2596d0800000000000000
+      internalID: -2984431158771994773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47ef6df4b968a80800000000000000
+      internalID: -8464907682384546592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6cf8648b1222c0800000000000000
+      internalID: -4457970425632362544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b1a48a1004f08d0800000000000000
+      internalID: -2878011261003883660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb52025edc67fd0800000000000000
+      internalID: -2344460172029215689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2c11f831d0c39a0800000000000000
+      internalID: -6252107805041245456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385dc2782230c31c0800000000000000
+      internalID: -4522736478955186813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629dc45555dca6970800000000000000
+      internalID: 8749030992507623718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a5935605d1f75a0800000000000000
+      internalID: -6521461504276342188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_86
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d1f075781bd6ee0800000000000000
+      internalID: -1266160725381931691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e333451ff5daf2850800000000000000
+      internalID: 6354488226825384766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_88
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b242a216bd9e7f80800000000000000
+      internalID: -8106868873898081609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 102
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1e2f3fdf4a8e8e0800000000000000
+      internalID: -1663898651686936069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepClericWeaponAnimations_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e747d6ac9ed07e0800000000000000
+      internalID: -1797523620621943198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c359ceb349e74914e8add6c2435a8b0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepClericWeaponAnimations_0: 9099327709347726410
+      UnderkeepClericWeaponAnimations_1: -4787367416001202403
+      UnderkeepClericWeaponAnimations_10: 1697898263074479455
+      UnderkeepClericWeaponAnimations_11: 2606489449392208103
+      UnderkeepClericWeaponAnimations_12: -3961725963294382866
+      UnderkeepClericWeaponAnimations_13: 2823736374843899153
+      UnderkeepClericWeaponAnimations_14: 3444598301935003512
+      UnderkeepClericWeaponAnimations_15: 5229933784269762673
+      UnderkeepClericWeaponAnimations_16: -6544633126995090125
+      UnderkeepClericWeaponAnimations_17: 6627292836599326383
+      UnderkeepClericWeaponAnimations_18: 8785923725777099635
+      UnderkeepClericWeaponAnimations_19: -2739806912193034230
+      UnderkeepClericWeaponAnimations_2: 8403519633775364470
+      UnderkeepClericWeaponAnimations_20: 2824238209768419260
+      UnderkeepClericWeaponAnimations_21: -7813096513465630066
+      UnderkeepClericWeaponAnimations_22: -1332731291912958086
+      UnderkeepClericWeaponAnimations_23: -6552653503564064241
+      UnderkeepClericWeaponAnimations_24: 2038657554751308512
+      UnderkeepClericWeaponAnimations_25: 6091345358033349760
+      UnderkeepClericWeaponAnimations_26: 2330527904019391293
+      UnderkeepClericWeaponAnimations_27: -8057680140091269143
+      UnderkeepClericWeaponAnimations_28: 3741216479111132666
+      UnderkeepClericWeaponAnimations_29: 9052468432502081483
+      UnderkeepClericWeaponAnimations_3: -1955920907708812740
+      UnderkeepClericWeaponAnimations_30: -6061692163258417849
+      UnderkeepClericWeaponAnimations_31: 8049697771452406992
+      UnderkeepClericWeaponAnimations_32: -7581907640569267345
+      UnderkeepClericWeaponAnimations_33: 8402619304661129392
+      UnderkeepClericWeaponAnimations_34: -6829265927389724177
+      UnderkeepClericWeaponAnimations_35: -2529180118808113163
+      UnderkeepClericWeaponAnimations_36: 2093428659609813413
+      UnderkeepClericWeaponAnimations_37: -7368171171337081620
+      UnderkeepClericWeaponAnimations_38: 1233853597604973354
+      UnderkeepClericWeaponAnimations_39: 1907972270063433874
+      UnderkeepClericWeaponAnimations_4: 2458487267653110950
+      UnderkeepClericWeaponAnimations_40: -2668668369396563150
+      UnderkeepClericWeaponAnimations_41: 527744385831822915
+      UnderkeepClericWeaponAnimations_42: -1128419582283428776
+      UnderkeepClericWeaponAnimations_43: 6451974324453137252
+      UnderkeepClericWeaponAnimations_44: 5567977589644642730
+      UnderkeepClericWeaponAnimations_45: 4751574517782446511
+      UnderkeepClericWeaponAnimations_46: 2146209451352231118
+      UnderkeepClericWeaponAnimations_47: 7234598268409352494
+      UnderkeepClericWeaponAnimations_48: -4629589542651726891
+      UnderkeepClericWeaponAnimations_49: -2549177461862786273
+      UnderkeepClericWeaponAnimations_5: -8355098191993263999
+      UnderkeepClericWeaponAnimations_50: -2719958382329780815
+      UnderkeepClericWeaponAnimations_51: -4132632896975106971
+      UnderkeepClericWeaponAnimations_52: -876378742945349415
+      UnderkeepClericWeaponAnimations_53: 7773450265060872517
+      UnderkeepClericWeaponAnimations_54: 3054168618136344120
+      UnderkeepClericWeaponAnimations_55: 4369203676850686502
+      UnderkeepClericWeaponAnimations_56: -2354582202739963254
+      UnderkeepClericWeaponAnimations_57: 5707489549874378756
+      UnderkeepClericWeaponAnimations_58: 4834355619734266900
+      UnderkeepClericWeaponAnimations_59: -5450938563646824838
+      UnderkeepClericWeaponAnimations_6: 1821774413053527983
+      UnderkeepClericWeaponAnimations_60: -5438499690913113540
+      UnderkeepClericWeaponAnimations_61: 2568005393578388380
+      UnderkeepClericWeaponAnimations_62: -5439620844089546334
+      UnderkeepClericWeaponAnimations_63: 4110296318962857561
+      UnderkeepClericWeaponAnimations_64: -494222617924397567
+      UnderkeepClericWeaponAnimations_65: 1459314129940657872
+      UnderkeepClericWeaponAnimations_66: 5691962829889084178
+      UnderkeepClericWeaponAnimations_67: 9072274510194566850
+      UnderkeepClericWeaponAnimations_68: -8272596928595140090
+      UnderkeepClericWeaponAnimations_69: -1813377547186573485
+      UnderkeepClericWeaponAnimations_7: 1027599886535599414
+      UnderkeepClericWeaponAnimations_70: -3360347561025417644
+      UnderkeepClericWeaponAnimations_71: 3221985635458468306
+      UnderkeepClericWeaponAnimations_72: 2973379012603459400
+      UnderkeepClericWeaponAnimations_73: -2984431158771994773
+      UnderkeepClericWeaponAnimations_74: -8464907682384546592
+      UnderkeepClericWeaponAnimations_75: -4457970425632362544
+      UnderkeepClericWeaponAnimations_76: 4068182628241332579
+      UnderkeepClericWeaponAnimations_77: -2878011261003883660
+      UnderkeepClericWeaponAnimations_78: -2344460172029215689
+      UnderkeepClericWeaponAnimations_79: -6252107805041245456
+      UnderkeepClericWeaponAnimations_8: 1129219737571792192
+      UnderkeepClericWeaponAnimations_80: -4522736478955186813
+      UnderkeepClericWeaponAnimations_81: 3359034654176861142
+      UnderkeepClericWeaponAnimations_82: 8749030992507623718
+      UnderkeepClericWeaponAnimations_83: 1021931261466863231
+      UnderkeepClericWeaponAnimations_84: -6521461504276342188
+      UnderkeepClericWeaponAnimations_85: -2321185069660724205
+      UnderkeepClericWeaponAnimations_86: -1266160725381931691
+      UnderkeepClericWeaponAnimations_87: 6354488226825384766
+      UnderkeepClericWeaponAnimations_88: -8106868873898081609
+      UnderkeepClericWeaponAnimations_89: -3651133139700749388
+      UnderkeepClericWeaponAnimations_9: 5638915331293966364
+      UnderkeepClericWeaponAnimations_90: -1663898651686936069
+      UnderkeepClericWeaponAnimations_91: 5086281484211378240
+      UnderkeepClericWeaponAnimations_92: -1797523620621943198
+      UnderkeepClericWeaponAnimations_93: -3030064018643991455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

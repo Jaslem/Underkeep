@@ -1,0 +1,2222 @@
+fileFormatVersion: 2
+guid: 25c3faa84391afb42af239db6beae01c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 791501444509723601
+    second: UnderkeepSkellyWeaponAnimations_0
+  - first:
+      213: 2151027357101917236
+    second: UnderkeepSkellyWeaponAnimations_1
+  - first:
+      213: 8155154304899380008
+    second: UnderkeepSkellyWeaponAnimations_2
+  - first:
+      213: 9141938629380892177
+    second: UnderkeepSkellyWeaponAnimations_3
+  - first:
+      213: 7391014742429568795
+    second: UnderkeepSkellyWeaponAnimations_4
+  - first:
+      213: 6269123970637164829
+    second: UnderkeepSkellyWeaponAnimations_5
+  - first:
+      213: 6299009620010806840
+    second: UnderkeepSkellyWeaponAnimations_6
+  - first:
+      213: 1453826763003000414
+    second: UnderkeepSkellyWeaponAnimations_7
+  - first:
+      213: -2627083871898142318
+    second: UnderkeepSkellyWeaponAnimations_8
+  - first:
+      213: -989534353225569995
+    second: UnderkeepSkellyWeaponAnimations_9
+  - first:
+      213: 5396056944943682610
+    second: UnderkeepSkellyWeaponAnimations_10
+  - first:
+      213: -5585999724090581519
+    second: UnderkeepSkellyWeaponAnimations_11
+  - first:
+      213: 426008393536740430
+    second: UnderkeepSkellyWeaponAnimations_12
+  - first:
+      213: 6988658289749508978
+    second: UnderkeepSkellyWeaponAnimations_13
+  - first:
+      213: 7245775222581625964
+    second: UnderkeepSkellyWeaponAnimations_14
+  - first:
+      213: 7779720880940845822
+    second: UnderkeepSkellyWeaponAnimations_15
+  - first:
+      213: 4811212262866017063
+    second: UnderkeepSkellyWeaponAnimations_16
+  - first:
+      213: -8756666470085216239
+    second: UnderkeepSkellyWeaponAnimations_17
+  - first:
+      213: 5760645985038343984
+    second: UnderkeepSkellyWeaponAnimations_18
+  - first:
+      213: 9071044159855399147
+    second: UnderkeepSkellyWeaponAnimations_19
+  - first:
+      213: -4520190092773193263
+    second: UnderkeepSkellyWeaponAnimations_20
+  - first:
+      213: 1519150674924963289
+    second: UnderkeepSkellyWeaponAnimations_21
+  - first:
+      213: 2127829364362301311
+    second: UnderkeepSkellyWeaponAnimations_22
+  - first:
+      213: -3207217640720184876
+    second: UnderkeepSkellyWeaponAnimations_23
+  - first:
+      213: 6181263267070519978
+    second: UnderkeepSkellyWeaponAnimations_24
+  - first:
+      213: 2243490223644346583
+    second: UnderkeepSkellyWeaponAnimations_25
+  - first:
+      213: 8134017231716839298
+    second: UnderkeepSkellyWeaponAnimations_26
+  - first:
+      213: -6122362640416181191
+    second: UnderkeepSkellyWeaponAnimations_27
+  - first:
+      213: 805207195529129825
+    second: UnderkeepSkellyWeaponAnimations_28
+  - first:
+      213: -9002617604937359174
+    second: UnderkeepSkellyWeaponAnimations_29
+  - first:
+      213: 6355708636073817077
+    second: UnderkeepSkellyWeaponAnimations_30
+  - first:
+      213: 4918550194908263281
+    second: UnderkeepSkellyWeaponAnimations_31
+  - first:
+      213: -142691797434052110
+    second: UnderkeepSkellyWeaponAnimations_32
+  - first:
+      213: 2227963540461462927
+    second: UnderkeepSkellyWeaponAnimations_33
+  - first:
+      213: 3821650408427632018
+    second: UnderkeepSkellyWeaponAnimations_34
+  - first:
+      213: -3847650612099066728
+    second: UnderkeepSkellyWeaponAnimations_35
+  - first:
+      213: 5982382093034714833
+    second: UnderkeepSkellyWeaponAnimations_36
+  - first:
+      213: 6652937664965332504
+    second: UnderkeepSkellyWeaponAnimations_37
+  - first:
+      213: -2434744268892098417
+    second: UnderkeepSkellyWeaponAnimations_38
+  - first:
+      213: -6787456124733524770
+    second: UnderkeepSkellyWeaponAnimations_39
+  - first:
+      213: 1208798792183668786
+    second: UnderkeepSkellyWeaponAnimations_40
+  - first:
+      213: -5023665923155256679
+    second: UnderkeepSkellyWeaponAnimations_41
+  - first:
+      213: -4242338930068993304
+    second: UnderkeepSkellyWeaponAnimations_42
+  - first:
+      213: -642788288261446531
+    second: UnderkeepSkellyWeaponAnimations_43
+  - first:
+      213: -2207437900496531509
+    second: UnderkeepSkellyWeaponAnimations_44
+  - first:
+      213: -1574249173867718556
+    second: UnderkeepSkellyWeaponAnimations_45
+  - first:
+      213: -8536631913127884517
+    second: UnderkeepSkellyWeaponAnimations_46
+  - first:
+      213: -1531639621346801054
+    second: UnderkeepSkellyWeaponAnimations_47
+  - first:
+      213: -325715091766598124
+    second: UnderkeepSkellyWeaponAnimations_48
+  - first:
+      213: 8163984115885593514
+    second: UnderkeepSkellyWeaponAnimations_49
+  - first:
+      213: 5326110409633261713
+    second: UnderkeepSkellyWeaponAnimations_50
+  - first:
+      213: -6392135583180412988
+    second: UnderkeepSkellyWeaponAnimations_51
+  - first:
+      213: 5421112572625737977
+    second: UnderkeepSkellyWeaponAnimations_52
+  - first:
+      213: -8894252362128037240
+    second: UnderkeepSkellyWeaponAnimations_53
+  - first:
+      213: -5270834051449793142
+    second: UnderkeepSkellyWeaponAnimations_54
+  - first:
+      213: 1734438356931669116
+    second: UnderkeepSkellyWeaponAnimations_55
+  - first:
+      213: 2948727272085435282
+    second: UnderkeepSkellyWeaponAnimations_56
+  - first:
+      213: -1044614406719942103
+    second: UnderkeepSkellyWeaponAnimations_57
+  - first:
+      213: -5458933411928525923
+    second: UnderkeepSkellyWeaponAnimations_58
+  - first:
+      213: 2488283263473255857
+    second: UnderkeepSkellyWeaponAnimations_59
+  - first:
+      213: -9157223283735450762
+    second: UnderkeepSkellyWeaponAnimations_60
+  - first:
+      213: -2582777548775021450
+    second: UnderkeepSkellyWeaponAnimations_61
+  - first:
+      213: 8101929559751990105
+    second: UnderkeepSkellyWeaponAnimations_62
+  - first:
+      213: 6779105303850281883
+    second: UnderkeepSkellyWeaponAnimations_63
+  - first:
+      213: 6874267478133658968
+    second: UnderkeepSkellyWeaponAnimations_64
+  - first:
+      213: -2016572677800399272
+    second: UnderkeepSkellyWeaponAnimations_65
+  - first:
+      213: 3768628786139528089
+    second: UnderkeepSkellyWeaponAnimations_66
+  - first:
+      213: 8288186835070101271
+    second: UnderkeepSkellyWeaponAnimations_67
+  - first:
+      213: 2224294560551211451
+    second: UnderkeepSkellyWeaponAnimations_68
+  - first:
+      213: -8141609404387156049
+    second: UnderkeepSkellyWeaponAnimations_69
+  - first:
+      213: 6709256926451741572
+    second: UnderkeepSkellyWeaponAnimations_70
+  - first:
+      213: -2105440961734825823
+    second: UnderkeepSkellyWeaponAnimations_71
+  - first:
+      213: -1575861343544383369
+    second: UnderkeepSkellyWeaponAnimations_72
+  - first:
+      213: 3155314306887342612
+    second: UnderkeepSkellyWeaponAnimations_73
+  - first:
+      213: -8837267566956374746
+    second: UnderkeepSkellyWeaponAnimations_74
+  - first:
+      213: 118281714240895221
+    second: UnderkeepSkellyWeaponAnimations_75
+  - first:
+      213: 2044076811682616588
+    second: UnderkeepSkellyWeaponAnimations_76
+  - first:
+      213: 5906580544666845583
+    second: UnderkeepSkellyWeaponAnimations_77
+  - first:
+      213: 1669545080850915483
+    second: UnderkeepSkellyWeaponAnimations_78
+  - first:
+      213: -5031019175072014622
+    second: UnderkeepSkellyWeaponAnimations_79
+  - first:
+      213: 6861358590201241053
+    second: UnderkeepSkellyWeaponAnimations_80
+  - first:
+      213: -3476752516686361290
+    second: UnderkeepSkellyWeaponAnimations_81
+  - first:
+      213: 720405386162243618
+    second: UnderkeepSkellyWeaponAnimations_82
+  - first:
+      213: -3682046949143107216
+    second: UnderkeepSkellyWeaponAnimations_83
+  - first:
+      213: 5043086003362919903
+    second: UnderkeepSkellyWeaponAnimations_84
+  - first:
+      213: 5224047860681592143
+    second: UnderkeepSkellyWeaponAnimations_85
+  - first:
+      213: 3938831174203741519
+    second: UnderkeepSkellyWeaponAnimations_86
+  - first:
+      213: -3499649124689811046
+    second: UnderkeepSkellyWeaponAnimations_87
+  - first:
+      213: 5953790185540539852
+    second: UnderkeepSkellyWeaponAnimations_88
+  - first:
+      213: -5773126368150663071
+    second: UnderkeepSkellyWeaponAnimations_89
+  - first:
+      213: 7141685411985812742
+    second: UnderkeepSkellyWeaponAnimations_90
+  - first:
+      213: -7958374713515514860
+    second: UnderkeepSkellyWeaponAnimations_91
+  - first:
+      213: 2015557841516679852
+    second: UnderkeepSkellyWeaponAnimations_92
+  - first:
+      213: -5795141291962221153
+    second: UnderkeepSkellyWeaponAnimations_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbe537ce5afbfa00800000000000000
+      internalID: 791501444509723601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405321cfbf9dd10800000000000000
+      internalID: 2151027357101917236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8237608e1adec2170800000000000000
+      internalID: 8155154304899380008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1166ba25fb0bede70800000000000000
+      internalID: 9141938629380892177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f803cbfb8229660800000000000000
+      internalID: 7391014742429568795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11f6ba3907600750800000000000000
+      internalID: 6269123970637164829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e238530e39a6750800000000000000
+      internalID: 6299009620010806840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ffbdfcb70d2410800000000000000
+      internalID: 1453826763003000414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997a5c2329ba8bd0800000000000000
+      internalID: -2627083871898142318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a1fe9fb77442f0800000000000000
+      internalID: -989534353225569995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d52fa335a2ea40800000000000000
+      internalID: 5396056944943682610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd962ac8da8a72b0800000000000000
+      internalID: -5585999724090581519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9718706c79e500800000000000000
+      internalID: 426008393536740430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273cb11efa3bcf060800000000000000
+      internalID: 6988658289749508978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c640e48dc2a2e8460800000000000000
+      internalID: 7245775222581625964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0b282cee17fb60800000000000000
+      internalID: 7779720880940845822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 639
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bd12bef0cd4c240800000000000000
+      internalID: 4811212262866017063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1183ff18d321a7680800000000000000
+      internalID: -8756666470085216239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9dfe800de1ff40800000000000000
+      internalID: 5760645985038343984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0101a5a92d2ed70800000000000000
+      internalID: 9071044159855399147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d983034f0f0541c0800000000000000
+      internalID: -4520190092773193263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d582337d7b151510800000000000000
+      internalID: 1519150674924963289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 607
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc57d7881978d10800000000000000
+      internalID: 2127829364362301311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9c18f5c8cad73d0800000000000000
+      internalID: -3207217640720184876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaa8e0113248c550800000000000000
+      internalID: 6181263267070519978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8026dc87a722f10800000000000000
+      internalID: 2243490223644346583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f636d8395d1e070800000000000000
+      internalID: 8134017231716839298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 607
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934fedfbd9ff80ba0800000000000000
+      internalID: -6122362640416181191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2a1c9dabac2b00800000000000000
+      internalID: 805207195529129825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0e7097cf6401380800000000000000
+      internalID: -9002617604937359174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 559
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852ab929015bee10800000000000000
+      internalID: 2227963540461462927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953e0a6cca390530800000000000000
+      internalID: 3821650408427632018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894550e67266a9ac0800000000000000
+      internalID: -3847650612099066728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6fdfd41d0b50350800000000000000
+      internalID: 5982382093034714833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4319be8bf35c50800000000000000
+      internalID: 6652937664965332504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b4cdbcfc063ed0800000000000000
+      internalID: -2434744268892098417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed475b4bd9c1ec1a0800000000000000
+      internalID: -6787456124733524770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2306705d81486c010800000000000000
+      internalID: 1208798792183668786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a981c957a584ab0800000000000000
+      internalID: -5023665923155256679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4d60583f2025c0800000000000000
+      internalID: -4242338930068993304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74256c157b5417f0800000000000000
+      internalID: -642788288261446531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8b2dccea9d51e0800000000000000
+      internalID: -2207437900496531509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46899a397b4272ae0800000000000000
+      internalID: -1574249173867718556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19cfb7018ac78980800000000000000
+      internalID: -8536631913127884517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac5bd11e58ebae0800000000000000
+      internalID: -1531639621346801054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a44989d3da7bf0800000000000000
+      internalID: -325715091766598124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3da4b7c4c4c4170800000000000000
+      internalID: 8163984115885593514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19863b8d2352ae940800000000000000
+      internalID: 5326110409633261713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a568dd829a47a0800000000000000
+      internalID: -6392135583180412988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d2ca9929ab3b40800000000000000
+      internalID: 5421112572625737977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aeda4b994419480800000000000000
+      internalID: -8894252362128037240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a855d453b5c3ad6b0800000000000000
+      internalID: -5270834051449793142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b828b4dbfbe820800000000000000
+      internalID: 2948727272085435282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d3305bb8c081f0800000000000000
+      internalID: -1044614406719942103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933d790cf8fd34b0800000000000000
+      internalID: -5458933411928525923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b58fd3d178288220800000000000000
+      internalID: 2488283263473255857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6742967e081282cd0800000000000000
+      internalID: -2582777548775021450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b66fa4b58341e50800000000000000
+      internalID: 6779105303850281883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee2f375d1b304e0800000000000000
+      internalID: -2016572677800399272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7828f9ebdc4430800000000000000
+      internalID: 3768628786139528089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172c68830e850370800000000000000
+      internalID: 8288186835070101271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf168ff161330f80800000000000000
+      internalID: -8141609404387156049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82d34b998f7c2e0800000000000000
+      internalID: -2105440961734825823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77864c2157a612ae0800000000000000
+      internalID: -1575861343544383369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5ab005ade9cb20800000000000000
+      internalID: 3155314306887342612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251c7e38f7bb5580800000000000000
+      internalID: -8837267566956374746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8b0c8a79834a100800000000000000
+      internalID: 118281714240895221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c91206b368f150800000000000000
+      internalID: 5906580544666845583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ae98c76a6b2710800000000000000
+      internalID: 1669545080850915483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee57ab37ba3e2ab0800000000000000
+      internalID: -5031019175072014622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd1585e841783f50800000000000000
+      internalID: 6861358590201241053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288a70c1e46ff900800000000000000
+      internalID: 720405386162243618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 150
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5f03a2004acf540800000000000000
+      internalID: 5043086003362919903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_86
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4516a8851a89a630800000000000000
+      internalID: 3938831174203741519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996b5cb9afbe6fc0800000000000000
+      internalID: -3499649124689811046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_88
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d95411ac10a250800000000000000
+      internalID: 5953790185540539852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 101
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60de00f3b0d5c1360800000000000000
+      internalID: 7141685411985812742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepSkellyWeaponAnimations_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2dadf8d23b8fb10800000000000000
+      internalID: 2015557841516679852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d8714f4fb2dc7b4e9e8eda4ecedf6c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepSkellyWeaponAnimations_0: 791501444509723601
+      UnderkeepSkellyWeaponAnimations_1: 2151027357101917236
+      UnderkeepSkellyWeaponAnimations_10: 5396056944943682610
+      UnderkeepSkellyWeaponAnimations_11: -5585999724090581519
+      UnderkeepSkellyWeaponAnimations_12: 426008393536740430
+      UnderkeepSkellyWeaponAnimations_13: 6988658289749508978
+      UnderkeepSkellyWeaponAnimations_14: 7245775222581625964
+      UnderkeepSkellyWeaponAnimations_15: 7779720880940845822
+      UnderkeepSkellyWeaponAnimations_16: 4811212262866017063
+      UnderkeepSkellyWeaponAnimations_17: -8756666470085216239
+      UnderkeepSkellyWeaponAnimations_18: 5760645985038343984
+      UnderkeepSkellyWeaponAnimations_19: 9071044159855399147
+      UnderkeepSkellyWeaponAnimations_2: 8155154304899380008
+      UnderkeepSkellyWeaponAnimations_20: -4520190092773193263
+      UnderkeepSkellyWeaponAnimations_21: 1519150674924963289
+      UnderkeepSkellyWeaponAnimations_22: 2127829364362301311
+      UnderkeepSkellyWeaponAnimations_23: -3207217640720184876
+      UnderkeepSkellyWeaponAnimations_24: 6181263267070519978
+      UnderkeepSkellyWeaponAnimations_25: 2243490223644346583
+      UnderkeepSkellyWeaponAnimations_26: 8134017231716839298
+      UnderkeepSkellyWeaponAnimations_27: -6122362640416181191
+      UnderkeepSkellyWeaponAnimations_28: 805207195529129825
+      UnderkeepSkellyWeaponAnimations_29: -9002617604937359174
+      UnderkeepSkellyWeaponAnimations_3: 9141938629380892177
+      UnderkeepSkellyWeaponAnimations_30: 6355708636073817077
+      UnderkeepSkellyWeaponAnimations_31: 4918550194908263281
+      UnderkeepSkellyWeaponAnimations_32: -142691797434052110
+      UnderkeepSkellyWeaponAnimations_33: 2227963540461462927
+      UnderkeepSkellyWeaponAnimations_34: 3821650408427632018
+      UnderkeepSkellyWeaponAnimations_35: -3847650612099066728
+      UnderkeepSkellyWeaponAnimations_36: 5982382093034714833
+      UnderkeepSkellyWeaponAnimations_37: 6652937664965332504
+      UnderkeepSkellyWeaponAnimations_38: -2434744268892098417
+      UnderkeepSkellyWeaponAnimations_39: -6787456124733524770
+      UnderkeepSkellyWeaponAnimations_4: 7391014742429568795
+      UnderkeepSkellyWeaponAnimations_40: 1208798792183668786
+      UnderkeepSkellyWeaponAnimations_41: -5023665923155256679
+      UnderkeepSkellyWeaponAnimations_42: -4242338930068993304
+      UnderkeepSkellyWeaponAnimations_43: -642788288261446531
+      UnderkeepSkellyWeaponAnimations_44: -2207437900496531509
+      UnderkeepSkellyWeaponAnimations_45: -1574249173867718556
+      UnderkeepSkellyWeaponAnimations_46: -8536631913127884517
+      UnderkeepSkellyWeaponAnimations_47: -1531639621346801054
+      UnderkeepSkellyWeaponAnimations_48: -325715091766598124
+      UnderkeepSkellyWeaponAnimations_49: 8163984115885593514
+      UnderkeepSkellyWeaponAnimations_5: 6269123970637164829
+      UnderkeepSkellyWeaponAnimations_50: 5326110409633261713
+      UnderkeepSkellyWeaponAnimations_51: -6392135583180412988
+      UnderkeepSkellyWeaponAnimations_52: 5421112572625737977
+      UnderkeepSkellyWeaponAnimations_53: -8894252362128037240
+      UnderkeepSkellyWeaponAnimations_54: -5270834051449793142
+      UnderkeepSkellyWeaponAnimations_55: 1734438356931669116
+      UnderkeepSkellyWeaponAnimations_56: 2948727272085435282
+      UnderkeepSkellyWeaponAnimations_57: -1044614406719942103
+      UnderkeepSkellyWeaponAnimations_58: -5458933411928525923
+      UnderkeepSkellyWeaponAnimations_59: 2488283263473255857
+      UnderkeepSkellyWeaponAnimations_6: 6299009620010806840
+      UnderkeepSkellyWeaponAnimations_60: -9157223283735450762
+      UnderkeepSkellyWeaponAnimations_61: -2582777548775021450
+      UnderkeepSkellyWeaponAnimations_62: 8101929559751990105
+      UnderkeepSkellyWeaponAnimations_63: 6779105303850281883
+      UnderkeepSkellyWeaponAnimations_64: 6874267478133658968
+      UnderkeepSkellyWeaponAnimations_65: -2016572677800399272
+      UnderkeepSkellyWeaponAnimations_66: 3768628786139528089
+      UnderkeepSkellyWeaponAnimations_67: 8288186835070101271
+      UnderkeepSkellyWeaponAnimations_68: 2224294560551211451
+      UnderkeepSkellyWeaponAnimations_69: -8141609404387156049
+      UnderkeepSkellyWeaponAnimations_7: 1453826763003000414
+      UnderkeepSkellyWeaponAnimations_70: 6709256926451741572
+      UnderkeepSkellyWeaponAnimations_71: -2105440961734825823
+      UnderkeepSkellyWeaponAnimations_72: -1575861343544383369
+      UnderkeepSkellyWeaponAnimations_73: 3155314306887342612
+      UnderkeepSkellyWeaponAnimations_74: -8837267566956374746
+      UnderkeepSkellyWeaponAnimations_75: 118281714240895221
+      UnderkeepSkellyWeaponAnimations_76: 2044076811682616588
+      UnderkeepSkellyWeaponAnimations_77: 5906580544666845583
+      UnderkeepSkellyWeaponAnimations_78: 1669545080850915483
+      UnderkeepSkellyWeaponAnimations_79: -5031019175072014622
+      UnderkeepSkellyWeaponAnimations_8: -2627083871898142318
+      UnderkeepSkellyWeaponAnimations_80: 6861358590201241053
+      UnderkeepSkellyWeaponAnimations_81: -3476752516686361290
+      UnderkeepSkellyWeaponAnimations_82: 720405386162243618
+      UnderkeepSkellyWeaponAnimations_83: -3682046949143107216
+      UnderkeepSkellyWeaponAnimations_84: 5043086003362919903
+      UnderkeepSkellyWeaponAnimations_85: 5224047860681592143
+      UnderkeepSkellyWeaponAnimations_86: 3938831174203741519
+      UnderkeepSkellyWeaponAnimations_87: -3499649124689811046
+      UnderkeepSkellyWeaponAnimations_88: 5953790185540539852
+      UnderkeepSkellyWeaponAnimations_89: -5773126368150663071
+      UnderkeepSkellyWeaponAnimations_9: -989534353225569995
+      UnderkeepSkellyWeaponAnimations_90: 7141685411985812742
+      UnderkeepSkellyWeaponAnimations_91: -7958374713515514860
+      UnderkeepSkellyWeaponAnimations_92: 2015557841516679852
+      UnderkeepSkellyWeaponAnimations_93: -5795141291962221153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: GreenWand
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Green Wand
+  weaponType: 1
+  weaponSprite: {fileID: -1332731291912958086, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: ecb6ab9ca47ecfa44988d3a53a6348cb, type: 2}
+    holdingSprite: {fileID: 1279602910299559826, guid: f5af9ae7a0caf48479a5e19bde02de2f, type: 3}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: 6da2a4066f5bc93499805a4eb76bbed8, type: 2}
+    holdingSprite: {fileID: -6552653503564064241, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: 4a8c1119f58fe2241999db5ef5954b32, type: 2}
+    holdingSprite: {fileID: 224863353629257686, guid: de54a3a3647a37648ace5b95faf357e5, type: 3}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: ea4b0f942d72cf743af70dce23dace83, type: 2}
+    holdingSprite: {fileID: -3118191382480266507, guid: 5e65ac74a4018e84088f44b14a34926e, type: 3}
+  enemyAttackClip: {fileID: 0}
+  enemyHoldingSprite: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 2335604909471345555, guid: a367d6face9a97b42bb84a0c1cb7c7be, type: 3}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1f9ec70ed07d743b39a0a4c2079f94, type: 3}
+  m_Name: SkeletonTypeData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyTypeData
+  enemyTypeName: Skeleton
+  weaponAnimations:
+  - weapon: {fileID: 11400000, guid: 07da6fd8d3135334c94150ef687b7324, type: 2}
+    attackClip: {fileID: 7400000, guid: e84b983e7366640468a1e19f08ed5fdf, type: 2}
+    holdingSprite: {fileID: 6269123970637164829, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: fe1f0fbf3626ce94ea59a76f5befd947, type: 2}
+    attackClip: {fileID: 7400000, guid: 226abd2df493ee64787ba2d4170272fa, type: 2}
+    holdingSprite: {fileID: -5585999724090581519, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: a1f57e312460fbf43859c3ee03d4d54f, type: 2}
+    attackClip: {fileID: 7400000, guid: b242dc24dfc97bf4dba0ad6e75399c0c, type: 2}
+    holdingSprite: {fileID: -8756666470085216239, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 36183d95a0f25314eb69de5513ea6e12, type: 2}
+    attackClip: {fileID: 7400000, guid: d3c9967664c6b9a4abb7193a9c1d1740, type: 2}
+    holdingSprite: {fileID: -3207217640720184876, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 6fd22374dfe56ad44933b673b9123950, type: 2}
+    attackClip: {fileID: 7400000, guid: 54c1ed3ef1a4da84caaf0904af71401d, type: 2}
+    holdingSprite: {fileID: 805207195529129825, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: c9267d1b0097f7c45b4c813a71ece65f, type: 2}
+    attackClip: {fileID: 7400000, guid: 56fd165b9c8b19248a1b4a0af3117480, type: 2}
+    holdingSprite: {fileID: -1575861343544383369, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: f8f9a429f95168f409dd2820ddd3faa7, type: 2}
+    attackClip: {fileID: 7400000, guid: bd2a836e46e36db44bd904046b208a13, type: 2}
+    holdingSprite: {fileID: -5023665923155256679, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 528a59f1591930a4ba0f164c9434d580, type: 2}
+    attackClip: {fileID: 7400000, guid: 20abf6d3585509b49aac72f0ac7a3ef3, type: 2}
+    holdingSprite: {fileID: -1044614406719942103, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: f7a5f813ba685f14b9a26de49f3003f9, type: 2}
+    attackClip: {fileID: 7400000, guid: 457a2cda98fd38344a39574f3a2f9218, type: 2}
+    holdingSprite: {fileID: 1669545080850915483, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 237859eb964cd4143a74c120a8e82b2a, type: 2}
+    attackClip: {fileID: 7400000, guid: a6b22e9fcc4ccb640976135a61ed3dfa, type: 2}
+    holdingSprite: {fileID: 5982382093034714833, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 8c218876de634a741ada7bb608872f2c, type: 2}
+    attackClip: {fileID: 7400000, guid: 622302f19bf36b34691e8500863c37d0, type: 2}
+    holdingSprite: {fileID: -2016572677800399272, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 3f8ceb3809fbf994c99a1ec993a3227d, type: 2}
+    attackClip: {fileID: 7400000, guid: 12c15b1043b2cba47a65c120f92e730c, type: 2}
+    holdingSprite: {fileID: -6392135583180412988, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: 8c9d21063bf9e1d4a89a74dd6b30aef1, type: 2}
+    attackClip: {fileID: 7400000, guid: 8a46e90d2bef1cd408f5f77f2398bf4a, type: 2}
+    holdingSprite: {fileID: 3938831174203741519, guid: 25c3faa84391afb42af239db6beae01c, type: 3}
+  - weapon: {fileID: 11400000, guid: fdff71518bb9887479810c3ed8123034, type: 2}
+    attackClip: {fileID: 7400000, guid: 5199caa1b3f89ca4e997e3ba231b3f07, type: 2}
+    holdingSprite: {fileID: 791501444509723601, guid: 25c3faa84391afb42af239db6beae01c, type: 3}

@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: daefbde8b196c7f47a962d6667819604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6039819789138771318
+    second: UnderkeepDeathAnimation_0
+  - first:
+      213: -5835769457046930152
+    second: UnderkeepDeathAnimation_1
+  - first:
+      213: -8078067920285633266
+    second: UnderkeepDeathAnimation_2
+  - first:
+      213: 8572727354833873334
+    second: UnderkeepDeathAnimation_3
+  - first:
+      213: -7216017971775203207
+    second: UnderkeepDeathAnimation_4
+  - first:
+      213: 7783363204504132103
+    second: UnderkeepDeathAnimation_5
+  - first:
+      213: 3611661011712399184
+    second: UnderkeepDeathAnimation_6
+  - first:
+      213: -7395980590366636893
+    second: UnderkeepDeathAnimation_7
+  - first:
+      213: -5706791464230980282
+    second: UnderkeepDeathAnimation_8
+  - first:
+      213: 3710827975975594277
+    second: UnderkeepDeathAnimation_9
+  - first:
+      213: 1380154569778524967
+    second: UnderkeepDeathAnimation_10
+  - first:
+      213: -2892432594865302621
+    second: UnderkeepDeathAnimation_11
+  - first:
+      213: -8051023819762356493
+    second: UnderkeepDeathAnimation_12
+  - first:
+      213: -4115016183295866899
+    second: UnderkeepDeathAnimation_13
+  - first:
+      213: -5576128297232588071
+    second: UnderkeepDeathAnimation_14
+  - first:
+      213: 7837941654593381536
+    second: UnderkeepDeathAnimation_15
+  - first:
+      213: 8377987743691084086
+    second: UnderkeepDeathAnimation_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dbdfe0910c1d350800000000000000
+      internalID: 6039819789138771318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db4a9199e230fa0800000000000000
+      internalID: -5835769457046930152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0575e3a600f4ef80800000000000000
+      internalID: -8078067920285633266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 22
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a525eb1278f670800000000000000
+      internalID: 8572727354833873334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978118303ed8bdb90800000000000000
+      internalID: -7216017971775203207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9052b89f040c60800000000000000
+      internalID: 7783363204504132103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 21
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057de340e823f1230800000000000000
+      internalID: 3611661011712399184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44381b6d23c5990800000000000000
+      internalID: -7395980590366636893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296b9222628f7330800000000000000
+      internalID: 3710827975975594277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepDeathAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a2757bdc9d92b0800000000000000
+      internalID: -5576128297232588071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e55b54e77e924904a85e2b24de41c6bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepDeathAnimation_0: 6039819789138771318
+      UnderkeepDeathAnimation_1: -5835769457046930152
+      UnderkeepDeathAnimation_10: 1380154569778524967
+      UnderkeepDeathAnimation_11: -2892432594865302621
+      UnderkeepDeathAnimation_12: -8051023819762356493
+      UnderkeepDeathAnimation_13: -4115016183295866899
+      UnderkeepDeathAnimation_14: -5576128297232588071
+      UnderkeepDeathAnimation_15: 7837941654593381536
+      UnderkeepDeathAnimation_16: 8377987743691084086
+      UnderkeepDeathAnimation_2: -8078067920285633266
+      UnderkeepDeathAnimation_3: 8572727354833873334
+      UnderkeepDeathAnimation_4: -7216017971775203207
+      UnderkeepDeathAnimation_5: 7783363204504132103
+      UnderkeepDeathAnimation_6: 3611661011712399184
+      UnderkeepDeathAnimation_7: -7395980590366636893
+      UnderkeepDeathAnimation_8: -5706791464230980282
+      UnderkeepDeathAnimation_9: 3710827975975594277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: c2f95cdaf0c29d346b14e573f945ede5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3396536736423771157
+    second: UnderkeepStartScreenUI_0
+  - first:
+      213: -8559580890142360686
+    second: UnderkeepStartScreenUI_1
+  - first:
+      213: 8836107627491604844
+    second: UnderkeepStartScreenUI_2
+  - first:
+      213: 7388481838022565876
+    second: UnderkeepStartScreenUI_3
+  - first:
+      213: -560957616724066660
+    second: UnderkeepStartScreenUI_4
+  - first:
+      213: 2968631029145703871
+    second: UnderkeepStartScreenUI_5
+  - first:
+      213: -4117354297466743723
+    second: UnderkeepStartScreenUI_6
+  - first:
+      213: -83146366171961813
+    second: UnderkeepStartScreenUI_7
+  - first:
+      213: -2554637830263689970
+    second: UnderkeepStartScreenUI_8
+  - first:
+      213: -6992373910064913614
+    second: UnderkeepStartScreenUI_9
+  - first:
+      213: 1417496956343578636
+    second: UnderkeepStartScreenUI_10
+  - first:
+      213: 4320717154272466367
+    second: UnderkeepStartScreenUI_11
+  - first:
+      213: -3592290321612603647
+    second: UnderkeepStartScreenUI_12
+  - first:
+      213: 5492000449719121872
+    second: UnderkeepStartScreenUI_13
+  - first:
+      213: 8599633432365540491
+    second: UnderkeepStartScreenUI_14
+  - first:
+      213: -7295828000922382106
+    second: UnderkeepStartScreenUI_15
+  - first:
+      213: -8964499092297204334
+    second: UnderkeepStartScreenUI_16
+  - first:
+      213: -5321234865315495450
+    second: UnderkeepStartScreenUI_17
+  - first:
+      213: -5613027679293861225
+    second: UnderkeepStartScreenUI_18
+  - first:
+      213: 7710750518461324280
+    second: UnderkeepStartScreenUI_19
+  - first:
+      213: 7881743377687564896
+    second: UnderkeepStartScreenUI_20
+  - first:
+      213: 5500611078475175700
+    second: UnderkeepStartScreenUI_21
+  - first:
+      213: 8990177570421304176
+    second: UnderkeepStartScreenUI_22
+  - first:
+      213: -243690854967155158
+    second: UnderkeepStartScreenUI_23
+  - first:
+      213: -6633318865726320456
+    second: UnderkeepStartScreenUI_24
+  - first:
+      213: -5273367262543771206
+    second: UnderkeepStartScreenUI_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 154
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be385e675d31dd0d0800000000000000
+      internalID: -3396536736423771157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb7d0f782463980800000000000000
+      internalID: -8559580890142360686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b1cd421920aa70800000000000000
+      internalID: 8836107627491604844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff92c8f519298660800000000000000
+      internalID: 7388481838022565876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ebc1905041738f0800000000000000
+      internalID: -560957616724066660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb59e694132b23920800000000000000
+      internalID: 2968631029145703871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_6
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5541115c4183cd6c0800000000000000
+      internalID: -4117354297466743723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 69
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a4fb02da98def0800000000000000
+      internalID: -83146366171961813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dab5dad6a1c8cd0800000000000000
+      internalID: -2554637830263689970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332fd9d9f816fe90800000000000000
+      internalID: -6992373910064913614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007e09b8f5fba310800000000000000
+      internalID: 1417496956343578636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d8531c5546fb30800000000000000
+      internalID: 4320717154272466367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 31
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff43a3cfe952ec0800000000000000
+      internalID: -3592290321612603647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 31
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73bc7af41873c40800000000000000
+      internalID: 5492000449719121872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a8be3b09085770800000000000000
+      internalID: 8599633432365540491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05cae861300ca90800000000000000
+      internalID: -7295828000922382106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d305e4293b79380800000000000000
+      internalID: -8964499092297204334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14276451d2726b0800000000000000
+      internalID: -5321234865315495450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792114590158a12b0800000000000000
+      internalID: -5613027679293861225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbdb844eb6120b60800000000000000
+      internalID: 7710750518461324280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062daddb7d3916d60800000000000000
+      internalID: 7881743377687564896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4175714e1a8165c40800000000000000
+      internalID: 5500611078475175700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b65a84ed683cc70800000000000000
+      internalID: 8990177570421304176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26eba2657c3e9cf0800000000000000
+      internalID: -243690854967155158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b05c7ee2a7b1f3a0800000000000000
+      internalID: -6633318865726320456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepStartScreenUI_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 21
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab987e90a6c31d6b0800000000000000
+      internalID: -5273367262543771206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepStartScreenUI_0: -3396536736423771157
+      UnderkeepStartScreenUI_1: -8559580890142360686
+      UnderkeepStartScreenUI_10: 1417496956343578636
+      UnderkeepStartScreenUI_11: 4320717154272466367
+      UnderkeepStartScreenUI_12: -3592290321612603647
+      UnderkeepStartScreenUI_13: 5492000449719121872
+      UnderkeepStartScreenUI_14: 8599633432365540491
+      UnderkeepStartScreenUI_15: -7295828000922382106
+      UnderkeepStartScreenUI_16: -8964499092297204334
+      UnderkeepStartScreenUI_17: -5321234865315495450
+      UnderkeepStartScreenUI_18: -5613027679293861225
+      UnderkeepStartScreenUI_19: 7710750518461324280
+      UnderkeepStartScreenUI_2: 8836107627491604844
+      UnderkeepStartScreenUI_20: 7881743377687564896
+      UnderkeepStartScreenUI_21: 5500611078475175700
+      UnderkeepStartScreenUI_22: 8990177570421304176
+      UnderkeepStartScreenUI_23: -243690854967155158
+      UnderkeepStartScreenUI_24: -6633318865726320456
+      UnderkeepStartScreenUI_25: -5273367262543771206
+      UnderkeepStartScreenUI_3: 7388481838022565876
+      UnderkeepStartScreenUI_4: -560957616724066660
+      UnderkeepStartScreenUI_5: 2968631029145703871
+      UnderkeepStartScreenUI_6: -4117354297466743723
+      UnderkeepStartScreenUI_7: -83146366171961813
+      UnderkeepStartScreenUI_8: -2554637830263689970
+      UnderkeepStartScreenUI_9: -6992373910064913614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

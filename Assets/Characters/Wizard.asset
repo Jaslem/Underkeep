@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9e387036942a74cb87f159b7730866, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDataSO
+  characterClass: 0
+  characterName: Wziard
+  characterSprite: {fileID: -7025190904974764876, guid: ddde1b7a0eabde749abcd869d33ff5c1, type: 3}
+  characterDescription: 'Special Ability: Arcane Surge'
+  moveSpeed: 5
+  mobilityMultiplier: 1
+  maxHealth: 100
+  baseMeleeDamage: 20
+  baseRangedDamage: 15
+  weaponSpriteOverrides: []

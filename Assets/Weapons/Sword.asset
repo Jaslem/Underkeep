@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f09fb44667146840859f251d6085042, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Sword
+  weaponType: 0
+  weaponSprite: {fileID: 9189895086381330260, guid: 895f71db2604f8c4ca4fb7d724f006fd, type: 3}
+  characterAttackAnimations:
+  - characterClass: 0
+    attackClip: {fileID: 7400000, guid: c20f20d2dc1a18e40a124b9f879c3218, type: 2}
+    holdingSprite: {fileID: -6720106747054096765, guid: f5af9ae7a0caf48479a5e19bde02de2f, type: 3}
+  - characterClass: 1
+    attackClip: {fileID: 7400000, guid: 89e7ba06a9832dd43ae8d45ab6157060, type: 2}
+    holdingSprite: {fileID: 1459314129940657872, guid: 4545b5a705976124cb0d4ccb0bb4f3b6, type: 3}
+  - characterClass: 2
+    attackClip: {fileID: 7400000, guid: 6a26c809dc0087e4f8530eb8bb2cbeb8, type: 2}
+    holdingSprite: {fileID: 2173907314198137763, guid: de54a3a3647a37648ace5b95faf357e5, type: 3}
+  - characterClass: 3
+    attackClip: {fileID: 7400000, guid: 0e663cbb6cd26d84cb71478e752625ad, type: 2}
+    holdingSprite: {fileID: -6453331675234411815, guid: 5e65ac74a4018e84088f44b14a34926e, type: 3}
+  enemyAttackClip: {fileID: 0}
+  enemyHoldingSprite: {fileID: 0}
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  meleeRange: 1.5
+  meleeAttackDuration: 0.3
+  meleeCooldown: 0.5
+  meleeKnockback: 3
+  projectilePrefab: {fileID: 0}
+  fireRate: 0.25
+  projectileSpeed: 15
+  magazineSize: 10
+  reloadTime: 1.5
+  isAutomatic: 0
+  pickupPrefab: {fileID: 0}

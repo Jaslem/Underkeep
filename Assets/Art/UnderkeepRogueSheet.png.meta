@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 7d8270d2e38d76449b2bbf3d81a295c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5722243814850573863
+    second: UnderkeepRogueSheet_0
+  - first:
+      213: 7179626873525281291
+    second: UnderkeepRogueSheet_1
+  - first:
+      213: 3312278662135841222
+    second: UnderkeepRogueSheet_2
+  - first:
+      213: -2430048586138231610
+    second: UnderkeepRogueSheet_3
+  - first:
+      213: -2741457814836633377
+    second: UnderkeepRogueSheet_4
+  - first:
+      213: 623334023628390740
+    second: UnderkeepRogueSheet_5
+  - first:
+      213: -3934049565778482923
+    second: UnderkeepRogueSheet_6
+  - first:
+      213: 1782650812379741762
+    second: UnderkeepRogueSheet_7
+  - first:
+      213: -6501565678952578314
+    second: UnderkeepRogueSheet_8
+  - first:
+      213: 7561505281371536816
+    second: UnderkeepRogueSheet_9
+  - first:
+      213: -7605568026830698012
+    second: UnderkeepRogueSheet_10
+  - first:
+      213: -5437772973458473587
+    second: UnderkeepRogueSheet_11
+  - first:
+      213: -3742777766073617041
+    second: UnderkeepRogueSheet_12
+  - first:
+      213: 697884980313293136
+    second: UnderkeepRogueSheet_13
+  - first:
+      213: 8432284131147722492
+    second: UnderkeepRogueSheet_14
+  - first:
+      213: -3442594030629854816
+    second: UnderkeepRogueSheet_15
+  - first:
+      213: 8387975099246184058
+    second: UnderkeepRogueSheet_16
+  - first:
+      213: 4480236308397492638
+    second: UnderkeepRogueSheet_17
+  - first:
+      213: 1679709753520522846
+    second: UnderkeepRogueSheet_18
+  - first:
+      213: -8831519864603895572
+    second: UnderkeepRogueSheet_19
+  - first:
+      213: 3019515993064340908
+    second: UnderkeepRogueSheet_20
+  - first:
+      213: 6618852384555006274
+    second: UnderkeepRogueSheet_21
+  - first:
+      213: -8283701639191732642
+    second: UnderkeepRogueSheet_22
+  - first:
+      213: -1628612959064461590
+    second: UnderkeepRogueSheet_23
+  - first:
+      213: 871627264980374644
+    second: UnderkeepRogueSheet_24
+  - first:
+      213: -7843196891989066306
+    second: UnderkeepRogueSheet_25
+  - first:
+      213: 5136564504288308422
+    second: UnderkeepRogueSheet_26
+  - first:
+      213: 3934901405607967885
+    second: UnderkeepRogueSheet_27
+  - first:
+      213: -3665208669084410375
+    second: UnderkeepRogueSheet_28
+  - first:
+      213: -3265490598786011298
+    second: UnderkeepRogueSheet_29
+  - first:
+      213: 8030161297807419110
+    second: UnderkeepRogueSheet_30
+  - first:
+      213: -7292917080536986184
+    second: UnderkeepRogueSheet_31
+  - first:
+      213: 2414491185340381780
+    second: UnderkeepRogueSheet_32
+  - first:
+      213: 4073961348202599767
+    second: UnderkeepRogueSheet_33
+  - first:
+      213: -175361687733972990
+    second: UnderkeepRogueSheet_34
+  - first:
+      213: -5995795616345651137
+    second: UnderkeepRogueSheet_35
+  - first:
+      213: -7693247089818901313
+    second: UnderkeepRogueSheet_36
+  - first:
+      213: -7202812328688967769
+    second: UnderkeepRogueSheet_37
+  - first:
+      213: -5073228216700703846
+    second: UnderkeepRogueSheet_38
+  - first:
+      213: 2585045559547775976
+    second: UnderkeepRogueSheet_39
+  - first:
+      213: -4886287859815857897
+    second: UnderkeepRogueSheet_40
+  - first:
+      213: -2052504535598890693
+    second: UnderkeepRogueSheet_41
+  - first:
+      213: -6012293759150494214
+    second: UnderkeepRogueSheet_42
+  - first:
+      213: 5861898708162906707
+    second: UnderkeepRogueSheet_43
+  - first:
+      213: -1346603922034373318
+    second: UnderkeepRogueSheet_44
+  - first:
+      213: -706494097978379465
+    second: UnderkeepRogueSheet_45
+  - first:
+      213: 8304773916196422126
+    second: UnderkeepRogueSheet_46
+  - first:
+      213: 1835767622782603310
+    second: UnderkeepRogueSheet_47
+  - first:
+      213: 8015390692362005391
+    second: UnderkeepRogueSheet_48
+  - first:
+      213: -1568799095410134333
+    second: UnderkeepRogueSheet_49
+  - first:
+      213: 4922361375240907690
+    second: UnderkeepRogueSheet_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c7a171918690b0800000000000000
+      internalID: -5722243814850573863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a2582a9823a360800000000000000
+      internalID: 7179626873525281291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c186bdd4e397fd20800000000000000
+      internalID: 3312278662135841222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5a449fabb64ed0800000000000000
+      internalID: -2430048586138231610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a1fb64a264f9d0800000000000000
+      internalID: -2741457814836633377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45109ceedf686a800800000000000000
+      internalID: 623334023628390740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196efe63c27769c0800000000000000
+      internalID: -3934049565778482923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb47e087f3db810800000000000000
+      internalID: 1782650812379741762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f20926367cc5c5a0800000000000000
+      internalID: -6501565678952578314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf367adfcdfe860800000000000000
+      internalID: 7561505281371536816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e900b5fc28937690800000000000000
+      internalID: -7605568026830698012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8db9cb8a462984b0800000000000000
+      internalID: -5437772973458473587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 192
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b3fba37bfe0cc0800000000000000
+      internalID: -3742777766073617041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05187a921b26fa900800000000000000
+      internalID: 697884980313293136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe293abdbd750570800000000000000
+      internalID: 8432284131147722492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16d6208f27930d0800000000000000
+      internalID: -3442594030629854816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76046f49e2186470800000000000000
+      internalID: 8387975099246184058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9907d76f2ffc2e30800000000000000
+      internalID: 4480236308397492638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5689501f178f4710800000000000000
+      internalID: 1679709753520522846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89a7b7973207580800000000000000
+      internalID: -8831519864603895572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf5303cc977e920800000000000000
+      internalID: 3019515993064340908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249f522fc23eadb50800000000000000
+      internalID: 6618852384555006274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed7a28f316a0d80800000000000000
+      internalID: -8283701639191732642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee6d5a74210669e0800000000000000
+      internalID: -1628612959064461590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47453b12164a81c00800000000000000
+      internalID: 871627264980374644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3b855bfd572390800000000000000
+      internalID: -7843196891989066306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc2cf3b33eb84740800000000000000
+      internalID: 5136564504288308422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb27bfaf39b9630800000000000000
+      internalID: 3934901405607967885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9a837220922dc0800000000000000
+      internalID: -3665208669084410375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f6bf90a95aea2d0800000000000000
+      internalID: -3265490598786011298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6a6ec972dd07f60800000000000000
+      internalID: 8030161297807419110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc6360e8a5aca90800000000000000
+      internalID: -7292917080536986184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a7687c0fef18120800000000000000
+      internalID: 2414491185340381780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755994ce24e998830800000000000000
+      internalID: 4073961348202599767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 98
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200576f597df09df0800000000000000
+      internalID: -175361687733972990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f388fdd67a7aacca0800000000000000
+      internalID: -5995795616345651137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4690a48881c3590800000000000000
+      internalID: -7693247089818901313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 96
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af90b469587a0c90800000000000000
+      internalID: -7202812328688967769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be017e0d54899b0800000000000000
+      internalID: -5073228216700703846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebcb018d3defd320800000000000000
+      internalID: 2585045559547775976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 95
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7114f55841b603cb0800000000000000
+      internalID: -4886287859815857897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3100cfdff90483e0800000000000000
+      internalID: -2052504535598890693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd69883eaa009ca0800000000000000
+      internalID: -6012293759150494214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0f5141d5a95150800000000000000
+      internalID: 5861898708162906707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d4ef51ed6ef4de0800000000000000
+      internalID: -1346603922034373318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b61e6c570236f0800000000000000
+      internalID: -706494097978379465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee141de40eb704370800000000000000
+      internalID: 8304773916196422126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20de163de4f97910800000000000000
+      internalID: 1835767622782603310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba53a0e536c3f60800000000000000
+      internalID: 8015390692362005391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ff1ad8818a3ae0800000000000000
+      internalID: -1568799095410134333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepRogueSheet_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab665b479dbf4440800000000000000
+      internalID: 4922361375240907690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4d89a54600f6244897262ad3f4f598a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepRogueSheet_0: -5722243814850573863
+      UnderkeepRogueSheet_1: 7179626873525281291
+      UnderkeepRogueSheet_10: -7605568026830698012
+      UnderkeepRogueSheet_11: -5437772973458473587
+      UnderkeepRogueSheet_12: -3742777766073617041
+      UnderkeepRogueSheet_13: 697884980313293136
+      UnderkeepRogueSheet_14: 8432284131147722492
+      UnderkeepRogueSheet_15: -3442594030629854816
+      UnderkeepRogueSheet_16: 8387975099246184058
+      UnderkeepRogueSheet_17: 4480236308397492638
+      UnderkeepRogueSheet_18: 1679709753520522846
+      UnderkeepRogueSheet_19: -8831519864603895572
+      UnderkeepRogueSheet_2: 3312278662135841222
+      UnderkeepRogueSheet_20: 3019515993064340908
+      UnderkeepRogueSheet_21: 6618852384555006274
+      UnderkeepRogueSheet_22: -8283701639191732642
+      UnderkeepRogueSheet_23: -1628612959064461590
+      UnderkeepRogueSheet_24: 871627264980374644
+      UnderkeepRogueSheet_25: -7843196891989066306
+      UnderkeepRogueSheet_26: 5136564504288308422
+      UnderkeepRogueSheet_27: 3934901405607967885
+      UnderkeepRogueSheet_28: -3665208669084410375
+      UnderkeepRogueSheet_29: -3265490598786011298
+      UnderkeepRogueSheet_3: -2430048586138231610
+      UnderkeepRogueSheet_30: 8030161297807419110
+      UnderkeepRogueSheet_31: -7292917080536986184
+      UnderkeepRogueSheet_32: 2414491185340381780
+      UnderkeepRogueSheet_33: 4073961348202599767
+      UnderkeepRogueSheet_34: -175361687733972990
+      UnderkeepRogueSheet_35: -5995795616345651137
+      UnderkeepRogueSheet_36: -7693247089818901313
+      UnderkeepRogueSheet_37: -7202812328688967769
+      UnderkeepRogueSheet_38: -5073228216700703846
+      UnderkeepRogueSheet_39: 2585045559547775976
+      UnderkeepRogueSheet_4: -2741457814836633377
+      UnderkeepRogueSheet_40: -4886287859815857897
+      UnderkeepRogueSheet_41: -2052504535598890693
+      UnderkeepRogueSheet_42: -6012293759150494214
+      UnderkeepRogueSheet_43: 5861898708162906707
+      UnderkeepRogueSheet_44: -1346603922034373318
+      UnderkeepRogueSheet_45: -706494097978379465
+      UnderkeepRogueSheet_46: 8304773916196422126
+      UnderkeepRogueSheet_47: 1835767622782603310
+      UnderkeepRogueSheet_48: 8015390692362005391
+      UnderkeepRogueSheet_49: -1568799095410134333
+      UnderkeepRogueSheet_5: 623334023628390740
+      UnderkeepRogueSheet_50: 4922361375240907690
+      UnderkeepRogueSheet_6: -3934049565778482923
+      UnderkeepRogueSheet_7: 1782650812379741762
+      UnderkeepRogueSheet_8: -6501565678952578314
+      UnderkeepRogueSheet_9: 7561505281371536816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

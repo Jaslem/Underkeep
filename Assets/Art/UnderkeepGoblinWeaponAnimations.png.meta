@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: 86a0c87b5c67c344ba7fd5ad4678220f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5781053080742632422
+    second: UnderkeepGoblinWeaponAnimations_0
+  - first:
+      213: 7850477503253155546
+    second: UnderkeepGoblinWeaponAnimations_1
+  - first:
+      213: -111127001991247201
+    second: UnderkeepGoblinWeaponAnimations_2
+  - first:
+      213: 3478035109736678838
+    second: UnderkeepGoblinWeaponAnimations_3
+  - first:
+      213: -4647213673578279731
+    second: UnderkeepGoblinWeaponAnimations_4
+  - first:
+      213: -1946680621256242276
+    second: UnderkeepGoblinWeaponAnimations_5
+  - first:
+      213: 2950135145319047681
+    second: UnderkeepGoblinWeaponAnimations_6
+  - first:
+      213: 4598361569649767049
+    second: UnderkeepGoblinWeaponAnimations_7
+  - first:
+      213: 3853420397499485372
+    second: UnderkeepGoblinWeaponAnimations_8
+  - first:
+      213: 7471967460783119380
+    second: UnderkeepGoblinWeaponAnimations_9
+  - first:
+      213: 8469147105342016298
+    second: UnderkeepGoblinWeaponAnimations_10
+  - first:
+      213: -2835773980677337733
+    second: UnderkeepGoblinWeaponAnimations_11
+  - first:
+      213: -8459409088223259895
+    second: UnderkeepGoblinWeaponAnimations_12
+  - first:
+      213: 8156235342954784483
+    second: UnderkeepGoblinWeaponAnimations_13
+  - first:
+      213: -1444272553214525948
+    second: UnderkeepGoblinWeaponAnimations_14
+  - first:
+      213: 836471351465149995
+    second: UnderkeepGoblinWeaponAnimations_15
+  - first:
+      213: 2782803632178251491
+    second: UnderkeepGoblinWeaponAnimations_16
+  - first:
+      213: -1160360194890937909
+    second: UnderkeepGoblinWeaponAnimations_17
+  - first:
+      213: -8813140434941829020
+    second: UnderkeepGoblinWeaponAnimations_18
+  - first:
+      213: 7116182925620261733
+    second: UnderkeepGoblinWeaponAnimations_19
+  - first:
+      213: -2815573770373609214
+    second: UnderkeepGoblinWeaponAnimations_20
+  - first:
+      213: -5412329243123695439
+    second: UnderkeepGoblinWeaponAnimations_21
+  - first:
+      213: 7141032754960456796
+    second: UnderkeepGoblinWeaponAnimations_22
+  - first:
+      213: 1586407952762457101
+    second: UnderkeepGoblinWeaponAnimations_23
+  - first:
+      213: -2497386766824830537
+    second: UnderkeepGoblinWeaponAnimations_24
+  - first:
+      213: -2825574754066992911
+    second: UnderkeepGoblinWeaponAnimations_25
+  - first:
+      213: 1208892466911773623
+    second: UnderkeepGoblinWeaponAnimations_26
+  - first:
+      213: -8134117860460487742
+    second: UnderkeepGoblinWeaponAnimations_27
+  - first:
+      213: 6763899023559119944
+    second: UnderkeepGoblinWeaponAnimations_28
+  - first:
+      213: -465194108147882935
+    second: UnderkeepGoblinWeaponAnimations_29
+  - first:
+      213: 6218987672855150714
+    second: UnderkeepGoblinWeaponAnimations_30
+  - first:
+      213: 7930238532731624626
+    second: UnderkeepGoblinWeaponAnimations_31
+  - first:
+      213: -5981099061666014992
+    second: UnderkeepGoblinWeaponAnimations_32
+  - first:
+      213: -4504770777730575789
+    second: UnderkeepGoblinWeaponAnimations_33
+  - first:
+      213: -558152548343051351
+    second: UnderkeepGoblinWeaponAnimations_34
+  - first:
+      213: -7018514481269931268
+    second: UnderkeepGoblinWeaponAnimations_35
+  - first:
+      213: -8584766933020141730
+    second: UnderkeepGoblinWeaponAnimations_36
+  - first:
+      213: -6716486220926940458
+    second: UnderkeepGoblinWeaponAnimations_37
+  - first:
+      213: 956011303974906535
+    second: UnderkeepGoblinWeaponAnimations_38
+  - first:
+      213: -1251320543660590511
+    second: UnderkeepGoblinWeaponAnimations_39
+  - first:
+      213: -7386354100530067687
+    second: UnderkeepGoblinWeaponAnimations_40
+  - first:
+      213: -7563973408008562203
+    second: UnderkeepGoblinWeaponAnimations_41
+  - first:
+      213: 7198061570480327607
+    second: UnderkeepGoblinWeaponAnimations_42
+  - first:
+      213: -8960699167876637656
+    second: UnderkeepGoblinWeaponAnimations_43
+  - first:
+      213: -8725810241977717788
+    second: UnderkeepGoblinWeaponAnimations_44
+  - first:
+      213: -8367425675588433512
+    second: UnderkeepGoblinWeaponAnimations_45
+  - first:
+      213: -2673106339203408270
+    second: UnderkeepGoblinWeaponAnimations_46
+  - first:
+      213: -3251618697343383682
+    second: UnderkeepGoblinWeaponAnimations_47
+  - first:
+      213: 6629960500327736658
+    second: UnderkeepGoblinWeaponAnimations_48
+  - first:
+      213: 4364140085082523367
+    second: UnderkeepGoblinWeaponAnimations_49
+  - first:
+      213: 226000307967146452
+    second: UnderkeepGoblinWeaponAnimations_50
+  - first:
+      213: 7214821201955578812
+    second: UnderkeepGoblinWeaponAnimations_51
+  - first:
+      213: 340056457587585722
+    second: UnderkeepGoblinWeaponAnimations_52
+  - first:
+      213: 8213244433111752826
+    second: UnderkeepGoblinWeaponAnimations_53
+  - first:
+      213: 6368296580099519774
+    second: UnderkeepGoblinWeaponAnimations_54
+  - first:
+      213: -4531583696330157470
+    second: UnderkeepGoblinWeaponAnimations_55
+  - first:
+      213: 4180036411017568202
+    second: UnderkeepGoblinWeaponAnimations_56
+  - first:
+      213: 4210904135414080539
+    second: UnderkeepGoblinWeaponAnimations_57
+  - first:
+      213: -3692889678814743711
+    second: UnderkeepGoblinWeaponAnimations_58
+  - first:
+      213: 3374492679601943410
+    second: UnderkeepGoblinWeaponAnimations_59
+  - first:
+      213: 6836326951265710129
+    second: UnderkeepGoblinWeaponAnimations_60
+  - first:
+      213: 538835516836512945
+    second: UnderkeepGoblinWeaponAnimations_61
+  - first:
+      213: 6906441904644974602
+    second: UnderkeepGoblinWeaponAnimations_62
+  - first:
+      213: 4952191549100727818
+    second: UnderkeepGoblinWeaponAnimations_63
+  - first:
+      213: 975395927698874770
+    second: UnderkeepGoblinWeaponAnimations_64
+  - first:
+      213: 3792716805304464661
+    second: UnderkeepGoblinWeaponAnimations_65
+  - first:
+      213: -2999332643432136394
+    second: UnderkeepGoblinWeaponAnimations_66
+  - first:
+      213: -517723376958834370
+    second: UnderkeepGoblinWeaponAnimations_67
+  - first:
+      213: -2026761723513920677
+    second: UnderkeepGoblinWeaponAnimations_68
+  - first:
+      213: 1679286043245983068
+    second: UnderkeepGoblinWeaponAnimations_69
+  - first:
+      213: -4200272929806327473
+    second: UnderkeepGoblinWeaponAnimations_70
+  - first:
+      213: 6132241765815312157
+    second: UnderkeepGoblinWeaponAnimations_71
+  - first:
+      213: 5423546254731086984
+    second: UnderkeepGoblinWeaponAnimations_72
+  - first:
+      213: 7288945881710139299
+    second: UnderkeepGoblinWeaponAnimations_73
+  - first:
+      213: 1720046539900192702
+    second: UnderkeepGoblinWeaponAnimations_74
+  - first:
+      213: -2729493890603928947
+    second: UnderkeepGoblinWeaponAnimations_75
+  - first:
+      213: 5037039738691665812
+    second: UnderkeepGoblinWeaponAnimations_76
+  - first:
+      213: 4287318773326178773
+    second: UnderkeepGoblinWeaponAnimations_77
+  - first:
+      213: 2551080886640570622
+    second: UnderkeepGoblinWeaponAnimations_78
+  - first:
+      213: 5037579528141740822
+    second: UnderkeepGoblinWeaponAnimations_79
+  - first:
+      213: 3408475630220581822
+    second: UnderkeepGoblinWeaponAnimations_80
+  - first:
+      213: -7052055942389972483
+    second: UnderkeepGoblinWeaponAnimations_81
+  - first:
+      213: -1854313904583919417
+    second: UnderkeepGoblinWeaponAnimations_82
+  - first:
+      213: -2973054028248662098
+    second: UnderkeepGoblinWeaponAnimations_83
+  - first:
+      213: 5976902102031393250
+    second: UnderkeepGoblinWeaponAnimations_84
+  - first:
+      213: 2276147920633778401
+    second: UnderkeepGoblinWeaponAnimations_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1468a63ad295cfa0800000000000000
+      internalID: -5781053080742632422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade899212bf72fc60800000000000000
+      internalID: 7850477503253155546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8b599492357ef0800000000000000
+      internalID: -111127001991247201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b501304186744030800000000000000
+      internalID: 3478035109736678838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc470f29c7c18fb0800000000000000
+      internalID: -4647213673578279731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b82e6f9400cf4e0800000000000000
+      internalID: -1946680621256242276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022320c84cf0f820800000000000000
+      internalID: 2950135145319047681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98238c30c79a0df30800000000000000
+      internalID: 4598361569649767049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc833b6f691a7530800000000000000
+      internalID: 3853420397499485372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c514141d2c1b760800000000000000
+      internalID: 7471967460783119380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b407cbb64788570800000000000000
+      internalID: 8469147105342016298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d8e62d69e45a8d0800000000000000
+      internalID: -2835773980677337733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ddbe01442a9a80800000000000000
+      internalID: -8459409088223259895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66e41b4d4c03170800000000000000
+      internalID: 8156235342954784483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3dc2d3c9e4fbe0800000000000000
+      internalID: -1444272553214525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260fd8234ebb9b00800000000000000
+      internalID: 836471351465149995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6c6a7d8218e9620800000000000000
+      internalID: 2782803632178251491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c504fc8295efe0800000000000000
+      internalID: -1160360194890937909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46029abe77f61b580800000000000000
+      internalID: -8813140434941829020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563bb4eeaa2c1c260800000000000000
+      internalID: 7116182925620261733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20949f9c2921de8d0800000000000000
+      internalID: -2815573770373609214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04728aa3b83e4b0800000000000000
+      internalID: -5412329243123695439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 559
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f076815bba89c8d0800000000000000
+      internalID: -2825574754066992911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30ced2b49d6c010800000000000000
+      internalID: 1208892466911773623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb971ef6eecd1f80800000000000000
+      internalID: -8134117860460487742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445ad343523edd50800000000000000
+      internalID: 6763899023559119944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944ad306c6c4b89f0800000000000000
+      internalID: -465194108147882935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70801fb6584e4650800000000000000
+      internalID: 6218987672855150714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc5597ededdd0e60800000000000000
+      internalID: 7930238532731624626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f899f6b71edefca0800000000000000
+      internalID: -5981099061666014992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521fce48d6db71c0800000000000000
+      internalID: -4504770777730575789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8889e63b0148f0800000000000000
+      internalID: -558152548343051351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf288f4d34a399e90800000000000000
+      internalID: -7018514481269931268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5790dd55f7ccd880800000000000000
+      internalID: -8584766933020141730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da08d61e5f3ac2a0800000000000000
+      internalID: -6716486220926940458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaaeae373f644d00800000000000000
+      internalID: 956011303974906535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a36f6689a62aee0800000000000000
+      internalID: -1251320543660590511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917c7a484166e7990800000000000000
+      internalID: -7386354100530067687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91625d24e570790800000000000000
+      internalID: -7563973408008562203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbced38cd6a4e360800000000000000
+      internalID: 7198061570480327607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c1397259335a380800000000000000
+      internalID: -8960699167876637656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebe375f0d1b7e680800000000000000
+      internalID: -8725810241977717788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899811a3eaee0eb80800000000000000
+      internalID: -8367425675588433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e9fec72f737ead0800000000000000
+      internalID: -2673106339203408270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e7e0b2f9520c50800000000000000
+      internalID: 6629960500327736658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e60361094a809c30800000000000000
+      internalID: 4364140085082523367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b28b251ae22300800000000000000
+      internalID: 226000307967146452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3e48c48a1302460800000000000000
+      internalID: 7214821201955578812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a419db4e4bf170800000000000000
+      internalID: 8213244433111752826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621a4633a49c11c0800000000000000
+      internalID: -4531583696330157470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1464963003207a30800000000000000
+      internalID: 4210904135414080539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1637a83276830ccc0800000000000000
+      internalID: -3692889678814743711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27374d8963b94de20800000000000000
+      internalID: 3374492679601943410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b487653c045a7700800000000000000
+      internalID: 538835516836512945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e17dfd9f7b9b440800000000000000
+      internalID: 4952191549100727818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291aad9ad6d498d00800000000000000
+      internalID: 975395927698874770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b3d9f6df62a430800000000000000
+      internalID: 3792716805304464661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318ef81ada3066d0800000000000000
+      internalID: -2999332643432136394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f378e45da0d8f0800000000000000
+      internalID: -517723376958834370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b2f352c50e4710800000000000000
+      internalID: 1679286043245983068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41643b3602a5b5c0800000000000000
+      internalID: -4200272929806327473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5c3065691a1550800000000000000
+      internalID: 6132241765815312157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8520659e444b40800000000000000
+      internalID: 5423546254731086984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 151
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb704eff635ded710800000000000000
+      internalID: 1720046539900192702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 150
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f3e3874f827e540800000000000000
+      internalID: 5037039738691665812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ff79dc82476320800000000000000
+      internalID: 2551080886640570622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1baef3e319e540800000000000000
+      internalID: 5037579528141740822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9fdcd6865d4f20800000000000000
+      internalID: 3408475630220581822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8353f04572446e0800000000000000
+      internalID: -1854313904583919417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepGoblinWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1edd87bc832f250800000000000000
+      internalID: 5976902102031393250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8e3aa30a275a2e46b29603281f83fec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepGoblinWeaponAnimations_0: -5781053080742632422
+      UnderkeepGoblinWeaponAnimations_1: 7850477503253155546
+      UnderkeepGoblinWeaponAnimations_10: 8469147105342016298
+      UnderkeepGoblinWeaponAnimations_11: -2835773980677337733
+      UnderkeepGoblinWeaponAnimations_12: -8459409088223259895
+      UnderkeepGoblinWeaponAnimations_13: 8156235342954784483
+      UnderkeepGoblinWeaponAnimations_14: -1444272553214525948
+      UnderkeepGoblinWeaponAnimations_15: 836471351465149995
+      UnderkeepGoblinWeaponAnimations_16: 2782803632178251491
+      UnderkeepGoblinWeaponAnimations_17: -1160360194890937909
+      UnderkeepGoblinWeaponAnimations_18: -8813140434941829020
+      UnderkeepGoblinWeaponAnimations_19: 7116182925620261733
+      UnderkeepGoblinWeaponAnimations_2: -111127001991247201
+      UnderkeepGoblinWeaponAnimations_20: -2815573770373609214
+      UnderkeepGoblinWeaponAnimations_21: -5412329243123695439
+      UnderkeepGoblinWeaponAnimations_22: 7141032754960456796
+      UnderkeepGoblinWeaponAnimations_23: 1586407952762457101
+      UnderkeepGoblinWeaponAnimations_24: -2497386766824830537
+      UnderkeepGoblinWeaponAnimations_25: -2825574754066992911
+      UnderkeepGoblinWeaponAnimations_26: 1208892466911773623
+      UnderkeepGoblinWeaponAnimations_27: -8134117860460487742
+      UnderkeepGoblinWeaponAnimations_28: 6763899023559119944
+      UnderkeepGoblinWeaponAnimations_29: -465194108147882935
+      UnderkeepGoblinWeaponAnimations_3: 3478035109736678838
+      UnderkeepGoblinWeaponAnimations_30: 6218987672855150714
+      UnderkeepGoblinWeaponAnimations_31: 7930238532731624626
+      UnderkeepGoblinWeaponAnimations_32: -5981099061666014992
+      UnderkeepGoblinWeaponAnimations_33: -4504770777730575789
+      UnderkeepGoblinWeaponAnimations_34: -558152548343051351
+      UnderkeepGoblinWeaponAnimations_35: -7018514481269931268
+      UnderkeepGoblinWeaponAnimations_36: -8584766933020141730
+      UnderkeepGoblinWeaponAnimations_37: -6716486220926940458
+      UnderkeepGoblinWeaponAnimations_38: 956011303974906535
+      UnderkeepGoblinWeaponAnimations_39: -1251320543660590511
+      UnderkeepGoblinWeaponAnimations_4: -4647213673578279731
+      UnderkeepGoblinWeaponAnimations_40: -7386354100530067687
+      UnderkeepGoblinWeaponAnimations_41: -7563973408008562203
+      UnderkeepGoblinWeaponAnimations_42: 7198061570480327607
+      UnderkeepGoblinWeaponAnimations_43: -8960699167876637656
+      UnderkeepGoblinWeaponAnimations_44: -8725810241977717788
+      UnderkeepGoblinWeaponAnimations_45: -8367425675588433512
+      UnderkeepGoblinWeaponAnimations_46: -2673106339203408270
+      UnderkeepGoblinWeaponAnimations_47: -3251618697343383682
+      UnderkeepGoblinWeaponAnimations_48: 6629960500327736658
+      UnderkeepGoblinWeaponAnimations_49: 4364140085082523367
+      UnderkeepGoblinWeaponAnimations_5: -1946680621256242276
+      UnderkeepGoblinWeaponAnimations_50: 226000307967146452
+      UnderkeepGoblinWeaponAnimations_51: 7214821201955578812
+      UnderkeepGoblinWeaponAnimations_52: 340056457587585722
+      UnderkeepGoblinWeaponAnimations_53: 8213244433111752826
+      UnderkeepGoblinWeaponAnimations_54: 6368296580099519774
+      UnderkeepGoblinWeaponAnimations_55: -4531583696330157470
+      UnderkeepGoblinWeaponAnimations_56: 4180036411017568202
+      UnderkeepGoblinWeaponAnimations_57: 4210904135414080539
+      UnderkeepGoblinWeaponAnimations_58: -3692889678814743711
+      UnderkeepGoblinWeaponAnimations_59: 3374492679601943410
+      UnderkeepGoblinWeaponAnimations_6: 2950135145319047681
+      UnderkeepGoblinWeaponAnimations_60: 6836326951265710129
+      UnderkeepGoblinWeaponAnimations_61: 538835516836512945
+      UnderkeepGoblinWeaponAnimations_62: 6906441904644974602
+      UnderkeepGoblinWeaponAnimations_63: 4952191549100727818
+      UnderkeepGoblinWeaponAnimations_64: 975395927698874770
+      UnderkeepGoblinWeaponAnimations_65: 3792716805304464661
+      UnderkeepGoblinWeaponAnimations_66: -2999332643432136394
+      UnderkeepGoblinWeaponAnimations_67: -517723376958834370
+      UnderkeepGoblinWeaponAnimations_68: -2026761723513920677
+      UnderkeepGoblinWeaponAnimations_69: 1679286043245983068
+      UnderkeepGoblinWeaponAnimations_7: 4598361569649767049
+      UnderkeepGoblinWeaponAnimations_70: -4200272929806327473
+      UnderkeepGoblinWeaponAnimations_71: 6132241765815312157
+      UnderkeepGoblinWeaponAnimations_72: 5423546254731086984
+      UnderkeepGoblinWeaponAnimations_73: 7288945881710139299
+      UnderkeepGoblinWeaponAnimations_74: 1720046539900192702
+      UnderkeepGoblinWeaponAnimations_75: -2729493890603928947
+      UnderkeepGoblinWeaponAnimations_76: 5037039738691665812
+      UnderkeepGoblinWeaponAnimations_77: 4287318773326178773
+      UnderkeepGoblinWeaponAnimations_78: 2551080886640570622
+      UnderkeepGoblinWeaponAnimations_79: 5037579528141740822
+      UnderkeepGoblinWeaponAnimations_8: 3853420397499485372
+      UnderkeepGoblinWeaponAnimations_80: 3408475630220581822
+      UnderkeepGoblinWeaponAnimations_81: -7052055942389972483
+      UnderkeepGoblinWeaponAnimations_82: -1854313904583919417
+      UnderkeepGoblinWeaponAnimations_83: -2973054028248662098
+      UnderkeepGoblinWeaponAnimations_84: 5976902102031393250
+      UnderkeepGoblinWeaponAnimations_85: 2276147920633778401
+      UnderkeepGoblinWeaponAnimations_9: 7471967460783119380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

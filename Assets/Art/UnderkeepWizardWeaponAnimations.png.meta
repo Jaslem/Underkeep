@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: f5af9ae7a0caf48479a5e19bde02de2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6243368174853874727
+    second: UnderkeepWizardWeaponAnimations_0
+  - first:
+      213: -6951433503932628327
+    second: UnderkeepWizardWeaponAnimations_1
+  - first:
+      213: -3771700747560939751
+    second: UnderkeepWizardWeaponAnimations_2
+  - first:
+      213: -3186099139153869177
+    second: UnderkeepWizardWeaponAnimations_3
+  - first:
+      213: -4400366859713071407
+    second: UnderkeepWizardWeaponAnimations_4
+  - first:
+      213: 5442029884884834319
+    second: UnderkeepWizardWeaponAnimations_5
+  - first:
+      213: -1842974614812296969
+    second: UnderkeepWizardWeaponAnimations_6
+  - first:
+      213: 6467166335653540479
+    second: UnderkeepWizardWeaponAnimations_7
+  - first:
+      213: -8528523137070675997
+    second: UnderkeepWizardWeaponAnimations_8
+  - first:
+      213: 934460775859306876
+    second: UnderkeepWizardWeaponAnimations_9
+  - first:
+      213: 4563107758314367658
+    second: UnderkeepWizardWeaponAnimations_10
+  - first:
+      213: -2918742296616146596
+    second: UnderkeepWizardWeaponAnimations_11
+  - first:
+      213: 2453207648461503435
+    second: UnderkeepWizardWeaponAnimations_12
+  - first:
+      213: -9054799987081052092
+    second: UnderkeepWizardWeaponAnimations_13
+  - first:
+      213: 3001511601975431861
+    second: UnderkeepWizardWeaponAnimations_14
+  - first:
+      213: 8694038817609710649
+    second: UnderkeepWizardWeaponAnimations_15
+  - first:
+      213: 1279602910299559826
+    second: UnderkeepWizardWeaponAnimations_16
+  - first:
+      213: -6213274273773923074
+    second: UnderkeepWizardWeaponAnimations_17
+  - first:
+      213: -8793379698296152537
+    second: UnderkeepWizardWeaponAnimations_18
+  - first:
+      213: 8097792657490058286
+    second: UnderkeepWizardWeaponAnimations_19
+  - first:
+      213: -7474281489549496432
+    second: UnderkeepWizardWeaponAnimations_20
+  - first:
+      213: -4944958552520654850
+    second: UnderkeepWizardWeaponAnimations_21
+  - first:
+      213: -5547587788643474076
+    second: UnderkeepWizardWeaponAnimations_22
+  - first:
+      213: -7693071262388272689
+    second: UnderkeepWizardWeaponAnimations_23
+  - first:
+      213: -5611499922829189537
+    second: UnderkeepWizardWeaponAnimations_24
+  - first:
+      213: -3990016642671061736
+    second: UnderkeepWizardWeaponAnimations_25
+  - first:
+      213: -8465346793344109981
+    second: UnderkeepWizardWeaponAnimations_26
+  - first:
+      213: 6850810463990792314
+    second: UnderkeepWizardWeaponAnimations_27
+  - first:
+      213: 3053785818413264652
+    second: UnderkeepWizardWeaponAnimations_28
+  - first:
+      213: 6525203490998573369
+    second: UnderkeepWizardWeaponAnimations_29
+  - first:
+      213: 6530154271596833731
+    second: UnderkeepWizardWeaponAnimations_30
+  - first:
+      213: 3134245747244045695
+    second: UnderkeepWizardWeaponAnimations_31
+  - first:
+      213: -2062143142221416390
+    second: UnderkeepWizardWeaponAnimations_32
+  - first:
+      213: 8633042170361724507
+    second: UnderkeepWizardWeaponAnimations_33
+  - first:
+      213: 8981068348825842917
+    second: UnderkeepWizardWeaponAnimations_34
+  - first:
+      213: 1431359921207928173
+    second: UnderkeepWizardWeaponAnimations_35
+  - first:
+      213: 7227016318949824444
+    second: UnderkeepWizardWeaponAnimations_36
+  - first:
+      213: 2244312308978172225
+    second: UnderkeepWizardWeaponAnimations_37
+  - first:
+      213: -4563280272294551886
+    second: UnderkeepWizardWeaponAnimations_38
+  - first:
+      213: 7724104794093193074
+    second: UnderkeepWizardWeaponAnimations_39
+  - first:
+      213: -2273717571577545176
+    second: UnderkeepWizardWeaponAnimations_40
+  - first:
+      213: 5996894934467734645
+    second: UnderkeepWizardWeaponAnimations_41
+  - first:
+      213: 851704582714118367
+    second: UnderkeepWizardWeaponAnimations_42
+  - first:
+      213: 5040046766681250973
+    second: UnderkeepWizardWeaponAnimations_43
+  - first:
+      213: 6310114494476751687
+    second: UnderkeepWizardWeaponAnimations_44
+  - first:
+      213: 5449041345697350852
+    second: UnderkeepWizardWeaponAnimations_45
+  - first:
+      213: -463848552108323289
+    second: UnderkeepWizardWeaponAnimations_46
+  - first:
+      213: -1284593093286548699
+    second: UnderkeepWizardWeaponAnimations_47
+  - first:
+      213: -7080468663207363146
+    second: UnderkeepWizardWeaponAnimations_48
+  - first:
+      213: 5177999101870123049
+    second: UnderkeepWizardWeaponAnimations_49
+  - first:
+      213: 8586745458107237698
+    second: UnderkeepWizardWeaponAnimations_50
+  - first:
+      213: 5707814371292988203
+    second: UnderkeepWizardWeaponAnimations_51
+  - first:
+      213: -7906605627075348624
+    second: UnderkeepWizardWeaponAnimations_52
+  - first:
+      213: 7634450118594127180
+    second: UnderkeepWizardWeaponAnimations_53
+  - first:
+      213: 2319509413582599389
+    second: UnderkeepWizardWeaponAnimations_54
+  - first:
+      213: 9195508692153157839
+    second: UnderkeepWizardWeaponAnimations_55
+  - first:
+      213: 4054866561136116992
+    second: UnderkeepWizardWeaponAnimations_56
+  - first:
+      213: -6720106747054096765
+    second: UnderkeepWizardWeaponAnimations_57
+  - first:
+      213: -5641352663886699477
+    second: UnderkeepWizardWeaponAnimations_58
+  - first:
+      213: -201553846619853357
+    second: UnderkeepWizardWeaponAnimations_59
+  - first:
+      213: 6566768456688460309
+    second: UnderkeepWizardWeaponAnimations_60
+  - first:
+      213: -6957745180039355295
+    second: UnderkeepWizardWeaponAnimations_61
+  - first:
+      213: 3467444316921333144
+    second: UnderkeepWizardWeaponAnimations_62
+  - first:
+      213: 1404971945208994588
+    second: UnderkeepWizardWeaponAnimations_63
+  - first:
+      213: 7431192263127098333
+    second: UnderkeepWizardWeaponAnimations_64
+  - first:
+      213: 5983196469919730951
+    second: UnderkeepWizardWeaponAnimations_65
+  - first:
+      213: 402913137942556421
+    second: UnderkeepWizardWeaponAnimations_66
+  - first:
+      213: 7781232661168745075
+    second: UnderkeepWizardWeaponAnimations_67
+  - first:
+      213: -4827090327232381824
+    second: UnderkeepWizardWeaponAnimations_68
+  - first:
+      213: 872127517650591050
+    second: UnderkeepWizardWeaponAnimations_69
+  - first:
+      213: 6772141046156818697
+    second: UnderkeepWizardWeaponAnimations_70
+  - first:
+      213: -4458972095882755285
+    second: UnderkeepWizardWeaponAnimations_71
+  - first:
+      213: 4024352210506661266
+    second: UnderkeepWizardWeaponAnimations_72
+  - first:
+      213: 4173523245032863185
+    second: UnderkeepWizardWeaponAnimations_73
+  - first:
+      213: 8601168321998453314
+    second: UnderkeepWizardWeaponAnimations_74
+  - first:
+      213: -8284383605654925855
+    second: UnderkeepWizardWeaponAnimations_75
+  - first:
+      213: -8106535257461610207
+    second: UnderkeepWizardWeaponAnimations_76
+  - first:
+      213: -1513430811692562601
+    second: UnderkeepWizardWeaponAnimations_77
+  - first:
+      213: -3740649210873212303
+    second: UnderkeepWizardWeaponAnimations_78
+  - first:
+      213: -3975562694671121303
+    second: UnderkeepWizardWeaponAnimations_79
+  - first:
+      213: -2718417164918983349
+    second: UnderkeepWizardWeaponAnimations_80
+  - first:
+      213: -7282588034713879671
+    second: UnderkeepWizardWeaponAnimations_81
+  - first:
+      213: 3588558406704085013
+    second: UnderkeepWizardWeaponAnimations_82
+  - first:
+      213: -7409205896736543719
+    second: UnderkeepWizardWeaponAnimations_83
+  - first:
+      213: -1999119246352254644
+    second: UnderkeepWizardWeaponAnimations_84
+  - first:
+      213: 1908494388367793345
+    second: UnderkeepWizardWeaponAnimations_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724e428b646e4a650800000000000000
+      internalID: 6243368174853874727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992c856fe0c878f90800000000000000
+      internalID: -6951433503932628327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0e86472a38abc0800000000000000
+      internalID: -3771700747560939751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864e8fa6b3b8c3d0800000000000000
+      internalID: -3186099139153869177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6b66db7a1cee2c0800000000000000
+      internalID: -4400366859713071407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08de91e859f58b40800000000000000
+      internalID: 5442029884884834319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8fc023a507c66e0800000000000000
+      internalID: -1842974614812296969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f727efb848dffb950800000000000000
+      internalID: 6467166335653540479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c334946994a980800000000000000
+      internalID: -8528523137070675997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7141a9ef1fd7fc00800000000000000
+      internalID: 934460775859306876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa282e645a635f30800000000000000
+      internalID: 4563107758314367658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59694b685b8e77d0800000000000000
+      internalID: -2918742296616146596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbb1decb5b8b0220800000000000000
+      internalID: 2453207648461503435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44082d9d263e65280800000000000000
+      internalID: -9054799987081052092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b295f836e287a920800000000000000
+      internalID: 3001511601975431861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c751bdd3e67a870800000000000000
+      internalID: 8694038817609710649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29716f9311012c110800000000000000
+      internalID: 1279602910299559826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d1a3a7f306c9a0800000000000000
+      internalID: -6213274273773923074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1de3f0c3a7f580800000000000000
+      internalID: -8793379698296152537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c167e9483216070800000000000000
+      internalID: 8097792657490058286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fef10f594064890800000000000000
+      internalID: -7474281489549496432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff9ff556aff5bb0800000000000000
+      internalID: -4944958552520654850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 559
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d1b5e00d90a8c0800000000000000
+      internalID: -3990016642671061736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627b3a51fb058a80800000000000000
+      internalID: -8465346793344109981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7043b1e1d7f21f50800000000000000
+      internalID: 6850810463990792314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe5aea50a316a20800000000000000
+      internalID: 3053785818413264652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939db18c00e2e8a50800000000000000
+      internalID: 6525203490998573369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb670736b4cf9a50800000000000000
+      internalID: 6530154271596833731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f759243b6e31f7b20800000000000000
+      internalID: 3134245747244045695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3872e3ecbbc163e0800000000000000
+      internalID: -2062143142221416390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb0673d1abec770800000000000000
+      internalID: 8633042170361724507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b44b541a23ac70800000000000000
+      internalID: 8981068348825842917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d656451c3463dd310800000000000000
+      internalID: 1431359921207928173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb794fc3d058b4460800000000000000
+      internalID: 7227016318949824444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414ea57726652f10800000000000000
+      internalID: 2244312308978172225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bed55705c8fba0c0800000000000000
+      internalID: -4563280272294551886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27701dbd268813b60800000000000000
+      internalID: 7724104794093193074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7e825ae12270e0800000000000000
+      internalID: -2273717571577545176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce9448b20493350800000000000000
+      internalID: 5996894934467734645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05f323eccd1db00800000000000000
+      internalID: 851704582714118367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c546bb4d7d1f540800000000000000
+      internalID: 5040046766681250973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743945743b7029750800000000000000
+      internalID: 6310114494476751687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405b0db32ee9b40800000000000000
+      internalID: 5449041345697350852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e010e03341099f0800000000000000
+      internalID: -463848552108323289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd7d36c34f1dbd90800000000000000
+      internalID: -7080468663207363146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a24abfb2fbd740800000000000000
+      internalID: 5177999101870123049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2454e27ef7f3a2770800000000000000
+      internalID: 8586745458107237698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c9ccedea363f40800000000000000
+      internalID: 5707814371292988203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45ed3e0fe303f960800000000000000
+      internalID: 7634450118594127180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc84ec48f620d9f70800000000000000
+      internalID: 9195508692153157839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7229a4826db2a0800000000000000
+      internalID: -6720106747054096765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24645034a3e5b1b0800000000000000
+      internalID: -5641352663886699477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2c1928dfe33df0800000000000000
+      internalID: -201553846619853357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164611a5f9f117f90800000000000000
+      internalID: -6957745180039355295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b52915a867f7310800000000000000
+      internalID: 1404971945208994588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3625dbdf5e02760800000000000000
+      internalID: 7431192263127098333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcfe23d75980350800000000000000
+      internalID: 5983196469919730951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f676e3d5f679500800000000000000
+      internalID: 402913137942556421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a61abe0ed7cfb60800000000000000
+      internalID: 7781232661168745075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d18684b5b6a1c00800000000000000
+      internalID: 872127517650591050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f401b66a7bfd50800000000000000
+      internalID: 6772141046156818697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238781e08c8e12c0800000000000000
+      internalID: -4458972095882755285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dbe46730f59d730800000000000000
+      internalID: 4024352210506661266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a7f06940d7d5770800000000000000
+      internalID: 8601168321998453314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12922d3322dcf7f80800000000000000
+      internalID: -8106535257461610207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729e8c8c5b861cc0800000000000000
+      internalID: -3740649210873212303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96445d9eac6f3d8c0800000000000000
+      internalID: -3975562694671121303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fda5cdfd364ad0800000000000000
+      internalID: -2718417164918983349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 103
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b65f9bde1dc130800000000000000
+      internalID: 3588558406704085013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepWizardWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 103
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49f68123a3b144e0800000000000000
+      internalID: -1999119246352254644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a657ab10f16267b4c94262f54148043d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepWizardWeaponAnimations_0: 6243368174853874727
+      UnderkeepWizardWeaponAnimations_1: -6951433503932628327
+      UnderkeepWizardWeaponAnimations_10: 4563107758314367658
+      UnderkeepWizardWeaponAnimations_11: -2918742296616146596
+      UnderkeepWizardWeaponAnimations_12: 2453207648461503435
+      UnderkeepWizardWeaponAnimations_13: -9054799987081052092
+      UnderkeepWizardWeaponAnimations_14: 3001511601975431861
+      UnderkeepWizardWeaponAnimations_15: 8694038817609710649
+      UnderkeepWizardWeaponAnimations_16: 1279602910299559826
+      UnderkeepWizardWeaponAnimations_17: -6213274273773923074
+      UnderkeepWizardWeaponAnimations_18: -8793379698296152537
+      UnderkeepWizardWeaponAnimations_19: 8097792657490058286
+      UnderkeepWizardWeaponAnimations_2: -3771700747560939751
+      UnderkeepWizardWeaponAnimations_20: -7474281489549496432
+      UnderkeepWizardWeaponAnimations_21: -4944958552520654850
+      UnderkeepWizardWeaponAnimations_22: -5547587788643474076
+      UnderkeepWizardWeaponAnimations_23: -7693071262388272689
+      UnderkeepWizardWeaponAnimations_24: -5611499922829189537
+      UnderkeepWizardWeaponAnimations_25: -3990016642671061736
+      UnderkeepWizardWeaponAnimations_26: -8465346793344109981
+      UnderkeepWizardWeaponAnimations_27: 6850810463990792314
+      UnderkeepWizardWeaponAnimations_28: 3053785818413264652
+      UnderkeepWizardWeaponAnimations_29: 6525203490998573369
+      UnderkeepWizardWeaponAnimations_3: -3186099139153869177
+      UnderkeepWizardWeaponAnimations_30: 6530154271596833731
+      UnderkeepWizardWeaponAnimations_31: 3134245747244045695
+      UnderkeepWizardWeaponAnimations_32: -2062143142221416390
+      UnderkeepWizardWeaponAnimations_33: 8633042170361724507
+      UnderkeepWizardWeaponAnimations_34: 8981068348825842917
+      UnderkeepWizardWeaponAnimations_35: 1431359921207928173
+      UnderkeepWizardWeaponAnimations_36: 7227016318949824444
+      UnderkeepWizardWeaponAnimations_37: 2244312308978172225
+      UnderkeepWizardWeaponAnimations_38: -4563280272294551886
+      UnderkeepWizardWeaponAnimations_39: 7724104794093193074
+      UnderkeepWizardWeaponAnimations_4: -4400366859713071407
+      UnderkeepWizardWeaponAnimations_40: -2273717571577545176
+      UnderkeepWizardWeaponAnimations_41: 5996894934467734645
+      UnderkeepWizardWeaponAnimations_42: 851704582714118367
+      UnderkeepWizardWeaponAnimations_43: 5040046766681250973
+      UnderkeepWizardWeaponAnimations_44: 6310114494476751687
+      UnderkeepWizardWeaponAnimations_45: 5449041345697350852
+      UnderkeepWizardWeaponAnimations_46: -463848552108323289
+      UnderkeepWizardWeaponAnimations_47: -1284593093286548699
+      UnderkeepWizardWeaponAnimations_48: -7080468663207363146
+      UnderkeepWizardWeaponAnimations_49: 5177999101870123049
+      UnderkeepWizardWeaponAnimations_5: 5442029884884834319
+      UnderkeepWizardWeaponAnimations_50: 8586745458107237698
+      UnderkeepWizardWeaponAnimations_51: 5707814371292988203
+      UnderkeepWizardWeaponAnimations_52: -7906605627075348624
+      UnderkeepWizardWeaponAnimations_53: 7634450118594127180
+      UnderkeepWizardWeaponAnimations_54: 2319509413582599389
+      UnderkeepWizardWeaponAnimations_55: 9195508692153157839
+      UnderkeepWizardWeaponAnimations_56: 4054866561136116992
+      UnderkeepWizardWeaponAnimations_57: -6720106747054096765
+      UnderkeepWizardWeaponAnimations_58: -5641352663886699477
+      UnderkeepWizardWeaponAnimations_59: -201553846619853357
+      UnderkeepWizardWeaponAnimations_6: -1842974614812296969
+      UnderkeepWizardWeaponAnimations_60: 6566768456688460309
+      UnderkeepWizardWeaponAnimations_61: -6957745180039355295
+      UnderkeepWizardWeaponAnimations_62: 3467444316921333144
+      UnderkeepWizardWeaponAnimations_63: 1404971945208994588
+      UnderkeepWizardWeaponAnimations_64: 7431192263127098333
+      UnderkeepWizardWeaponAnimations_65: 5983196469919730951
+      UnderkeepWizardWeaponAnimations_66: 402913137942556421
+      UnderkeepWizardWeaponAnimations_67: 7781232661168745075
+      UnderkeepWizardWeaponAnimations_68: -4827090327232381824
+      UnderkeepWizardWeaponAnimations_69: 872127517650591050
+      UnderkeepWizardWeaponAnimations_7: 6467166335653540479
+      UnderkeepWizardWeaponAnimations_70: 6772141046156818697
+      UnderkeepWizardWeaponAnimations_71: -4458972095882755285
+      UnderkeepWizardWeaponAnimations_72: 4024352210506661266
+      UnderkeepWizardWeaponAnimations_73: 4173523245032863185
+      UnderkeepWizardWeaponAnimations_74: 8601168321998453314
+      UnderkeepWizardWeaponAnimations_75: -8284383605654925855
+      UnderkeepWizardWeaponAnimations_76: -8106535257461610207
+      UnderkeepWizardWeaponAnimations_77: -1513430811692562601
+      UnderkeepWizardWeaponAnimations_78: -3740649210873212303
+      UnderkeepWizardWeaponAnimations_79: -3975562694671121303
+      UnderkeepWizardWeaponAnimations_8: -8528523137070675997
+      UnderkeepWizardWeaponAnimations_80: -2718417164918983349
+      UnderkeepWizardWeaponAnimations_81: -7282588034713879671
+      UnderkeepWizardWeaponAnimations_82: 3588558406704085013
+      UnderkeepWizardWeaponAnimations_83: -7409205896736543719
+      UnderkeepWizardWeaponAnimations_84: -1999119246352254644
+      UnderkeepWizardWeaponAnimations_85: 1908494388367793345
+      UnderkeepWizardWeaponAnimations_9: 934460775859306876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

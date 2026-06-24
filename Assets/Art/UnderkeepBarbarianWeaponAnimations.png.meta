@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: 5e65ac74a4018e84088f44b14a34926e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9036067898066635691
+    second: UnderkeepBarbarianWeaponAnimations_0
+  - first:
+      213: 823988183746732177
+    second: UnderkeepBarbarianWeaponAnimations_1
+  - first:
+      213: 5074726032023465758
+    second: UnderkeepBarbarianWeaponAnimations_2
+  - first:
+      213: 1145638843636370823
+    second: UnderkeepBarbarianWeaponAnimations_3
+  - first:
+      213: -5599683621545056856
+    second: UnderkeepBarbarianWeaponAnimations_4
+  - first:
+      213: -2048713001693240678
+    second: UnderkeepBarbarianWeaponAnimations_5
+  - first:
+      213: 1407591230978537391
+    second: UnderkeepBarbarianWeaponAnimations_6
+  - first:
+      213: -8099944734849393219
+    second: UnderkeepBarbarianWeaponAnimations_7
+  - first:
+      213: -7302607077436703162
+    second: UnderkeepBarbarianWeaponAnimations_8
+  - first:
+      213: 5903400757088062196
+    second: UnderkeepBarbarianWeaponAnimations_9
+  - first:
+      213: 6013507761333708052
+    second: UnderkeepBarbarianWeaponAnimations_10
+  - first:
+      213: -4645027628416501912
+    second: UnderkeepBarbarianWeaponAnimations_11
+  - first:
+      213: 2670984901333673596
+    second: UnderkeepBarbarianWeaponAnimations_12
+  - first:
+      213: 7646687756694414480
+    second: UnderkeepBarbarianWeaponAnimations_13
+  - first:
+      213: -3243993808957734669
+    second: UnderkeepBarbarianWeaponAnimations_14
+  - first:
+      213: -5549006659736729721
+    second: UnderkeepBarbarianWeaponAnimations_15
+  - first:
+      213: -3118191382480266507
+    second: UnderkeepBarbarianWeaponAnimations_16
+  - first:
+      213: 1573153360118282557
+    second: UnderkeepBarbarianWeaponAnimations_17
+  - first:
+      213: 223152900898435187
+    second: UnderkeepBarbarianWeaponAnimations_18
+  - first:
+      213: -4827491264924483709
+    second: UnderkeepBarbarianWeaponAnimations_19
+  - first:
+      213: -4038795628760379069
+    second: UnderkeepBarbarianWeaponAnimations_20
+  - first:
+      213: -8627446548727971029
+    second: UnderkeepBarbarianWeaponAnimations_21
+  - first:
+      213: -7000970638035564273
+    second: UnderkeepBarbarianWeaponAnimations_22
+  - first:
+      213: 7657382978030109312
+    second: UnderkeepBarbarianWeaponAnimations_23
+  - first:
+      213: -7869064199493994540
+    second: UnderkeepBarbarianWeaponAnimations_24
+  - first:
+      213: 7036132656424092407
+    second: UnderkeepBarbarianWeaponAnimations_25
+  - first:
+      213: -6041642821731868614
+    second: UnderkeepBarbarianWeaponAnimations_26
+  - first:
+      213: -2729978991994267950
+    second: UnderkeepBarbarianWeaponAnimations_27
+  - first:
+      213: 7369253915299628198
+    second: UnderkeepBarbarianWeaponAnimations_28
+  - first:
+      213: -6821700447753510901
+    second: UnderkeepBarbarianWeaponAnimations_29
+  - first:
+      213: 7908977895700235809
+    second: UnderkeepBarbarianWeaponAnimations_30
+  - first:
+      213: 8535433419345464175
+    second: UnderkeepBarbarianWeaponAnimations_31
+  - first:
+      213: 4760436471509589848
+    second: UnderkeepBarbarianWeaponAnimations_32
+  - first:
+      213: 708670401022611010
+    second: UnderkeepBarbarianWeaponAnimations_33
+  - first:
+      213: 4104687885459279691
+    second: UnderkeepBarbarianWeaponAnimations_34
+  - first:
+      213: 5878729537348696143
+    second: UnderkeepBarbarianWeaponAnimations_35
+  - first:
+      213: 7044541456444431602
+    second: UnderkeepBarbarianWeaponAnimations_36
+  - first:
+      213: -9079415785483874050
+    second: UnderkeepBarbarianWeaponAnimations_37
+  - first:
+      213: 618631713412049039
+    second: UnderkeepBarbarianWeaponAnimations_38
+  - first:
+      213: -2297580096787322700
+    second: UnderkeepBarbarianWeaponAnimations_39
+  - first:
+      213: 2489207322015798458
+    second: UnderkeepBarbarianWeaponAnimations_40
+  - first:
+      213: 3869611654454622830
+    second: UnderkeepBarbarianWeaponAnimations_41
+  - first:
+      213: 4171221469670414294
+    second: UnderkeepBarbarianWeaponAnimations_42
+  - first:
+      213: -2957264713363040559
+    second: UnderkeepBarbarianWeaponAnimations_43
+  - first:
+      213: -6792473975683073847
+    second: UnderkeepBarbarianWeaponAnimations_44
+  - first:
+      213: -3422834404785902432
+    second: UnderkeepBarbarianWeaponAnimations_45
+  - first:
+      213: 8186507968942625869
+    second: UnderkeepBarbarianWeaponAnimations_46
+  - first:
+      213: 3558587337396001249
+    second: UnderkeepBarbarianWeaponAnimations_47
+  - first:
+      213: -4915488126317647046
+    second: UnderkeepBarbarianWeaponAnimations_48
+  - first:
+      213: 5790505249703066355
+    second: UnderkeepBarbarianWeaponAnimations_49
+  - first:
+      213: -3403697164663995668
+    second: UnderkeepBarbarianWeaponAnimations_50
+  - first:
+      213: 8647065598002497
+    second: UnderkeepBarbarianWeaponAnimations_51
+  - first:
+      213: 124809896306325646
+    second: UnderkeepBarbarianWeaponAnimations_52
+  - first:
+      213: 3698799414148689341
+    second: UnderkeepBarbarianWeaponAnimations_53
+  - first:
+      213: -2491875527833161714
+    second: UnderkeepBarbarianWeaponAnimations_54
+  - first:
+      213: -5138710724230926470
+    second: UnderkeepBarbarianWeaponAnimations_55
+  - first:
+      213: 5262635395182574130
+    second: UnderkeepBarbarianWeaponAnimations_56
+  - first:
+      213: -6453331675234411815
+    second: UnderkeepBarbarianWeaponAnimations_57
+  - first:
+      213: 70473044962963064
+    second: UnderkeepBarbarianWeaponAnimations_58
+  - first:
+      213: -6973711172871532493
+    second: UnderkeepBarbarianWeaponAnimations_59
+  - first:
+      213: 3802553154202125806
+    second: UnderkeepBarbarianWeaponAnimations_60
+  - first:
+      213: -8870856625215595875
+    second: UnderkeepBarbarianWeaponAnimations_61
+  - first:
+      213: 5086408776308946458
+    second: UnderkeepBarbarianWeaponAnimations_62
+  - first:
+      213: -1212086576460882020
+    second: UnderkeepBarbarianWeaponAnimations_63
+  - first:
+      213: -7986951169427514712
+    second: UnderkeepBarbarianWeaponAnimations_64
+  - first:
+      213: -4879084117676330570
+    second: UnderkeepBarbarianWeaponAnimations_65
+  - first:
+      213: -835535980729731462
+    second: UnderkeepBarbarianWeaponAnimations_66
+  - first:
+      213: -7076351302190109193
+    second: UnderkeepBarbarianWeaponAnimations_67
+  - first:
+      213: -6900869968636906536
+    second: UnderkeepBarbarianWeaponAnimations_68
+  - first:
+      213: -7985081448732107
+    second: UnderkeepBarbarianWeaponAnimations_69
+  - first:
+      213: -5257782642588379598
+    second: UnderkeepBarbarianWeaponAnimations_70
+  - first:
+      213: -7416485543749737609
+    second: UnderkeepBarbarianWeaponAnimations_71
+  - first:
+      213: 7875393203035085506
+    second: UnderkeepBarbarianWeaponAnimations_72
+  - first:
+      213: -8062793370015459575
+    second: UnderkeepBarbarianWeaponAnimations_73
+  - first:
+      213: -4317246034502853748
+    second: UnderkeepBarbarianWeaponAnimations_74
+  - first:
+      213: -1795396055581144652
+    second: UnderkeepBarbarianWeaponAnimations_75
+  - first:
+      213: 363635653161436130
+    second: UnderkeepBarbarianWeaponAnimations_76
+  - first:
+      213: -1617530048098382500
+    second: UnderkeepBarbarianWeaponAnimations_77
+  - first:
+      213: 6091517825443862961
+    second: UnderkeepBarbarianWeaponAnimations_78
+  - first:
+      213: 2733881639586408580
+    second: UnderkeepBarbarianWeaponAnimations_79
+  - first:
+      213: 2692957800699432174
+    second: UnderkeepBarbarianWeaponAnimations_80
+  - first:
+      213: -8208607810166489507
+    second: UnderkeepBarbarianWeaponAnimations_81
+  - first:
+      213: -1070983348330988925
+    second: UnderkeepBarbarianWeaponAnimations_82
+  - first:
+      213: -138910243197389059
+    second: UnderkeepBarbarianWeaponAnimations_83
+  - first:
+      213: 5544458433869996290
+    second: UnderkeepBarbarianWeaponAnimations_84
+  - first:
+      213: 688967778637147223
+    second: UnderkeepBarbarianWeaponAnimations_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5547d613f10799280800000000000000
+      internalID: -9036067898066635691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 735
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e75f23e46f6b00800000000000000
+      internalID: 823988183746732177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1faf27607c0d6640800000000000000
+      internalID: 5074726032023465758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dc5db557026ef00800000000000000
+      internalID: 1145638843636370823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5eb332a6de942b0800000000000000
+      internalID: -5599683621545056856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a95721628193e0800000000000000
+      internalID: -2048713001693240678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73e6f44c4c88310800000000000000
+      internalID: 1407591230978537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd9103dd27379f80800000000000000
+      internalID: -8099944734849393219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb12fcd8de7aa90800000000000000
+      internalID: -7302607077436703162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 671
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa810506b71de150800000000000000
+      internalID: 5903400757088062196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a950b275447350800000000000000
+      internalID: 6013507761333708052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 672
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fb5c7bfb898fb0800000000000000
+      internalID: -4645027628416501912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ec64cd9e311520800000000000000
+      internalID: 2670984901333673596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946916300e7e1a60800000000000000
+      internalID: 7646687756694414480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 642
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0028371d40bf2d0800000000000000
+      internalID: -3243993808957734669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 637
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7878d16c7d7fdf2b0800000000000000
+      internalID: -5549006659736729721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa54916575f9b4d0800000000000000
+      internalID: -3118191382480266507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ff0765a6f4d510800000000000000
+      internalID: 1573153360118282557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37036ac816cc81300800000000000000
+      internalID: 223152900898435187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fffdd854e410db0800000000000000
+      internalID: -4827491264924483709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341565b26c053f7c0800000000000000
+      internalID: -4038795628760379069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 559
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b234668f217254880800000000000000
+      internalID: -8627446548727971029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 556
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f20faa3f5d55a160800000000000000
+      internalID: 7036132656424092407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3022e61dd5c72ca0800000000000000
+      internalID: -6041642821731868614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d617e1229a2d1ad0800000000000000
+      internalID: -2729978991994267950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 503
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a447195469d44660800000000000000
+      internalID: 7369253915299628198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00678fe5937451a0800000000000000
+      internalID: -6821700447753510901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 503
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12601a91e7552cd60800000000000000
+      internalID: 7908977895700235809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 503
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8514e873f37670800000000000000
+      internalID: 8535433419345464175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f942cbfb7701240800000000000000
+      internalID: 4760436471509589848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e49cb99f3b5d900800000000000000
+      internalID: 708670401022611010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f46ae52e7c6f830800000000000000
+      internalID: 4104687885459279691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 444
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f34c0e51759150800000000000000
+      internalID: 5878729537348696143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 443
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc12ec812d33c160800000000000000
+      internalID: 7044541456444431602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 442
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d82aa27f6ff180800000000000000
+      internalID: -9079415785483874050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8867b40442d59800800000000000000
+      internalID: 618631713412049039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8ebf7331b5d10e0800000000000000
+      internalID: -2297580096787322700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49d09fed07b8220800000000000000
+      internalID: 2489207322015798458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 392
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aba723c4f93b530800000000000000
+      internalID: 3869611654454622830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 391
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7103b93d723e930800000000000000
+      internalID: 4171221469670414294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 343
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6d235596fa5f6d0800000000000000
+      internalID: -2957264713363040559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8335d38e84cb1a0800000000000000
+      internalID: -6792473975683073847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac20c96e36af70d0800000000000000
+      internalID: -3422834404785902432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44dabfaf915c9170800000000000000
+      internalID: 8186507968942625869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3baf2da79da8cbb0800000000000000
+      internalID: -4915488126317647046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faf59e58d10c5050800000000000000
+      internalID: 5790505249703066355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 295
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2c2395673a3c0d0800000000000000
+      internalID: -3403697164663995668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458159d578be1000800000000000000
+      internalID: 8647065598002497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd61c75876c45330800000000000000
+      internalID: 3698799414148689341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa9b682d1afa8b0800000000000000
+      internalID: -5138710724230926470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 247
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da50e758092176a0800000000000000
+      internalID: -6453331675234411815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee14b6cde5af000800000000000000
+      internalID: 70473044962963064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 247
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d1d6f2a6683f90800000000000000
+      internalID: -6973711172871532493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 247
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9a9036e264e480800000000000000
+      internalID: -8870856625215595875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 247
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f970d3eadcd2fe0800000000000000
+      internalID: -1212086576460882020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad1e36a36a82190800000000000000
+      internalID: -7986951169427514712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f6a078d20a4cb0800000000000000
+      internalID: -4879084117676330570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76fb8fc3749764f0800000000000000
+      internalID: -835535980729731462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde5179bffbbcd90800000000000000
+      internalID: -7076351302190109193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 199
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aeeb85c91a3eff0800000000000000
+      internalID: -7985081448732107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361e422b8a9807b0800000000000000
+      internalID: -5257782642588379598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732af231b9531990800000000000000
+      internalID: -7416485543749737609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 152
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca9e6d74640b4d60800000000000000
+      internalID: 7875393203035085506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5e79fa9f0614c0800000000000000
+      internalID: -4317246034502853748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ca5e23b4eb0500800000000000000
+      internalID: 363635653161436130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99a80203b698450800000000000000
+      internalID: 6091517825443862961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488a281ddd2b0f520800000000000000
+      internalID: 2733881639586408580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8ec11ade4f5520800000000000000
+      internalID: 2692957800699432174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a7f5aa15a1321f0800000000000000
+      internalID: -1070983348330988925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderkeepBarbarianWeaponAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016dbed19fd1fc40800000000000000
+      internalID: 5544458433869996290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 345be1c45e1abea4186a55ef989fdac5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnderkeepBarbarianWeaponAnimations_0: -9036067898066635691
+      UnderkeepBarbarianWeaponAnimations_1: 823988183746732177
+      UnderkeepBarbarianWeaponAnimations_10: 6013507761333708052
+      UnderkeepBarbarianWeaponAnimations_11: -4645027628416501912
+      UnderkeepBarbarianWeaponAnimations_12: 2670984901333673596
+      UnderkeepBarbarianWeaponAnimations_13: 7646687756694414480
+      UnderkeepBarbarianWeaponAnimations_14: -3243993808957734669
+      UnderkeepBarbarianWeaponAnimations_15: -5549006659736729721
+      UnderkeepBarbarianWeaponAnimations_16: -3118191382480266507
+      UnderkeepBarbarianWeaponAnimations_17: 1573153360118282557
+      UnderkeepBarbarianWeaponAnimations_18: 223152900898435187
+      UnderkeepBarbarianWeaponAnimations_19: -4827491264924483709
+      UnderkeepBarbarianWeaponAnimations_2: 5074726032023465758
+      UnderkeepBarbarianWeaponAnimations_20: -4038795628760379069
+      UnderkeepBarbarianWeaponAnimations_21: -8627446548727971029
+      UnderkeepBarbarianWeaponAnimations_22: -7000970638035564273
+      UnderkeepBarbarianWeaponAnimations_23: 7657382978030109312
+      UnderkeepBarbarianWeaponAnimations_24: -7869064199493994540
+      UnderkeepBarbarianWeaponAnimations_25: 7036132656424092407
+      UnderkeepBarbarianWeaponAnimations_26: -6041642821731868614
+      UnderkeepBarbarianWeaponAnimations_27: -2729978991994267950
+      UnderkeepBarbarianWeaponAnimations_28: 7369253915299628198
+      UnderkeepBarbarianWeaponAnimations_29: -6821700447753510901
+      UnderkeepBarbarianWeaponAnimations_3: 1145638843636370823
+      UnderkeepBarbarianWeaponAnimations_30: 7908977895700235809
+      UnderkeepBarbarianWeaponAnimations_31: 8535433419345464175
+      UnderkeepBarbarianWeaponAnimations_32: 4760436471509589848
+      UnderkeepBarbarianWeaponAnimations_33: 708670401022611010
+      UnderkeepBarbarianWeaponAnimations_34: 4104687885459279691
+      UnderkeepBarbarianWeaponAnimations_35: 5878729537348696143
+      UnderkeepBarbarianWeaponAnimations_36: 7044541456444431602
+      UnderkeepBarbarianWeaponAnimations_37: -9079415785483874050
+      UnderkeepBarbarianWeaponAnimations_38: 618631713412049039
+      UnderkeepBarbarianWeaponAnimations_39: -2297580096787322700
+      UnderkeepBarbarianWeaponAnimations_4: -5599683621545056856
+      UnderkeepBarbarianWeaponAnimations_40: 2489207322015798458
+      UnderkeepBarbarianWeaponAnimations_41: 3869611654454622830
+      UnderkeepBarbarianWeaponAnimations_42: 4171221469670414294
+      UnderkeepBarbarianWeaponAnimations_43: -2957264713363040559
+      UnderkeepBarbarianWeaponAnimations_44: -6792473975683073847
+      UnderkeepBarbarianWeaponAnimations_45: -3422834404785902432
+      UnderkeepBarbarianWeaponAnimations_46: 8186507968942625869
+      UnderkeepBarbarianWeaponAnimations_47: 3558587337396001249
+      UnderkeepBarbarianWeaponAnimations_48: -4915488126317647046
+      UnderkeepBarbarianWeaponAnimations_49: 5790505249703066355
+      UnderkeepBarbarianWeaponAnimations_5: -2048713001693240678
+      UnderkeepBarbarianWeaponAnimations_50: -3403697164663995668
+      UnderkeepBarbarianWeaponAnimations_51: 8647065598002497
+      UnderkeepBarbarianWeaponAnimations_52: 124809896306325646
+      UnderkeepBarbarianWeaponAnimations_53: 3698799414148689341
+      UnderkeepBarbarianWeaponAnimations_54: -2491875527833161714
+      UnderkeepBarbarianWeaponAnimations_55: -5138710724230926470
+      UnderkeepBarbarianWeaponAnimations_56: 5262635395182574130
+      UnderkeepBarbarianWeaponAnimations_57: -6453331675234411815
+      UnderkeepBarbarianWeaponAnimations_58: 70473044962963064
+      UnderkeepBarbarianWeaponAnimations_59: -6973711172871532493
+      UnderkeepBarbarianWeaponAnimations_6: 1407591230978537391
+      UnderkeepBarbarianWeaponAnimations_60: 3802553154202125806
+      UnderkeepBarbarianWeaponAnimations_61: -8870856625215595875
+      UnderkeepBarbarianWeaponAnimations_62: 5086408776308946458
+      UnderkeepBarbarianWeaponAnimations_63: -1212086576460882020
+      UnderkeepBarbarianWeaponAnimations_64: -7986951169427514712
+      UnderkeepBarbarianWeaponAnimations_65: -4879084117676330570
+      UnderkeepBarbarianWeaponAnimations_66: -835535980729731462
+      UnderkeepBarbarianWeaponAnimations_67: -7076351302190109193
+      UnderkeepBarbarianWeaponAnimations_68: -6900869968636906536
+      UnderkeepBarbarianWeaponAnimations_69: -7985081448732107
+      UnderkeepBarbarianWeaponAnimations_7: -8099944734849393219
+      UnderkeepBarbarianWeaponAnimations_70: -5257782642588379598
+      UnderkeepBarbarianWeaponAnimations_71: -7416485543749737609
+      UnderkeepBarbarianWeaponAnimations_72: 7875393203035085506
+      UnderkeepBarbarianWeaponAnimations_73: -8062793370015459575
+      UnderkeepBarbarianWeaponAnimations_74: -4317246034502853748
+      UnderkeepBarbarianWeaponAnimations_75: -1795396055581144652
+      UnderkeepBarbarianWeaponAnimations_76: 363635653161436130
+      UnderkeepBarbarianWeaponAnimations_77: -1617530048098382500
+      UnderkeepBarbarianWeaponAnimations_78: 6091517825443862961
+      UnderkeepBarbarianWeaponAnimations_79: 2733881639586408580
+      UnderkeepBarbarianWeaponAnimations_8: -7302607077436703162
+      UnderkeepBarbarianWeaponAnimations_80: 2692957800699432174
+      UnderkeepBarbarianWeaponAnimations_81: -8208607810166489507
+      UnderkeepBarbarianWeaponAnimations_82: -1070983348330988925
+      UnderkeepBarbarianWeaponAnimations_83: -138910243197389059
+      UnderkeepBarbarianWeaponAnimations_84: 5544458433869996290
+      UnderkeepBarbarianWeaponAnimations_85: 688967778637147223
+      UnderkeepBarbarianWeaponAnimations_9: 5903400757088062196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
