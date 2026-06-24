@@ -695,8 +695,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.0045166016}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 191.56662}
+  m_SizeDelta: {x: 0, y: 383.1241}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1091168696
 GameObject:
@@ -732,8 +732,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -420, y: 187}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -201.01482, y: 187}
+  m_SizeDelta: {x: 637.9704, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1091168698
 MonoBehaviour:
@@ -755,7 +755,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Credits: Hehe'
+  m_text: 'Music: Purrsahfef On PixaBay
+
+
+    Walls and Floor Sprites: Pixel_Poem
+    on Itch.io'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1473,7 +1477,9 @@ MonoBehaviour:
     Reload        R
 
     Ability      
-    E'
+    E
+
+    Open Chest F'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1667,8 +1673,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.0045776367}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -156.26974}
+  m_SizeDelta: {x: 0, y: 312.5486}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1693620202
 MonoBehaviour:
@@ -2134,8 +2140,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 704.16}
+  m_AnchoredPosition: {x: 0, y: 0.0032654}
+  m_SizeDelta: {x: 1920, y: 1090.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2135928558
 MonoBehaviour:

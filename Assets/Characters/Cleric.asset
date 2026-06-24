@@ -15,12 +15,13 @@ MonoBehaviour:
   characterClass: 1
   characterName: Cleric
   characterSprite: {fileID: -2365224106836765542, guid: 895f71db2604f8c4ca4fb7d724f006fd, type: 3}
-  characterDescription: 'Special Ability: Divine Intervention'
+  characterDescription: 'Special Ability: Divine Intervention - Full heal + temporary
+    imunnity'
   moveSpeed: 10
   mobilityMultiplier: 1
   maxHealth: 100
-  baseMeleeDamage: 20
-  baseRangedDamage: 50
+  baseMeleeDamage: 8
+  baseRangedDamage: 12
   weaponSpriteOverrides:
   - weapon: {fileID: 11400000, guid: 3f8ceb3809fbf994c99a1ec993a3227d, type: 2}
     sprite: {fileID: -6278356324399511494, guid: ef707c1f9df5a814f9726954439022f0, type: 3}

@@ -184,7 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyStats
   maxHealth: 50
-  moveSpeed: 3
+  moveSpeed: 6
   meleeDamage: 10
   rangedDamage: 8
   OnHealthChanged:
@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54dccd0a34caf85418cec4433e46e492, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleMeleeEnemy
-  detectionRange: 8
+  detectionRange: 30
   attackRange: 1
   attackDamage: 10
   attackCooldown: 1

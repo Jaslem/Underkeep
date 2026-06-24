@@ -31,7 +31,7 @@ MonoBehaviour:
   enemyAttackClip: {fileID: 0}
   enemyHoldingSprite: {fileID: 0}
   meleeDamageMultiplier: 1
-  rangedDamageMultiplier: 1
+  rangedDamageMultiplier: 2
   meleeRange: 1.5
   meleeAttackDuration: 0.3
   meleeCooldown: 0.5

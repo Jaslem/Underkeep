@@ -35,11 +35,11 @@ MonoBehaviour:
   meleeRange: 1.5
   meleeAttackDuration: 0.3
   meleeCooldown: 0.5
-  meleeKnockback: 3
+  meleeKnockback: 10
   projectilePrefab: {fileID: 2335604909471345555, guid: 79fed4e59f59218419dfecf368089853, type: 3}
   fireRate: 0.25
   projectileSpeed: 15
-  magazineSize: 10
-  reloadTime: 1.5
+  magazineSize: 15
+  reloadTime: 1
   isAutomatic: 0
   pickupPrefab: {fileID: 0}

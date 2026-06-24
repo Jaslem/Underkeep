@@ -309,10 +309,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14ff2a87f1666ae43896e1671ccb1362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyStats
-  maxHealth: 50
-  moveSpeed: 3
-  meleeDamage: 10
-  rangedDamage: 8
+  maxHealth: 150
+  moveSpeed: 5
+  meleeDamage: 12
+  rangedDamage: 12
   OnHealthChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -361,7 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64893f44d93471247820d87a56229583, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
-  detectionRange: 8
+  detectionRange: 30
   meleeStopRange: 1.2
   rangedStopRange: 5
   playerTransform: {fileID: 0}

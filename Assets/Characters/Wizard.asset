@@ -15,10 +15,11 @@ MonoBehaviour:
   characterClass: 0
   characterName: Wziard
   characterSprite: {fileID: -7025190904974764876, guid: ddde1b7a0eabde749abcd869d33ff5c1, type: 3}
-  characterDescription: 'Special Ability: Arcane Surge'
-  moveSpeed: 5
+  characterDescription: 'Special Ability: Arcane Surge - Higher fire rate and ranged
+    damage'
+  moveSpeed: 7
   mobilityMultiplier: 1
   maxHealth: 100
-  baseMeleeDamage: 20
-  baseRangedDamage: 15
+  baseMeleeDamage: 15
+  baseRangedDamage: 5
   weaponSpriteOverrides: []

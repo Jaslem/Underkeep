@@ -15,10 +15,11 @@ MonoBehaviour:
   characterClass: 3
   characterName: Barbarian
   characterSprite: {fileID: -4478584339184222239, guid: ddde1b7a0eabde749abcd869d33ff5c1, type: 3}
-  characterDescription: 'Special Ability: Barbaric Rage'
+  characterDescription: 'Special Ability: Barbaric Rage - Dmg reduction + higher
+    melee dmg'
   moveSpeed: 10
   mobilityMultiplier: 1
   maxHealth: 150
   baseMeleeDamage: 20
-  baseRangedDamage: 1
+  baseRangedDamage: 5
   weaponSpriteOverrides: []

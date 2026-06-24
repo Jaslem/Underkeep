@@ -15,10 +15,11 @@ MonoBehaviour:
   characterClass: 2
   characterName: Rogue
   characterSprite: {fileID: 1649707301493195207, guid: ddde1b7a0eabde749abcd869d33ff5c1, type: 3}
-  characterDescription: 'Special Ability: Shadowstep'
+  characterDescription: 'Special Ability: Shadowstep - Higher i-frames for dodges
+    and high melee attack dmg'
   moveSpeed: 20
   mobilityMultiplier: 1
   maxHealth: 100
-  baseMeleeDamage: 20
-  baseRangedDamage: 15
+  baseMeleeDamage: 13
+  baseRangedDamage: 8
   weaponSpriteOverrides: []

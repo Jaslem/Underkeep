@@ -48,6 +48,7 @@ GameObject:
   - component: {fileID: 2136292403332859098}
   - component: {fileID: -3568272449491789873}
   - component: {fileID: 8622582322452708559}
+  - component: {fileID: 8333026323906590721}
   m_Layer: 0
   m_Name: GreenSlime
   m_TagString: Enemy
@@ -271,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54dccd0a34caf85418cec4433e46e492, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleMeleeEnemy
-  detectionRange: 8
+  detectionRange: 30
   attackRange: 1
   attackDamage: 10
   attackCooldown: 1
@@ -290,6 +291,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAppearance
   animatorOverride: {fileID: 22100000, guid: 4f4ec70ce2d6a554697c8cf4d8cc58a5, type: 2}
+--- !u!114 &8333026323906590721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3357396812773824955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f3de692b910ee4b9385b5ee5e0cde0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitEffect
+  flashDuration: 0.1
 --- !u!1 &5252695630679539594
 GameObject:
   m_ObjectHideFlags: 0
